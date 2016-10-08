@@ -2,6 +2,7 @@
 title: The Stone of Snow-Throat
 date: 2013-10-15T13:32:14 -0400
 reddit: 1oihxh
+tags: metaphysics, towers
 ---
 
 We’ve been hunting this one for a long time, but I am reasonably confident
@@ -103,3 +104,21 @@ extrapolating and could be horribly wrong.
 >Oct 15 22:49:07 `<+OPG>` What are the Stones of Crystal-Like-Law, Falinesti,
 and Orichalc?
 >Oct 15 22:49:52 `<%MK>`  CLL: A person. F: a fruit. O: a sword.
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+MK’s info dumps on `#memospore` gave us an awful lot to work with. That little
+storm was responsible for things such as my *Aurbis Musicolor* posts, spurred
+*The Numidiad*, caused a whole slew of threads on the Amaranth concept, and more
+besides.
+
+One of the reveals touched on the Stone of Snow-Throat, a mystery we had been
+puzzling over since *Skyrim*’s release. Nobody was really sure how Snow-Throat
+had been broken during the course of the game, and this revelation was unhelpful
+at first because there isn’t a cave on the peak.
+
+/u/RottenDeadite casually dropped Jung’s Cave story on us one day, and I took
+that and ran with it. Kind of stole his thunder there. I don’t think we ever
+heard if my interpretation was correct or not, but I figure it’s safe to use
+this until proven otherwise.
+</aside>

@@ -2,6 +2,7 @@
 title: Orcish Colonies of the Iliac Hinterlands
 date: 2014-09-07T15:48:06 -0400
 reddit: 2gouvd
+tags: apocrypha, orcs, worldbuilding
 ---
 
 Orcs have long been sighted in the wilderness surrounding the Iliac Bay,
@@ -198,3 +199,18 @@ they should not be underestimated, as many a man, confident in his modern armor
 and weaponry and training, has discovered.
 
 —Anaximander
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+I wrote this as an entry for an /r/teslore Topic of the Week challenge. Despite
+appearances and some speculation to the contrary, this was an entirely original
+piece not in the works prior to said challenge being posted. That said, it is
+based partly on work I had been doing for my *Orsinium Novum* project, which at
+this rate will probably never see the light of day.
+
+I’ve unofficially adopted the pseudonym “Anaximander”as my in-universe scholarly
+personal. Anaximander is an Imperial Geographic Society scholar, and I do my
+best to keep him from being an Orc fanboy despite my own leanings. He’s somewhat
+like an anthropologist, in that he finds Orcish culture interesting to study,
+but he absolutely wouldn’t go native.
+</aside>

@@ -2,6 +2,7 @@
 title: Orcish Naming Customs
 date: 2013-01-03T23:27:42 -0500
 reddit: 15xkxu
+tags: orcs, worldbuilding
 ---
 
 # Overview
@@ -82,3 +83,10 @@ Krognaz gro-Makoza, is male for the given name and female for the surname. I
 don’t know how well that came across, but I’m rather proud of it.
 
 [uesp]: http://www.uesp.net/wiki/Lore:Orc_Names
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+This resulted from my work in the Tamriel Scholars’s Guild. I don’t like weak
+names, so I put some thought into how to make a real-sounding Orcish name, and
+came up with this.
+</aside>

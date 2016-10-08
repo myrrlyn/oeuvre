@@ -2,6 +2,7 @@
 title: "Aurbis: The Musical"
 date: 2013-10-21T23:30:08 -0400
 reddit: 1oybze
+tags: apocrypha, metaphysics
 ---
 
 Foreword: [play this song](http://www.listenonrepeat.com/watch?v=hYMseN4XzxI) as
@@ -244,3 +245,77 @@ There is a [sequel](http://redd.it/1p1fip).
 
 [wheel-tone-c]: ./images/wheel-tones-c.png
 [wheel-tone-d]: ./images/wheel-tones-d.png
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+This is probably the text for which I am most well known. Which is somewhat
+ironic, since I set out to be the Orc guy and am not a music theorist. Despite
+my repeated entreaties for people to *not* use it as a foundation for their own
+thoughts, though, I’ve seen it used as a base reference for numerous other posts
+and it’s virtually guaranteed to get referenced whenever the topic comes up. Oh
+well.
+
+Still, I made this up out of whole cloth and no sleep. I feel obligated to have
+that disclaimer posted. It gets even wilder for the sequel.
+
+The inspiration for these two posts came from some MK stories on `#memospore`;
+I’ve included them below for reference.
+
+____
+
+>Tamriel<br />
+>Starry Heart<br />
+>That whole fucking thing is a song<br />
+>It was made either out of 12 planets<br />
+>or from two brothers that split in the womb<br />
+>either way, it’s the primal wail<br />
+>and those that grew up on it<br />
+>they can’t help but hear it<br />
+>and add to it<br />
+>or try to control it<br />
+>or run from it<br />
+>the reason there IS music on Tamriel at ALL<br />
+>is because it exists<br />
+>it was and is<br />
+>and it will not stop<br />
+>there are repeats in it<br />
+>plays on a tune<br />
+>variations<br />
+>and most likely<br />
+>Magnus?<br />
+>he’s the one that made the fucker<br />
+>and now that’s why he looks back on it<br />
+>every single day<br />
+>that’s his promise<br />
+>when you wake up, I will still listen<br />
+>I’m sorry I left<br />
+>but hey<br />
+>I’m still right up here<br />
+>And my mnemoli? They show up every now and then.<br />
+>and collect all the songs you’ve made since the last time around<br />
+>the last real moment<br />
+>The Mnemoli?<br />
+>They’re the keepers of the Elder Scrolls.<br />
+>They cannot be fixed until seen.<br />
+>And they cannot be seen until a moent.<br />
+>And you, your hero, makes that moment.
+
+____
+
+Q: In musical terms, would you say that the Void is subgradiated noise, pure
+silence, or something else entirely?
+
+>A: I would say it’s deafness. Which is why people that travel there get
+sensorily unraveled. Wait, better: try not to imagine a world without music.
+
+Q: Could the Towers be construed as Tuning Forks, given your music statement
+yesterday?
+
+>A: yes, maybe. more like maestros
+
+Q: How does the Sharmat’s line I AM OLDER THAN MUSIC tie in with the concept of
+Music as a fundamental element of the world?
+
+>A: Nice one. He’s ego-trippin’ and balls-trippin’ at the same time. Remember,
+that quote is from the Sermons. Consider the source.
+</aside>

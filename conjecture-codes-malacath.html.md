@@ -2,6 +2,7 @@
 title: Conjecture on the Codes of Malacath
 date: 2012-12-27T13:46:41-0500
 reddit: 15j34k
+tags: orcs, worldbuilding
 ---
 
 The Code of Malacath is a set of unwritten rules passed through the Orcish
@@ -133,3 +134,11 @@ the most man-kin of the mer-folk and are seen by themselves, men, and mer as
 more aligned with man than elf. However, the practices I describe in
 Malacath’s Codes are likely inspired by or drawn from their pre-transformation
 existence as Aldmer sundered from their former divine state.
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+I wrote this piece during an information trawl for my RPG character. Its age is
+pretty evident, both in writing style and content.
+
+Covering up old awkwardness is a sign of weakness. We all started somewhere.
+</aside>

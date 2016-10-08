@@ -2,6 +2,7 @@
 title: Souls and Arkay’s Shadow
 date: 2013-01-17T13:26:52 -0500
 reddit: 16riq2
+tags: metaphysics
 ---
 
 There are two types of souls, black and white. Black are the ten playable races
@@ -98,3 +99,12 @@ did for the intro. I really spit it out in a time crunch. Class in fifteen, now.
 I guess the first part had a lot of research to it.
 
 Discuss.
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+I don’t remember why I wrote this. I assume it was based on a discussion about
+how soul colors worked.
+
+It’s not in the teslore Compendium, for good reason. I think I was right about
+the concept, though, so I want to keep it around until it gets rewritten.
+</aside>

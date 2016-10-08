@@ -2,6 +2,7 @@
 title: On Orsimeri Family Life
 date: 2013-09-22T10:20:55 -0400
 reddit: 1mw7f5
+tags: orcs, worldbuilding
 ---
 
 (Author’s Note: First off, I have always wanted to use the phrase Author’s Note
@@ -121,3 +122,23 @@ communal structure far outstrips the individual family in this regard.
 Furthermore, the Orcish family bond is a near-unbreakable force, and it has been
 frequently documented that to foolishly attack one Orc is to invite the fury of
 his whole family.
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+I love *Skyrim*. It’s what got me into *The Elder Scrolls* in the first place,
+it has a great deal of Orc lore (surpassed only recently by ESO), and has a lot
+more depth and wonder than many people in the lore community thought at first
+blush.
+
+I will **never** forgive Bethesda for what they did to the Orcish family with
+their snippets about Chiefs and marriages.
+
+I have ranted in comments about how that concept, of few patriarchal lines and
+severely restricted breeding, is atrocious and unable to support Orcish life. I
+do not feel the need to do so in a formal essay. However, detractions mean
+nothing without alternatives.
+
+This is my take on what Orcish family lives could and should be. It was written
+long before ESO came out, so gloss over the outdated information such as Orcs
+only living in five places.
+</aside>

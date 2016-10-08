@@ -2,6 +2,7 @@
 title: The Words of Oztrakos
 date: 2014-11-26T14:18:19 -0500
 reddit: 2ni654
+tags: apocrypha, creation, metaphysics, orcs, religion, worldbuilding
 ---
 
 # WANDERING ON THE PLAINS
@@ -152,3 +153,18 @@ rugged. And they knew there was no going back.
 [words-1]: https://redd.it/2ni654
 [words-2]: https://redd.it/2nlb35
 [words-3]: https://redd.it/2nptag
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+As part of my mythical *Orsinium Novum* project, I’ve created some new religions
+(though I guess it’s technically one religion with a schism and a heresy).
+
+Every good religion needs a genesis story, so I wrote one for the Orcs.
+
+The prophet Oztrakos, founder of the Oztraki faith, is similar to Moses. He is
+believed to have led the Orcish people out of bondage and into wilderness exile,
+and spoke the first tenets of their faith.
+
+Yes, his name is a **blatant** rip-off of the Greek word *ostrakon*. I am not a
+subtle man.
+</aside>

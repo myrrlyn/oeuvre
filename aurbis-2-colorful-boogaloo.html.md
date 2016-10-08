@@ -2,6 +2,7 @@
 title: "Aurbis 2: Colorful Boogaloo"
 date: 2013-10-23T05:02:22 -0400
 reddit: 1p1fip
+tags: apocrypha, metaphysics
 ---
 
 # Introduction
@@ -182,3 +183,12 @@ Those lines are DEFINITELY why I wrote these.
 [tau]: https://tauday.com/tau-manifesto
 [wheel-tones]: ./images/wheel-tones-c.png
 [wheel-color]: ./images/wheel-color-c.png
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+The momentum from the previous post on Music carried me into messing with Color
+as well. This one is even more made up than the last.
+
+MK is actually color/sound synæsthetic, so having him find this piece acceptable
+was a huge relief. Me, I’m partially colorblind.
+</aside>

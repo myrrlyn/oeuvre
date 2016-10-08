@@ -2,6 +2,7 @@
 title: Anchors Aweigh
 date: 2014-02-18T14:05:57 -0500
 reddit: 1y9jxz
+tags: eso, story
 ---
 
 I awoke in a cell. It wasn’t the pretty, gradual awakening of one returning from
@@ -260,3 +261,21 @@ In a brief, frightening moment of calm, I muttered, “Good thing I’m already
 dead.”
 
 And then I slammed into the ground.
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+I forgot I wrote this, honestly. It’s submitted under an alt account – I think
+the reason I wrote it, and submitted it anonymously, was due to a discussion
+about whether certain people’s posts were being upvoted because they were good,
+or because that person was popular. Since by the time I wrote this, I had also
+written such hits as *The Numidiad* and *Aurbis: The Musical* I figured I would
+be as good a candidate as any to try such an experiment.
+
+Granted, this piece turned out to be *nothing* like my other work, but it was
+well received on IRC and got an okay, if muted, reception on /r/teslore. I don’t
+think anyone read it and then realized I was the author, and I don’t remember if
+I ever owned up to it in public.
+
+Considering it’s a dramatization of the ESO opening sequence, and absolutely has
+to happen to a character with zero defining traits, I think it went pretty well.
+</aside>

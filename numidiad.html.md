@@ -2,6 +2,7 @@
 title: The Numidiad
 date: 2013-11-26T20:06:47-0500
 reddit: 1rglj6
+tags: apocrypha, dragon break, numidium, story
 ---
 
 # Second Era
@@ -977,3 +978,26 @@ against the Void, the Numidium flings itself from Nirn and erupts into the sky.
 
 [c0da]: http://c0da.es
 [squish]: ./images/prophet-4.png "Credit: Minttu Hynninen"
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+This is by far the largest piece I’ve published, and without a doubt one of my
+most notable. I still get the occasional ping about it to this day, and I’ve
+even seen a professionally printed copy, so I’m technically a published author.
+
+I wrote the first draft of this piece as a response to a post by /u/Mr_Flippers
+about what might have happened in other shards of the world during the Dragon
+Break caused by Tiber Septim’s conquest. Other folks liked my responses, so I
+reworked it as a full story. At the time, there was a 10k character limit on
+submissions, so I posted it in five parts with a short introductory post. The
+link above is to that post, which itself contains a link to the origin comment.
+
+I desigend pieces of *The Numidiad* to explicitly refer to MK’s `C0DA` stories,
+and after [`C0DA`][c0da] itself was released in February 2014, I realized I
+could easily link this story to his own. To that end, I released a sixth part of
+five, titled *Numidiad | `C0DA`*, which in retrospect I kind of regret. It’s…
+not great. Actually, it’s fanfiction-squared. The campiness only increased when
+I realized I could play with fonts.
+
+I stand by the main body of the work, though.
+</aside>

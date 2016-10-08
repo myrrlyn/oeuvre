@@ -2,6 +2,7 @@
 title: Analyzing the ja-Kha’jay
 date: 2013-11-28T15:11:03 -0500
 reddit: 1rnyrg
+tags: khajiit, metaphysics
 ---
 
 The mechanics of Khajiit subspecies morphology has been a semi-mysterious topic
@@ -118,3 +119,14 @@ I hope the information here has been useful, or at least interesting, and sheds
 some more light on the workings of the ja-Kha&rsquo;jay.
 
 [gdoc]: https://drive.google.com/file/d/0B1y-sXRShwzjc2pjTEFIcGFJMGM/edit?usp=sharing
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+Once upon a time on IRC, we got to talking about how, exactly, the lunar cycles
+affected Khajiit birth patterns.
+
+To make matters worse, MK had dropped a hint that there might be more than the
+sixteen known forms, possibly up to 24.
+
+So naturally we fired up the bullshit factory and set to work.
+</aside>

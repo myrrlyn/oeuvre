@@ -2,6 +2,7 @@
 title: An Introductory Report on the Orcish Language
 date: 2014-03-11T10:34:33 -0400
 reddit: 2052ht
+tags: apocrypha, orcs, worldbuilding
 ---
 
 As per your request, I have striven to learn what I can about the Orcs’
@@ -105,3 +106,20 @@ with respect to their language.
 [gro-gra]: ./images/orcish-gro-gra.png "Gro and Gra"
 [orsinium]: ./images/orcish-orsinium.png "Orsinium Novum"
 [strongholds]: ./images/orcish-strongholds.png "Strongholds"
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+There was a teslore Challenge of the Week on languages, so I whipped this up
+over lunch. I don’t believe there’s yet any official word on an Orcish written
+language, so I felt rather safe at the time I wrote this to invent one for them.
+
+I am very much **not** a linguist, and have no background whatsoever in working
+with constructed languages, spoken or written. I based this off of Futhark runic
+scripts, reasoning that Orcs are in a similar physical situation of carving in
+stone or clay with chisels and would therefor prefer a script that does not
+require complex shapes or curves. The simplicity of the glyphs allows for easy
+and reliable engraving, stamping, or carving.
+
+The reference to the Tradeyards is for my *Orsinium Novum* project. I’ll have to
+put some of my work up eventually for the context to make sense.
+</aside>

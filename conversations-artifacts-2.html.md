@@ -2,6 +2,7 @@
 title: "Conversations with Daedric Artifacts, Volume II: Volendrung and Scourge"
 date: 2015-09-10T04:48:22 -0400
 reddit: 3kdfhd
+tags: apocrypha, story
 ---
 
 As it happens, the Orcs in Skyrim are literally stuffed into the corners of the
@@ -775,3 +776,23 @@ definitely saw his central gemstone glowing a happy yellow.
 Scourge paused, seeming nostalgic.
 
 ## They would make fine Orcs.
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+This one is /u/IceFireWarden’s fault. He cooked up an idea for a series of
+travelogues, where various members of the lore community with some renown would
+write pieces about the Daedric Prince with whom they were most familiar.
+
+Since I’m “the Orc guy”, I got Malacath. I didn’t know much about Scourge, as it
+didn’t appear in *Skyrim* (the one game I’ve really played), but I did my best.
+
+IFW and I had some previous in– and out– of-character spats about the dynamics
+between Malacath and Peryite, of whom IFW is a huge fan. This *may* have spurred
+some of my writing choices. I also tried to keep Spellbreaker close to the
+character it had in Volume I. Unfortunately, I’m no longer sure that the
+original text of Volume I exists. If I can find a copy, I will host it here for
+archival purposes.
+
+I don’t think there was ever a Volume III, either, which leaves this piece
+standing awkwardly on its own. Fitting, since it’s about Malacath.
+</aside>

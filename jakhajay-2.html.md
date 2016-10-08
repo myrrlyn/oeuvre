@@ -2,6 +2,7 @@
 title: Further Conjecture on the ja-Kha’jay
 date: 2013-11-30T07:13:41 -0500
 reddit: 1rrqui
+tags: khajiit, metaphysics
 ---
 
 (Before we begin, I’d like to take this opportunity to deconstruct the
@@ -86,3 +87,11 @@ meaningless without the foundation work they put in.
 [wolfram-m]: http://www.wolframalpha.com/input/?i=Plot%5BSin%5BPi*%28x%2F10-.5%29%5D%2C+%7Bx%2C+0%2C+80%7D%5D
 [wolfram-s]: http://www.wolframalpha.com/input/?i=Plot%5BSin%5BPi*%28x%2F8-.5%29%5D%2C+%7Bx%2C+0%2C+80%7D%5D
 [wolfram-ms]: http://www.wolframalpha.com/input/?i=Plot%5BSin%5BPi*%28x%2F10-.5%29%5D+%2B+Sin%5BPi*%28x%2F8-.5%29%5D%2C+%7Bx%2C+0%2C+80%7D%5D
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+This is a continuation of my first post about the ja-Kha’jay, with more math and
+inventiveness. I plan on embedding the tables and graphs into this document, but
+that’s a rather low priority. The GDoc sheet has lasted this long; I’ll try to
+keep it around a while longer.
+</aside>

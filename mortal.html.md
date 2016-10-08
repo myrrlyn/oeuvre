@@ -2,6 +2,7 @@
 title: Mortal
 date: 2013-12-31T16:53:51 -0500
 reddit: 1u4b55
+tags: apocrypha, orcs, story
 ---
 
 He blinked as he stumbled back, dazed. His arm throbbed from the force of the
@@ -311,3 +312,18 @@ Mother repeated the question. “What are you going to call him, sister?”
 Shaf smiled up at them and hugged her baby close.
 
 **“Ghalurok.”**
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+This particular piece is a bit of an oddity for me. It’s neither scholarly (in
+the loose, /r/teslore sense of the word) nor esoteric. It’s the first (and for a
+long while, only) down-to-earth, truly Mundane, slice of life piece I’ve written
+that wasn’t meant to be part of a larger body of work.
+
+I briefly considered doing a sequel, like *Ender’s Shadow* to *Ender’s Game*,
+but it never went anywhere.
+
+I’m proud of (nearly) all my writings. I’ll even brag about some of them. But
+this is the piece that I love most. I hope that reading it will help you
+understand what it is I see in Tamriel’s Orcs, and why it is I love them so.
+</aside>

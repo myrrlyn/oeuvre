@@ -2,6 +2,7 @@
 title: A Bedtime Story About the Elves
 date: 2013-11-26T03:28:48 -0500
 reddit: 1rhg1f
+tags: apocrypha, elves, story
 ---
 
 “So, you want a story, eh? Hahah… Let’s see. Ah, you’ve heard enough of
@@ -114,3 +115,25 @@ world was stupid, but they couldn’t leave it, so now they just act all arrogan
 and they’s the Altmer.”
 
 “Go to sleep.”
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+This is the tale of a man telling his grandson a story. Imagine a mix between
+*The Princess Bride*'s narrator, and Marcus from *Borderlands*, set in Cyrodiil
+or Skyrim farm country.
+
+This post, like *The Numidiad*, was born as a comment on a [discussion post] by
+/u/Mr_Flippers. Unlike *The Numidiad*, this was received with way more
+enthusiasm than it deserved. (I’m actually proud of *The Numidiad*; this piece
+was a joke.)
+
+Also unlike *The Numidiad*, this spawned a plague of other Bedtime Stories About
+the Lore, which culminated in *A Bedtime Story About Bedtime Stories*. Just
+search the subreddit for bedtime stories. It was a rough time. I cannot
+apologize enough for the flood of <del>shitposting</del> bedtime storytelling
+that came of this.
+
+Just kidding. No ragrets.
+
+[discussion post]: https://redd.it/1n322k
+</aside>
