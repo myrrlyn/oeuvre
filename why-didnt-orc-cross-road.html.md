@@ -1,7 +1,8 @@
 ---
-title: ’"Why Didn’t the Orc Cross the Road?"’
+title: "“Why Didn’t the Orc Cross the Road?”"
 date: 2016-10-07T22:13:22 -0400
 reddit: 56ez7p
+tags: apocrypha, orcs, story
 ---
 
 It’s a joke in every tavern, taproom, bar, and brothel this side of the Niben.
@@ -163,3 +164,14 @@ slowing down as they passed under the gate. Strangely enough, the guards on foot
 didn’t seem to change stride.
 
 I wonder if the bookseller has anything on civil engineering.
+
+{::options parse_html_block="true" /}
+<aside id="about-text">
+There was a “Roads” weekly theme. Rather than write about roads, I elected to
+write about people talking about why Orcs don’t use roads.
+
+It wound up becoming my most highly voted piece of all time within a day, which
+kind of annoys me because this is not even close to my best work, but it also
+failed to make the Compendium, which annoys me further because I’m a narcissist
+like that.
+</aside>
