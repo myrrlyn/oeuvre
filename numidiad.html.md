@@ -680,9 +680,8 @@ ____
 ## Veloth
 
 <a href="http://theminttu.tumblr.com/">
-*![—squish][squish]*
+![—squish][squish]{:.right}
 </a>
-
 It has come down from the mountains, the gleaming shards of its skin freshly
 polished in Reason. The sun shines overhead, burning silently in the stillness
 of the day. The barrens before it stretch onwards, smoking and jagged from the
@@ -977,4 +976,4 @@ Belching steam, hissing and burning <span class="dwemeris">NOOOOOOOOOOOOO</span>
 against the Void, the Numidium flings itself from Nirn and erupts into the sky.
 
 [c0da]: http://c0da.es
-[squish]: http://aurbis.c0da.es/prophet/p/4.png "Credit: Minttu Hynninen"
+[squish]: ./images/prophet-4.png "Credit: Minttu Hynninen"

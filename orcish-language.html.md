@@ -41,11 +41,11 @@ course, are SH and TH which have their own symbols.
 
 - An alphabet primer
 
-    ![Alphabet Primer](http://i.imgur.com/o2DuCbb.png "Alphabet primer")
+    ![Alphabet Primer][alphabet]
 
 - The word “Cyrodiil”
 
-    ![Cyrodiil](http://i.imgur.com/Sw5fWtB.png "Cyrodiil")
+    ![Cyrodiil][cyrodiil]
 
     (Note: this provides an example of Orsimeris’ phonetic transliteration
     for words spelled in ways their language does not use. Literally, it reads
@@ -53,13 +53,13 @@ course, are SH and TH which have their own symbols.
 
 - The “Holy Name of Gortwog”
 
-    ![Holy Name of Gortwog](http://i.imgur.com/nbl6Nkv.png "Holy Name of Gortwog")
+    ![Holy Name of Gortwog][gortwog]
 
     (Go-rt-w-og gro Na-go-r-m)
 
 - The Skyrim Strongholds
 
-    ![Strongholds](http://i.imgur.com/slMPbPy.png "Strongholds")
+    ![Strongholds][strongholds]
 
     (From top to bottom: M-or Kh-a-zg-ur, Du-sh-n-ikh Y-a-l, Na-rz-ul-b-ur,
     L-a-rg-a-sh-b-ur)
@@ -70,7 +70,7 @@ baselines as well. The arc of the R serves double duty for the vowel, which is
 turned orthogonally to the rest, giving a vertical baseline for A and horizontal
 for O, contrary to the usual practice.
 
-    ![gro and gra](http://i.imgur.com/KDRjKbX.png "gro and gra")
+    ![gro and gra][gro-gra]
 
 I hope to acquire more samples of Orcish script in the future, though as yet I
 have only seen these directly. The Orcish merchants and wise women with whom I
@@ -84,7 +84,7 @@ reasons of hubris. It is strange, then, that the Orcs adopted “Orsinium Novum�
 of the Cyrodiilic for the name of their new city, since Novum is *perfectly*
 rotationally symmetric.
 
-![Orsinium Novum](http://i.imgur.com/xpfsEme.png "Orsinium Novum")
+![Orsinium Novum][orsinium]
 
 Perhaps it is a mixture of chance (alternating baselines are impossible to
 compress) and pride in their new-built city, which remains frustratingly
@@ -98,3 +98,10 @@ demonstrating any skill in this regard, given their proclivities towards secrecy
 with respect to their language.
 
 —Anaximander
+
+[alphabet]: ./images/orcish-alphabet.png "Alphabet primer"
+[cyrodiil]: ./images/orcish-cyrodiil.png "Cyrodiil"
+[gortwog]: ./images/orcish-gortwog.png "Holy Name of Gortwog"
+[gro-gra]: ./images/orcish-gro-gra.png "Gro and Gra"
+[orsinium]: ./images/orcish-orsinium.png "Orsinium Novum"
+[strongholds]: ./images/orcish-strongholds.png "Strongholds"

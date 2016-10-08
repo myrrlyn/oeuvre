@@ -28,14 +28,14 @@ from Aurbis 1. The longest spokes represent the Aedra; the middle spokes are the
 Four Corners of the House of Troubles and the Three Good Daedra; the shortest
 spokes are the remaining Daedra.
 
-    ![Wheel of Gods and Tones][wheel-tones]
+    ![Wheel of Gods and Tones][wheel-tones]{:.ctr}
 
 - This is that same wheel, with colors mapped over it. The primary colors, red,
 green, and blue, are mapped to C♯, F, and A respectively (details below). I also
 capped the Aedra with white, the seven more interesting Daedra with gray, and
 the ten remaining Daedra with black, for distinction.
 
-    ![Wheel of Gods and Colors][wheel-color]
+    ![Wheel of Gods and Colors][wheel-color]{:.ctr}
 
 # Theory
 
@@ -180,5 +180,5 @@ Those lines are DEFINITELY why I wrote these.
 
 [sonochrome]: https://en.wikipedia.org/wiki/Sonochromatism
 [tau]: https://tauday.com/tau-manifesto
-[wheel-tones]: http://i.imgur.com/VMvZOfr.png
-[wheel-color]: http://i.imgur.com/fU7WPjq.png
+[wheel-tones]: ./images/wheel-tones-c.png
+[wheel-color]: ./images/wheel-color-c.png

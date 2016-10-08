@@ -169,12 +169,16 @@ n♯♭ is n, raised one-half, lowered one-quarter.
 
 Incidentally, if one makes this list into a wheel, with Aedric overtones as the
 longest spokes, the 7 Prominent Daedra with spokes of middling length, and the
-ten remaining Princes as the shortest spokes, one gets
-[this result](http://i.imgur.com/VMvZOfr.png). However, if we rotate so that D
-is our top, the [end result](http://i.imgur.com/PRRepUn.png) is reflectively
+ten remaining Princes as the shortest spokes, one gets this result:
+
+![][wheel-tone-c]{:.ctr}
+
+However, if we rotate so that D is our top, the end result is reflectively
 symmetric. D Major is incidentally commonly called the Heavenly Key in the
 Western music canon, and having Work in such a subtly special place is rather
 fitting in my opinion.
+
+![][wheel-tone-d]{:.ctr}
 
 # Lorkhan
 
@@ -237,3 +241,6 @@ ____
 Post-Script:
 
 There is a [sequel](http://redd.it/1p1fip).
+
+[wheel-tone-c]: ./images/wheel-tones-c.png
+[wheel-tone-d]: ./images/wheel-tones-d.png

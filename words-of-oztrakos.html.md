@@ -4,7 +4,9 @@ date: 2014-11-26T14:18:19 -0500
 reddit: 2ni654
 ---
 
-# WANDERING THE PLAINS
+# WANDERING ON THE PLAINS
+
+## [The First Words of Oztrakos][words-1]
 
 On the First Dawn, the Sun rose over an empty plain of barren stone. No wind
 raced across this plain, for there was no wind. No water trickled down this
@@ -50,6 +52,8 @@ the harsh barrenness of the empty rock and knew that there, WE CANNOT BE.
 
 # DIGGING TO THE CAVE
 
+## [The Second Words of Oztrakos][words-2]
+
 The clans moved into the Mountain, digging beneath its skin and carving out
 homes and warrens in the rock.
 
@@ -84,7 +88,9 @@ the chief of the settled ones, and they both became so furious with the other
 for being stubborn stupid that they started fighting, and then their clans went
 to war as well.
 
-# THE FIRST WAR
+# THE FIRST OF WARS
+
+## [The Third Words of Oztrakos][words-3]
 
 The war went on for a long time, and the Sun turned many times and the light it
 cast through the holes riddling the mountain spun and danced to follow, and
@@ -142,3 +148,7 @@ they had to be strong, so he roared through and his people heard his voice and
 stood up. And when they did, they found that they too had changed. They were no
 longer soft and pretty and graceful and fair; they were hardy and strong and
 rugged. And they knew there was no going back.
+
+[words-1]: https://redd.it/2ni654
+[words-2]: https://redd.it/2nlb35
+[words-3]: https://redd.it/2nptag
