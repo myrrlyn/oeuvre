@@ -100,6 +100,6 @@ extrapolating and could be horribly wrong.
 
 `%Void_Ghost` is Michael Kirkbride.
 
->Oct 15 22:49:07 <`+OPG`> What are the Stones of Crystal-Like-Law, Falinesti,
+>Oct 15 22:49:07 `<+OPG>` What are the Stones of Crystal-Like-Law, Falinesti,
 and Orichalc?
->Oct 15 22:49:52 <`%MK`>  CLL: A person. F: a fruit. O: a sword.
+>Oct 15 22:49:52 `<%MK>`  CLL: A person. F: a fruit. O: a sword.
