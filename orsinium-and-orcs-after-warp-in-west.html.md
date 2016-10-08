@@ -33,7 +33,7 @@ ability. The animal over here can track and kill things, and the animal over
 there can bash metal and make it come out strong. Both may be used, but neither
 is trusted in the house.
 
-By the time the Blades agent ventured forth to the Iliac Bay, a leader had risen
+By the time the Blades Agent ventured forth to the Iliac Bay, a leader had risen
 among the Orcs. Gortwog gro-Nagorm unified his people and managed to reforge
 Orsinium (Aldmeri word for Pariah Town). Gortwog was contending with the
 kingdoms of High Rock and Hammerfell to have Orsinium become a kingdom in its

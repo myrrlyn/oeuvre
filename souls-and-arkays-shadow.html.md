@@ -58,7 +58,7 @@ Arkay is shadowing the black-souled creatures from something. I don’t know wha
 You’re welcome to speculate. White souls are linked more closely to the original
 spirits. Black souls are standing in his shadow. They grow there. Flourish. Like
 mushrooms or an illness. Having a black soul is the sign of having “grown up.”
-aving changed from being an “innocent,” (really an awful word choice there, but
+Having changed from being an “innocent,” (really an awful word choice there, but
 try and follow what I actually meant, I guess) being, one which interacts simply
 with the world and does not work beyond the creature’s purpose in the grand
 scheme.
@@ -66,7 +66,7 @@ scheme.
 Men and Mer have black souls because they are independent. They follow their own
 variable whims. They aren’t cogs in the clockwork mechanism of nature. They are
 wrenches in all of the works. They are unpredictable, detrimental, manipulative,
-consumers. They change the world. Rip part of it town and construct their own.
+consumers. They change the world. Rip part of it down and construct their own.
 They change it to suit their whim.
 
 They are the Lorkhan of this subgradient. Too dramatic? Okay. But you see my
