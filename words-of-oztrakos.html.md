@@ -215,7 +215,18 @@ lives echo everlasting in the stone of the world.
 As part of my mythical *Orsinium Novum* project, I’ve created some new religions
 (though I guess it’s technically one religion with a schism and a heresy).
 
-Every good religion needs a genesis story, so I wrote one for the Orcs.
+Every good religion needs scripture, so I’m writing one for the Orcs. The first
+three Words are the creation myth; the last Word is part of the destruction
+myth.
+
+A common discussion I see concerning TES’s kalpic cycles is about whether the
+regular ending and rebirth of the world in new ways is a good thing or not, and
+if it’s something the inhabitants of the world should fear or try to avoid. I
+contend that the nature of the Aurbis mandates conflict, regression, and kalpic
+cycles, and that their presence is part of what makes the *Elder Scrolls* story
+so beautiful. My goal with The Final Words was to try to convey that in universe
+and provide some comfort and resolve to the people whose lives are going to be
+erased when the kalpa closes.
 
 The prophet Oztrakos, founder of the Oztraki faith, is similar to Moses. He is
 believed to have led the Orcish people out of bondage and into wilderness exile,
