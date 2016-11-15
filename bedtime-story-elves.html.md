@@ -119,7 +119,7 @@ and they’s the Altmer.”
 {::options parse_block_html="true" /}
 <aside id="about-text">
 This is the tale of a man telling his grandson a story. Imagine a mix between
-*The Princess Bride*'s narrator, and Marcus from *Borderlands*, set in Cyrodiil
+*The Princess Bride*’s narrator, and Marcus from *Borderlands*, set in Cyrodiil
 or Skyrim farm country.
 
 This post, like *The Numidiad*, was born as a comment on a [discussion post] by
