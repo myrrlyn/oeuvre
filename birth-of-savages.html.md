@@ -199,3 +199,29 @@ less of what she had lost.
 When they reached the great river, she thought only of her pack.
 
 When they came to the mountains, she thought only of the hunt.
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+I wrote this as a Challenge of the Week entry (for “Beginnings”), and to explore
+the Orcish moment of creation. The Dunmeri perspective, as recorded in *The*
+*Anticipations*, is that Trinimac’s followers rubbed the soil of him on
+themselves and changed their skins.
+
+I have always been interested in how the Orcs would go from being normal elves,
+with sapience and civilization, to the mindless monsters we meet in *Arena*. I
+wanted to explore what happens when a culture’s god dies in front of them, and
+doesn’t come back, as well as the lessons that might be taken from it. I think
+it’s especially fascinating how the Orcs changed so completely, yet also so
+little, as a result of this event. I hope that came through the way I imagined.
+
+----
+
+I didn’t start out with a plan for making a point about gender roles, and just
+flipped a coin for the three main characters. Although once Korosha turned out
+female, I think there’s definitely room for exploration in how the extreme
+sexual dimorphism in Orcs post-Transformation (given we see less of it in
+Altmer) affected their culture.
+
+I have no comment on whether she and Durnathar were a couple. Read that however
+you want.
+</aside>
