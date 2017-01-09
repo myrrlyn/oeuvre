@@ -2,7 +2,7 @@
 title: The Birth of Savages
 date: 2017-01-07T19:55:20 -0700
 reddit: 5mommo
-tags: beginnings, orcs
+tags: apocrypha, beginnings, orcs
 ---
 
 Silence.
