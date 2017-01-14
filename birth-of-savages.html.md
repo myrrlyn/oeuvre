@@ -4,7 +4,6 @@ date: 2017-01-07T19:55:20 -0700
 reddit: 5mommo
 tags: apocrypha, beginnings, orcs
 ---
-
 Silence.
 
 That was a rare thing, in her life, and never a good sign. In the army, only the
