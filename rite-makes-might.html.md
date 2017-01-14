@@ -2,6 +2,7 @@
 title: "Rite Makes Might"
 date: 2017-01-14T15:37:24 -0700
 reddit: 5o0any
+tags: apocrypha, orcs, topic of the week
 ---
 
 Stronger. We must be stronger. I must be stronger. How.
@@ -98,3 +99,16 @@ new are stronger. The pack is stronger. Larger. Better. The strongest lead. The
 middle follow. The weakest fall away.
 
 Good.
+
+{::options parse_block_html="true" /}
+<aside id="about-text">
+I really don’t like the chieftain lore in *Skyrim*, but, it’s apparently here to
+stay, so I might as well try to make it work.
+
+This is a direct sequel to *The Birth of Savages*. Dialogue alternates between
+Korosha and Vurnolamathel.
+
+Writing characters with intelligent thought but without complex language is
+*really* hard. The Orcs aren’t stupid, but they don’t have the language needed
+to express complex thought, not even in their own head.
+</aside>
