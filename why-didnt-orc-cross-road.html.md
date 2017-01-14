@@ -2,7 +2,7 @@
 title: "“Why Didn’t the Orc Cross the Road?”"
 date: 2016-10-07T22:13:22 -0400
 reddit: 56ez7p
-tags: apocrypha, orcs, story
+tags: apocrypha, orcs, story, topic of the week
 ---
 
 It’s a joke in every tavern, taproom, bar, and brothel this side of the Niben.

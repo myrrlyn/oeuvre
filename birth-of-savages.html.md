@@ -2,7 +2,7 @@
 title: The Birth of Savages
 date: 2017-01-07T19:55:20 -0700
 reddit: 5mommo
-tags: apocrypha, beginnings, orcs
+tags: apocrypha, orcs, topic of the week
 ---
 Silence.
 
@@ -139,8 +139,8 @@ to the pyre. She knelt, and dug her hands into the dirt.
 Below, her priests began to circle among the gathered throng. Discarded armor
 was collected, and the fires began.
 
-**“We are set free of wilfull ignorance!” Vurnolamathel cried, and covered her**
-**heart in mud. Her voice grew deeper, rougher.**
+**“We are set free of wilfull ignorance!”** Vurnolamathel cried, and covered her
+heart in mud. Her voice grew deeper, rougher.
 
 **“We are given understanding of truth, that our enemies will never reach!”**
 
