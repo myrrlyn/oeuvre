@@ -104,7 +104,7 @@ permeated her, crushing her.
 The helmet crunched beneath her foot. Her gauntlets fell next.
 
 **“We had thought that our enemies were liars and decievers, or themselves**
-**deceived. We had thought that we alone knew the world’s truth.**
+**deceived. We had thought that we alone knew the world’s truth.”**
 
 Her priests whispered among themselves. She knew that they knew the truth of
 things. That their god was truly gone, and that they were alone in the world.
@@ -133,8 +133,8 @@ Vurnolamathel threw her headdress onto the blazing altar.
 Vurnolamathel stepped out of her robe. Durnathar took it from her, and added it
 to the pyre. She knelt, and dug her hands into the dirt.
 
-**“We are washed clean of false pride!” she proclaimed, and with her left hand**
-**smeared mud over her face.**
+**“We are washed clean of false pride!”** she proclaimed, and with her left hand
+smeared mud over her face.
 
 Below, her priests began to circle among the gathered throng. Discarded armor
 was collected, and the fires began.
