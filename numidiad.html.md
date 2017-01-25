@@ -2,7 +2,11 @@
 title: The Numidiad
 date: 2013-11-26T20:06:47-0500
 reddit: 1rglj6
-tags: apocrypha, dragon break, numidium, story
+tags:
+- apocrypha
+- dragon break
+- numidium
+- story
 ---
 
 # Second Era

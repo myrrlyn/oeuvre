@@ -2,7 +2,9 @@
 title: "Aurbis: The Musical"
 date: 2013-10-21T23:30:08 -0400
 reddit: 1oybze
-tags: apocrypha, metaphysics
+tags:
+- apocrypha
+- metaphysics
 ---
 
 Foreword: [play this song](http://www.listenonrepeat.com/watch?v=hYMseN4XzxI) as

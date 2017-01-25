@@ -2,7 +2,9 @@
 title: Orsinium and the Orcs – After the Warp in the West
 date: 2012-12-18T07:06:11 -0500
 reddit: 151r8r
-tags: metaphysics, orcs
+tags:
+- metaphysics
+- orcs
 ---
 
 The Orsimer have appeared in all games. Initially (*Arena* and *Daggerfall*)

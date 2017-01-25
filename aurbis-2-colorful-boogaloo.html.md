@@ -2,7 +2,9 @@
 title: "Aurbis 2: Colorful Boogaloo"
 date: 2013-10-23T05:02:22 -0400
 reddit: 1p1fip
-tags: apocrypha, metaphysics
+tags:
+- apocrypha
+- metaphysics
 ---
 
 # Introduction

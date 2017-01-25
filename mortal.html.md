@@ -2,7 +2,10 @@
 title: Mortal
 date: 2013-12-31T16:53:51 -0500
 reddit: 1u4b55
-tags: apocrypha, orcs, story
+tags:
+- apocrypha
+- orcs
+- story
 ---
 
 He blinked as he stumbled back, dazed. His arm throbbed from the force of the

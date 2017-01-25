@@ -2,7 +2,9 @@
 title: The Stone of Snow-Throat
 date: 2013-10-15T13:32:14 -0400
 reddit: 1oihxh
-tags: metaphysics, towers
+tags:
+- metaphysics
+- towers
 ---
 
 We’ve been hunting this one for a long time, but I am reasonably confident

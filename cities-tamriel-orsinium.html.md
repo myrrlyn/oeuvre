@@ -2,7 +2,11 @@
 title: "Cities of Tamriel: Orsinium"
 date: 2014-01-11T05:26:38 -0500
 reddit: 1uybhq
-tags: apocrypha, orcs, worldbuilding, topic of the week
+tags:
+- apocrypha
+- orcs
+- worldbuilding
+- topic of the week
 ---
 
 Orsinium has existed in some form or another since history was first written in

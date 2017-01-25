@@ -2,7 +2,9 @@
 title: On Orsimeri Family Life
 date: 2013-09-22T10:20:55 -0400
 reddit: 1mw7f5
-tags: orcs, worldbuilding
+tags:
+- orcs
+- worldbuilding
 ---
 
 (Author’s Note: First off, I have always wanted to use the phrase Author’s Note

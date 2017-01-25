@@ -2,7 +2,9 @@
 title: Conjecture on the Codes of Malacath
 date: 2012-12-27T13:46:41-0500
 reddit: 15j34k
-tags: orcs, worldbuilding
+tags:
+- orcs
+- worldbuilding
 ---
 
 The Code of Malacath is a set of unwritten rules passed through the Orcish

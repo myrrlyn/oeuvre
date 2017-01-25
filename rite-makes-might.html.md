@@ -2,7 +2,10 @@
 title: "Rite Makes Might"
 date: 2017-01-14T15:37:24 -0700
 reddit: 5o0any
-tags: apocrypha, orcs, topic of the week
+tags:
+- apocrypha
+- orcs
+- topic of the week
 ---
 
 Stronger. We must be stronger. I must be stronger. How.

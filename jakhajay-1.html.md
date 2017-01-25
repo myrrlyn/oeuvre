@@ -2,7 +2,9 @@
 title: Analyzing the ja-Kha’jay
 date: 2013-11-28T15:11:03 -0500
 reddit: 1rnyrg
-tags: khajiit, metaphysics
+tags:
+- khajiit
+- metaphysics
 ---
 
 The mechanics of Khajiit subspecies morphology has been a semi-mysterious topic

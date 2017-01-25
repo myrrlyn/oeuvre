@@ -2,7 +2,9 @@
 title: Anchors Aweigh
 date: 2014-02-18T14:05:57 -0500
 reddit: 1y9jxz
-tags: eso, story
+tags:
+- eso
+- story
 ---
 
 I awoke in a cell. It wasn’t the pretty, gradual awakening of one returning from

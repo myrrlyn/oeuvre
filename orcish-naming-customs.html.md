@@ -2,7 +2,9 @@
 title: Orcish Naming Customs
 date: 2013-01-03T23:27:42 -0500
 reddit: 15xkxu
-tags: orcs, worldbuilding
+tags:
+- orcs
+- worldbuilding
 ---
 
 # Overview

@@ -2,7 +2,8 @@
 title: Souls and Arkay’s Shadow
 date: 2013-01-17T13:26:52 -0500
 reddit: 16riq2
-tags: metaphysics
+tags:
+- metaphysics
 ---
 
 There are two types of souls, black and white. Black are the ten playable races

@@ -2,7 +2,9 @@
 title: Further Conjecture on the ja-Kha’jay
 date: 2013-11-30T07:13:41 -0500
 reddit: 1rrqui
-tags: khajiit, metaphysics
+tags:
+- khajiit
+- metaphysics
 ---
 
 (Before we begin, I’d like to take this opportunity to deconstruct the

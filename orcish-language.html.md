@@ -2,7 +2,10 @@
 title: An Introductory Report on the Orcish Language
 date: 2014-03-11T10:34:33 -0400
 reddit: 2052ht
-tags: apocrypha, orcs, worldbuilding
+tags:
+- apocrypha
+- orcs
+- worldbuilding
 ---
 
 As per your request, I have striven to learn what I can about the Orcs’

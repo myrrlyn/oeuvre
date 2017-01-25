@@ -2,7 +2,10 @@
 title: A Bedtime Story About the Elves
 date: 2013-11-26T03:28:48 -0500
 reddit: 1rhg1f
-tags: apocrypha, elves, story
+tags:
+- apocrypha
+- elves
+- story
 ---
 
 “So, you want a story, eh? Hahah… Let’s see. Ah, you’ve heard enough of

@@ -2,7 +2,13 @@
 title: The Words of Oztrakos
 date: 2014-11-26T14:18:19 -0500
 reddit: 2ni654
-tags: apocrypha, creation, metaphysics, orcs, religion, worldbuilding
+tags:
+- apocrypha
+- creation
+- metaphysics
+- orcs
+- religion
+- worldbuilding
 ---
 
 # WANDERING ON THE PLAINS

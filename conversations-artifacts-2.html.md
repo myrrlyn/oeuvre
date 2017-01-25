@@ -2,7 +2,9 @@
 title: "Conversations with Daedric Artifacts, Volume II: Volendrung and Scourge"
 date: 2015-09-10T04:48:22 -0400
 reddit: 3kdfhd
-tags: apocrypha, story
+tags:
+- apocrypha
+- story
 ---
 
 As it happens, the Orcs in Skyrim are literally stuffed into the corners of the

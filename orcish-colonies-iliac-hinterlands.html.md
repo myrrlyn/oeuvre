@@ -2,7 +2,11 @@
 title: Orcish Colonies of the Iliac Hinterlands
 date: 2014-09-07T15:48:06 -0400
 reddit: 2gouvd
-tags: apocrypha, orcs, worldbuilding, topic of the week
+tags:
+- apocrypha
+- orcs
+- worldbuilding
+- topic of the week
 ---
 
 Orcs have long been sighted in the wilderness surrounding the Iliac Bay,
