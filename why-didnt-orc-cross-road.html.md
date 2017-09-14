@@ -169,8 +169,7 @@ didn’t seem to change stride.
 
 I wonder if the bookseller has anything on civil engineering.
 
-{::options parse_html_block="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 There was a “Roads” weekly theme. Rather than write about roads, I elected to
 write about people talking about why Orcs don’t use roads.
 

@@ -203,8 +203,7 @@ When they reached the great river, she thought only of her pack.
 
 When they came to the mountains, she thought only of the hunt.
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 I wrote this as a Challenge of the Week entry (for “Beginnings”), and to explore
 the Orcish moment of creation. The Dunmeri perspective, as recorded in *The*
 *Anticipations*, is that Trinimac’s followers rubbed the soil of him on

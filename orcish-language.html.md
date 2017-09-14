@@ -110,8 +110,7 @@ with respect to their language.
 [orsinium]: ./images/orcish-orsinium.png "Orsinium Novum"
 [strongholds]: ./images/orcish-strongholds.png "Strongholds"
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 There was a teslore Challenge of the Week on languages, so I whipped this up
 over lunch. I don’t believe there’s yet any official word on an Orcish written
 language, so I felt rather safe at the time I wrote this to invent one for them.

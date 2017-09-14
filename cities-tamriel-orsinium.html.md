@@ -149,8 +149,7 @@ blessing and a guard force to launch an archaeological expedition in Orsinium,
 in hopes that we may glean a more complete understanding of one of Tamriel’s
 oldest conflicts.
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 This was a Challenge of the Week entry, about “Cities of Tamriel” (obviously).
 
 It is written as a draft for the Orsinium entry of a new *Pocket Guide to the*

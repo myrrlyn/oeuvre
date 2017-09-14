@@ -248,8 +248,7 @@ There is a [sequel](http://redd.it/1p1fip).
 [wheel-tone-c]: ./images/wheel-tones-c.png
 [wheel-tone-d]: ./images/wheel-tones-d.png
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 This is probably the text for which I am most well known. Which is somewhat
 ironic, since I set out to be the Orc guy and am not a music theorist. Despite
 my repeated entreaties for people to *not* use it as a foundation for their own

@@ -107,8 +107,7 @@ extrapolating and could be horribly wrong.
 and Orichalc?
 >Oct 15 22:49:52 `<%MK>`  CLL: A person. F: a fruit. O: a sword.
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 MK’s info dumps on `#memospore` gave us an awful lot to work with. That little
 storm was responsible for things such as my *Aurbis Musicolor* posts, spurred
 *The Numidiad*, caused a whole slew of threads on the Amaranth concept, and more

@@ -125,8 +125,7 @@ Furthermore, the Orcish family bond is a near-unbreakable force, and it has been
 frequently documented that to foolishly attack one Orc is to invite the fury of
 his whole family.
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 I love *Skyrim*. It’s what got me into *The Elder Scrolls* in the first place,
 it has a great deal of Orc lore (surpassed only recently by ESO), and has a lot
 more depth and wonder than many people in the lore community thought at first

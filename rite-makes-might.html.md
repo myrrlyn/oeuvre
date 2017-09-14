@@ -103,8 +103,7 @@ middle follow. The weakest fall away.
 
 Good.
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 I really don’t like the chieftain lore in *Skyrim*, but, it’s apparently here to
 stay, so I might as well try to make it work.
 

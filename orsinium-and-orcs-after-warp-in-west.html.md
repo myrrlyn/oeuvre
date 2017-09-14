@@ -95,8 +95,7 @@ vicious and violent, the Dunmer are even more xenophobic, the Argonians as
 hostile to interlopers. Civilization is about clothes, metaphorically and
 literally. That is the gift of Gortwog.
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 This is my first published essay on the Orcs. It arose from research I did for
 my roleplaying character, Krognaz gro-Makoza.
 

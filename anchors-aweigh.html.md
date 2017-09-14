@@ -264,8 +264,7 @@ dead.”
 
 And then I slammed into the ground.
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 I forgot I wrote this, honestly. It’s submitted under an alt account – I think
 the reason I wrote it, and submitted it anonymously, was due to a discussion
 about whether certain people’s posts were being upvoted because they were good,

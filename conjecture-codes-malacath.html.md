@@ -137,8 +137,7 @@ more aligned with man than elf. However, the practices I describe in
 Malacath’s Codes are likely inspired by or drawn from their pre-transformation
 existence as Aldmer sundered from their former divine state.
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 I wrote this piece during an information trawl for my RPG character. Its age is
 pretty evident, both in writing style and content.
 

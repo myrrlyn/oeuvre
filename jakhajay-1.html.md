@@ -122,8 +122,7 @@ some more light on the workings of the ja-Kha&rsquo;jay.
 
 [gdoc]: https://drive.google.com/file/d/0B1y-sXRShwzjc2pjTEFIcGFJMGM/edit?usp=sharing
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 Once upon a time on IRC, we got to talking about how, exactly, the lunar cycles
 affected Khajiit birth patterns.
 

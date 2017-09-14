@@ -316,8 +316,7 @@ Shaf smiled up at them and hugged her baby close.
 
 **“Ghalurok.”**
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 This particular piece is a bit of an oddity for me. It’s neither scholarly (in
 the loose, /r/teslore sense of the word) nor esoteric. It’s the first (and for a
 long while, only) down-to-earth, truly Mundane, slice of life piece I’ve written

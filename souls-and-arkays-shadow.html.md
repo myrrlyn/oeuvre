@@ -101,8 +101,7 @@ I guess the first part had a lot of research to it.
 
 Discuss.
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 I don’t remember why I wrote this. I assume it was based on a discussion about
 how soul colors worked.
 

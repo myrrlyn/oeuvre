@@ -983,8 +983,7 @@ against the Void, the Numidium flings itself from Nirn and erupts into the sky.
 [c0da]: http://c0da.es
 [squish]: ./images/prophet-4.png "Credit: Minttu Hynninen"
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 This is by far the largest piece I’ve published, and without a doubt one of my
 most notable. I still get the occasional ping about it to this day, and I’ve
 even seen a professionally printed copy, so I’m technically a published author.

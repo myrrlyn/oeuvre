@@ -779,8 +779,7 @@ Scourge paused, seeming nostalgic.
 
 ## They would make fine Orcs.
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 This one is /u/IceFireWarden’s fault. He cooked up an idea for a series of
 travelogues, where various members of the lore community with some renown would
 write pieces about the Daedric Prince with whom they were most familiar.

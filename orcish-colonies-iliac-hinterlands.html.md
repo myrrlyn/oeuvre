@@ -204,8 +204,7 @@ and weaponry and training, has discovered.
 
 —Anaximander
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 I wrote this as an entry for an /r/teslore Topic of the Week challenge. Despite
 appearances and some speculation to the contrary, this was an entirely original
 piece not in the works prior to said challenge being posted. That said, it is

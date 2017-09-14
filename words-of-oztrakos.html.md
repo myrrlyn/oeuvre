@@ -216,8 +216,7 @@ lives echo everlasting in the stone of the world.
 [words-3]: https://redd.it/2nptag
 [words-4]: https://redd.it/56q5yr
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 As part of my mythical *Orsinium Novum* project, I’ve created some new religions
 (though I guess it’s technically one religion with a schism and a heresy).
 

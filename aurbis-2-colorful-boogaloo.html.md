@@ -186,8 +186,7 @@ Those lines are DEFINITELY why I wrote these.
 [wheel-tones]: ./images/wheel-tones-c.png
 [wheel-color]: ./images/wheel-color-c.png
 
-{::options parse_block_html="true" /}
-<aside id="about-text">
+<aside markdown="block" id="about-text">
 The momentum from the previous post on Music carried me into messing with Color
 as well. This one is even more made up than the last.
 
