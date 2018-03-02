@@ -13,179 +13,187 @@ tags:
 
 ## Construction
 
-*2E296, Midyear… <del>18</del> 19. Hall of the Colossus, outside Rimmen.*
+<div markdown="block" class="handwriting">
+2E296, Midyear… ~~18~~ 19. Hall of the Colossus, outside Rimmen.
 
-*It’s finished. Finally, we finished it. The Dunmer promised us a weapon as*
-*their bargain for the Armistice, but they didn’t tell us we had to put it*
-*together ourselves. Well, we did. All it needs now is a Heart. Tiber Septim*
-*himself arrived today, along with his battlemage and general, and tomorrow at*
-*dawn they begin the ceremony to wake it. Whatever **it** is. It’s just a*
-*statue, at the moment. A colossal, brass statue of a man. It has parts to*
-*move. We had to fit gears and pipes together endlessly. Whatever this does, I*
-*don’t know if we should be proud or ashamed. If you are reading this, know*
-*that we intended only the best. We intended to forge peace on the anvil of the*
-*world, with the hammer of the Numidium.*
+It’s finished. Finally, we finished it. The Dunmer promised us a weapon as their
+bargain for the Armistice, but they didn’t tell us we had to put it together
+ourselves. Well, we did. All it needs now is a Heart. Tiber Septim himself
+arrived today, along with his battlemage and general, and tomorrow at dawn they
+begin the ceremony to wake it. Whatever **it** is. It’s just a statue, at the
+moment. A colossal, brass statue of a man. It has parts to move. We had to fit
+gears and pipes together endlessly. Whatever this does, I don’t know if we
+should be proud or ashamed. If you are reading this, know that we intended only
+the best. We intended to forge peace on the anvil of the world, with the hammer
+of the Numidium.
+</div>
 
 # Third Era
 
 ## Activation
 
-*3E1. Midyear, I hope. Hall of the Colossus, I fear.*
+<div markdown="block" class="handwriting">
+3E1. Midyear, I hope. Hall of the Colossus, I fear.
 
-*Numidium awoke yesterday. We had to construct massive gantries to hold it as*
-*we built it; they used to be called the Halls of the Colossus. Now they will*
-*only be known as the Halls of the Folly, if the gods be kind. I fear that we*
-*have mishandled power too great for any mortal. The Dwemer built this*
-*monstrosity, and the price they paid was their extinction. Now we have awoken*
-*it, and what shall be extolled of us for it?*
+Numidium awoke yesterday. We had to construct massive gantries to hold it as we
+built it; they used to be called the Halls of the Colossus. Now they will only
+be known as the Halls of the Folly, if the gods be kind. I fear that we have
+mishandled power too great for any mortal. The Dwemer built this monstrosity,
+and the price they paid was their extinction. Now we have awoken it, and what
+shall be extolled of us for it?
 
-*The moment of its awakening was truly breathtaking. Tiber Septim, Zurin*
-*Arctus, and a great shaggy Nord whose name we never knew, stood on a platform*
-*in front of its chest. They held an object. There was a blinding flash of*
-*light, a deafening thunderclap, and it was awake. It didn’t move or change,*
-*but we knew. Gods help us, it was **awake.** Tiber stood triumphant in front*
-*of it. A harsh light shone through a gaping hole in Zurin’s chest before his*
-*body toppled to the sand below, and a cloud of ash hung in the air. Then we*
-*noticed what else happened. Clouds flashed across the sky around us, but on*
-*the far horizon we could see nothing wrong. Men grew old, or young, around us.*
-*Sometimes they flashed to skeletons and collapsed, and some shrunk to infants*
-*and vanished. Some had the changed years reverse. Some had their bodies pulled*
-*in different directions by the eddies of time. Fleeing across the sand took me*
-*to my youth and my old age and back, and my left half is that of a man twenty*
-*years my elder. I scribe this frantically, not trusting the sands any further.*
-*My papers, new-bought last month, crack with age. My ink dries in the pen.*
+The moment of its awakening was truly breathtaking. Tiber Septim, Zurin Arctus,
+and a great shaggy Nord whose name we never knew, stood on a platform in front
+of its chest. They held an object. There was a blinding flash of light, a
+deafening thunderclap, and it was awake. It didn’t move or change, but we knew.
+Gods help us, it was **awake.** Tiber stood triumphant in front of it. A harsh
+light shone through a gaping hole in Zurin’s chest before his body toppled to
+the sand below, and a cloud of ash hung in the air. Then we noticed what else
+happened. Clouds flashed across the sky around us, but on the far horizon we
+could see nothing wrong. Men grew old, or young, around us. Sometimes they
+flashed to skeletons and collapsed, and some shrunk to infants and vanished.
+Some had the changed years reverse. Some had their bodies pulled in different
+directions by the eddies of time. Fleeing across the sand took me to my youth
+and my old age and back, and my left half is that of a man twenty years my
+elder. I scribe this frantically, not trusting the sands any further. My papers,
+new-bought last month, crack with age. My ink dries in the pen.
 
-*It moved. By all the gods, the monster moved. It’s left the gantry. I don’t*
-*know where Tiber Septim is, but it’s headed for us.*
+It moved. By all the gods, the monster moved. It’s left the gantry. I don’t know
+where Tiber Septim is, but it’s headed for us.
 
-*Mother have mercy.*
+Mother have mercy.
+</div>
 
 ## Morrowind
 
-*3E1, Vvardenfell*
+<div markdown="block" class="handwriting">
+3E1, Vvardenfell
 
-*We call this the third era, now. The folly of the Cyrodiils marks a change for*
-*us all. We don’t know where the Cyrodiils found the Brass Walker, but rumor*
-*has it that our own Tribunal gave it to them. Surely this is barest*
-*falsehood. No God of ours would do this to the world, would they?*
+We call this the third era, now. The folly of the Cyrodiils marks a change for
+us all. We don’t know where the Cyrodiils found the Brass Walker, but rumor has
+it that our own Tribunal gave it to them. Surely this is barest falsehood. No
+God of ours would do this to the world, would they?
 
-*There is no time for doubts. Not that there is time for anything, or time,*
-*anymore. We hear that the Halls of the Colossus have the worst of it, but even*
-*here we feel the ripples of Septim’s Folly. Time rushes forward, then*
-*backward, and… we don’t know how to describe it. I’ve seen mer become thrice*
-*themselves, each following different paths of fate, then recombine in a*
-*catastrophic event using details from all three. My colleague married three*
-*different womer three different times, and now his wife is a grotesque mash up*
-*of them all. Was. She died immediately.*
+There is no time for doubts. Not that there is time for anything, or time,
+anymore. We hear that the Halls of the Colossus have the worst of it, but even
+here we feel the ripples of Septim’s Folly. Time rushes forward, then backward,
+and… we don’t know how to describe it. I’ve seen mer become thrice themselves,
+each following different paths of fate, then recombine in a catastrophic event
+using details from all three. My colleague married three different womer three
+different times, and now his wife is a grotesque mash up of them all. Was. She
+died immediately.
 
-*There’s no point in recounting this. Numidium came for us. **A** Numidium,*
-*anyway. We hear that there is fighting all across Tamriel. Numidium is not*
-*with us constantly; perhaps it roams the continent. How it moves so quickly we*
-*do not know. Perhaps it too split as did my colleague. Perhaps it is*
-*everywhere. Perhaps it alone knows the one path through the churned stream of*
-*Time to wander as it pleases, incomprehensible to us strewn like flotsam in a*
-*flood.*
+There’s no point in recounting this. Numidium came for us. **A** Numidium,
+anyway. We hear that there is fighting all across Tamriel. Numidium is not with
+us constantly; perhaps it roams the continent. How it moves so quickly we do not
+know. Perhaps it too split as did my colleague. Perhaps it is everywhere.
+Perhaps it alone knows the one path through the churned stream of Time to wander
+as it pleases, incomprehensible to us strewn like flotsam in a flood.
 
-*The mainland is lost. We pulled back to Vvardenfell, to the Ghostfence. There*
-*is an enemy inside, and they have blocked our Gods from their font of power.*
-*We must reclaim it. We face the scourge of Corprus, and monsters beyond our*
-*conception, but we must press on. There is no hope beyond the fire and ash of*
-*the Mountain.*
+The mainland is lost. We pulled back to Vvardenfell, to the Ghostfence. There is
+an enemy inside, and they have blocked our Gods from their font of power. We
+must reclaim it. We face the scourge of Corprus, and monsters beyond our
+conception, but we must press on. There is no hope beyond the fire and ash of
+the Mountain.
+</div>
 
 ## Skyrim
 
-*3E…*
+<div markdown="block" class="handwriting">
+3E…
 
-*How do we define a year anymore? The seasons are meaningless. They obey*
-*neither order nor regularity. Not even the sun can be relied upon for*
-*constancy. The only solidity left in the world is the ice.*
+How do we define a year anymore? The seasons are meaningless. They obey neither
+order nor regularity. Not even the sun can be relied upon for constancy. The
+only solidity left in the world is the ice.
 
-*Tiber Septim began as just one of us. He came from the west, fought with us,*
-*drank with us. Nobody thought him any different until the thunder spoke and*
-*called him to the mountain, to Hrothgar. People seek out the Greybeards*
-*regularly, but to have them <del>some</del> summon a man… unheard of, for*
-*ages.*
+Tiber Septim began as just one of us. He came from the west, fought with us,
+drank with us. Nobody thought him any different until the thunder spoke and
+called him to the mountain, to Hrothgar. People seek out the Greybeards
+regularly, but to have them ~~some~~ summon a man… unheard of, for ages.
 
-*Skyrim has always stood by her brothers to the south, and Tiber was no*
-*exception to this. When he moved south to build his empire, he did so with us*
-*at his back. Not all of us, at first, but Nords are never of a mind.*
+Skyrim has always stood by her brothers to the south, and Tiber was no exception
+to this. When he moved south to build his empire, he did so with us at his back.
+Not all of us, at first, but Nords are never of a mind.
 
-*This golem, though, he’s gone too far. I’m loyal to him, but I’m loyal more to*
-*my men and my home. This thing he has done… it is only destruction. There is*
-*no honor in fighting with metal that has no man wielding it. The others have*
-*all turned against us now, and we cannot stand for a man who employs so easily*
-*a soulless machine crafted by soulless elves.*
+This golem, though, he’s gone too far. I’m loyal to him, but I’m loyal more to
+my men and my home. This thing he has done… it is only destruction. There is no
+honor in fighting with metal that has no man wielding it. The others have all
+turned against us now, and we cannot stand for a man who employs so easily a
+soulless machine crafted by soulless elves.
 
-*Slept:* <s>////</s> <s>////</s> <s>////</s> <s>////</s> //
+Slept: ~~////~~ ~~////~~ ~~////~~ ~~////~~ //
 
-*Karl and Jormund wanted to head home to Karthwasten soon. I’m glad they stayed*
-*with us. We came across a family from the west. The Reach is a bloodbath. High*
-*Rock turned against us because of the Golem, and struck at our west. Some of*
-*the Reach natives sided with them and are calling themselves the Forsworn.*
-*Haafingar is sending warbands south to try and quell the worst of it, but the*
-*fighting is still going strong. We’re headed to Whiterun now. Hopefully*
-*someone there will know what we should do.*
+Karl and Jormund wanted to head home to Karthwasten soon. I’m glad they stayed
+with us. We came across a family from the west. The Reach is a bloodbath. High
+Rock turned against us because of the Golem, and struck at our west. Some of the
+Reach natives sided with them and are calling themselves the Forsworn. Haafingar
+is sending warbands south to try and quell the worst of it, but the fighting is
+still going strong. We’re headed to Whiterun now. Hopefully someone there will
+know what we should do.
+</div>
 
 ## High Rock
 
-*Sixth Campaign, outside Rorikstead*
+<div markdown="block" class="handwriting">
+Sixth Campaign, outside Rorikstead
 
-*The bloody Nords and their treacherous cousins the Cyrodiils unleashed hell on*
-*the world, and nobody else strikes against them. This is my sixth tour into*
-*Nordic territory, and each time we find less and less resistance to us. The*
-*hillfolk natives are increasingly violent, and have cycled through perhaps*
-*three or four governments since we invaded. They are at times helpful to us*
-*solely because we continue to strike into Skyrim, and at other times close*
-*their gates to us or even attack outright because we are not them. I do not*
-*expect them to last, but they are a useful tool to harry the province.*
+The bloody Nords and their treacherous cousins the Cyrodiils unleashed hell on
+the world, and nobody else strikes against them. This is my sixth tour into
+Nordic territory, and each time we find less and less resistance to us. The
+hillfolk natives are increasingly violent, and have cycled through perhaps three
+or four governments since we invaded. They are at times helpful to us solely
+because we continue to strike into Skyrim, and at other times close their gates
+to us or even attack outright because we are not them. I do not expect them to
+last, but they are a useful tool to harry the province.
 
-*We received word today that Numidium has turned its gaze upon the Iliac.*
-*Wayrest has been sacked, as have Alcaire County and, praise be the gods, that*
-*barbarian cesspit Orsinium. Our new orders are to pull back west, herding all*
-*the hillfolk we can into Markarth, and emptying the mines. The high mages*
-*believe that we may be able to use the silver to construct a defense against*
-*the Walking Brass. All I care about, though, is that we strip the Nords of*
-*wealth and bring it home with us. We’ll need it.*
+We received word today that Numidium has turned its gaze upon the Iliac. Wayrest
+has been sacked, as have Alcaire County and, praise be the gods, that barbarian
+cesspit Orsinium. Our new orders are to pull back west, herding all the hillfolk
+we can into Markarth, and emptying the mines. The high mages believe that we may
+be able to use the silver to construct a defense against the Walking Brass. All
+I care about, though, is that we strip the Nords of wealth and bring it home
+with us. We’ll need it.
 
-*Markarth*
+Markarth
 
-*We’ve been here for a month now, working the hillfolk nigh-continuously. The*
-*mines seem to never run low, and just as a vein of silver is depleted, rock*
-*shifts and another is exposed. Reports from Balfiera tell us that the island*
-*overflows with silver from the mines of this region, both Breton and seized*
-*Nordic. The mages are making progress on their project, but Tiber’s monster*
-*has for the time turned elsewhere. I pray that we will be ready when it*
-*returns.*
+We’ve been here for a month now, working the hillfolk nigh-continuously. The
+mines seem to never run low, and just as a vein of silver is depleted, rock
+shifts and another is exposed. Reports from Balfiera tell us that the island
+overflows with silver from the mines of this region, both Breton and seized
+Nordic. The mages are making progress on their project, but Tiber’s monster has
+for the time turned elsewhere. I pray that we will be ready when it returns.
+</div>
 
 ## Elsweyr
 
-*Intelligence Reports: Elsweyr*
+<div markdown="block" class="handwriting">
+Intelligence Reports: Elsweyr
 
-*The Khajiiti caravans all vanished soon after the Rimmen Event. Our agents in*
-*the northern towns gathered <del>rumors</del> these were shouted, not*
-*whispered, that the Event has given new significance to the moons, which play*
-*integral roles in Khajiiti culture. As we have seen, although seasons and*
-*years pass irregularly on the surface, the moons have remained constant in*
-*their cycles, as far as we can tell. How this affects the Khajiit is yet to be*
-*determined.*
+The Khajiiti caravans all vanished soon after the Rimmen Event. Our agents in
+the northern towns gathered <del>rumors</del> these were shouted, not whispered,
+that the Event has given new significance to the moons, which play integral
+roles in Khajiiti culture. As we have seen, although seasons and years pass
+irregularly on the surface, the moons have remained constant in their cycles, as
+far as we can tell. How this affects the Khajiit is yet to be determined.
 
-*Torval Station reports that massive numbers of Khajiit have flocked to the*
-*city, and more arrive every day. Hostility to foreigners grows and grows with*
-*their apprehension. They will not speak of it where we can hear, but it is*
-*apparent that their Mane has issued a proclamation demanding that all of*
-*Elsweyr’s population migrate south. Perhaps they hope that in the Pelletine*
-*jungles, they will be beyond Numidium’s reach.*
+Torval Station reports that massive numbers of Khajiit have flocked to the city,
+and more arrive every day. Hostility to foreigners grows and grows with their
+apprehension. They will not speak of it where we can hear, but it is apparent
+that their Mane has issued a proclamation demanding that all of Elsweyr’s
+population migrate south. Perhaps they hope that in the Pelletine jungles, they
+will be beyond Numidium’s reach.
 
-*Torval Station: We were chased out of Torval today with the last of the other*
-*non-natives seeking shelter or livelihood to the south. We plan to travel east*
-*and then sail north to Leyawiin for our return. Our quarter of the city is*
-*empty, and the only exit is to the open road. I have decided that further*
-*investigation into the Khajiit plans would be fruitless and end only in our*
-*deaths. This is the first time we have seen quiet or stillness since arrival*
-*in the city, and it is indeed eerie. The only movements are small cloth strips*
-*tacked to doors. I have included one below:*
+Torval Station: We were chased out of Torval today with the last of the other
+non-natives seeking shelter or livelihood to the south. We plan to travel east
+and then sail north to Leyawiin for our return. Our quarter of the city is
+empty, and the only exit is to the open road. I have decided that further
+investigation into the Khajiit plans would be fruitless and end only in our
+deaths. This is the first time we have seen quiet or stillness since arrival in
+the city, and it is indeed eerie. The only movements are small cloth strips
+tacked to doors. I have included one below:
 
->*Elsweyr is lost. Seek Haven elsewhere.*
+>Elsweyr is lost. Seek Haven elsewhere.
+</div>
 
 ## Valenwood
 
@@ -508,185 +516,184 @@ red lava and black ebon bleeding from its fissures.
 
 ## Cyrodiil
 
-*5E8*
+<div markdown="block" class="handwriting">
+5E8
 
-*The Dunmeri siege of the Imperial Island began months ago, and it drags on*
-*still. Neither our Numidium nor the Stormcrown’s captured Tower are of*
-*decisive efficacy against the Numidium that the sorcerer Seht has brought to*
-*bear, but they do keep it from toppling us. Despite floating high above*
-*ground, orbiting the Imperial Spire, the Second Tower moves very slowly and*
-*the Dunmer keep moving into the Spire’s shadow where Ada-Mantia cannot strike*
-*directly. When their golem is visible from Ada-Mantia, though, the power it*
-*unleashes is terrifying to behold. Spears like liquid flame lance forth from*
-*its surface to land among the Dunmer, or on the golem’s skin. The city-wheel*
-*is smashed and burned from both the Dunmer and from our own Tower, and where*
-*our flame-spears cut, the stone is polished smooth as if it had been built*
-*with pieces missing. Talos continues to direct Numidium against the rebellious*
-*provinces, those that still stand, trusting in Ada-Mantia and our own mages to*
-*hold Cyrod.*
+The Dunmeri siege of the Imperial Island began months ago, and it drags on
+still. Neither our Numidium nor the Stormcrown’s captured Tower are of decisive
+efficacy against the Numidium that the sorcerer Seht has brought to bear, but
+they do keep it from toppling us. Despite floating high above ground, orbiting
+the Imperial Spire, the Second Tower moves very slowly and the Dunmer keep
+moving into the Spire’s shadow where Ada-Mantia cannot strike directly. When
+their golem is visible from Ada-Mantia, though, the power it unleashes is
+terrifying to behold. Spears like liquid flame lance forth from its surface to
+land among the Dunmer, or on the golem’s skin. The city-wheel is smashed and
+burned from both the Dunmer and from our own Tower, and where our flame-spears
+cut, the stone is polished smooth as if it had been built with pieces missing.
+Talos continues to direct Numidium against the rebellious provinces, those that
+still stand, trusting in Ada-Mantia and our own mages to hold Cyrod.
 
-*As for the provinces, most lie in some form of ruin. Morrowind’s mainland is*
-*ravaged by the Marsh-monsters, and the volcano isle was smashed by Vivec’s Lie*
-*Rock and then ripped apart by the Second Numidium. Argonia’s outer reaches*
-*have been trampled by Numidium and burned by the Legions. Elsweyr is, somehow,*
-*completely abandoned. A few feral Khajiit roam here and there, but otherwise*
-*it appears to be wholly empty. Valenwood is still embroiled in a Wild Hunt,*
-*parties of which occasionally spill over the border into Cyrodiil and Elsweyr.*
-*Dragon-scouts soaring above the wood report that Falinesti and the other*
-*graht-oaks still roam uncontested, but also uninhabited. Whether or not*
-*pockets of Bosmeri civilization still hold out is unable to be determined.*
-*Hammerfell’s coast has been desolate since the beginning of the War, and its*
-*population withdrawn inland. They have been largely isolated since then,*
-*though sporadic sightings do occur. High Rock has been thrown into complete*
-*chaos since the Stormcrown’s Glory on Balfiera. Wayrest, Evermore, Camlorn,*
-*and Jehanna are the four strongest of the Breton city-states, and without the*
-*Bretons and Redguards to suppress them, the Orcs have even managed to*
-*incorporate their Orsinium stronghold again. Their leader, a creature called*
-*Krognaz gro-Ghazulob, has gone so far as to send emissaries to the Empire*
-*seeking provincial recognition in return for fealty and military service.*
-*Skyrim, unfortunately, is still sundered in a sea of blood. The Reach native*
-*rebellion, apparently called the “Forsworn Uprising”, has engulfed all of the*
-*Reach, most of Haafingar, and western Hjaalmarch, Whiterun, and Fell Kreath.*
-*The roads out of Solitude are unusable, and the Bruma pass through the Jeralls*
-*see refugee traffic daily. In the eastern holds, the Dragon Cult has taken a*
-*firm grip on the populace. The Windhelm Chapterhouse now commands the Rift,*
-*Winterhold, Eastmarch, and Dawnstar. The city of Whiterun is pressed between*
-*both the Forsworn and the Dragonsworn, and reputed to be ready to succumb to*
-*either.*
+As for the provinces, most lie in some form of ruin. Morrowind’s mainland is
+ravaged by the Marsh-monsters, and the volcano isle was smashed by Vivec’s Lie
+Rock and then ripped apart by the Second Numidium. Argonia’s outer reaches have
+been trampled by Numidium and burned by the Legions. Elsweyr is, somehow,
+completely abandoned. A few feral Khajiit roam here and there, but otherwise it
+appears to be wholly empty. Valenwood is still embroiled in a Wild Hunt, parties
+of which occasionally spill over the border into Cyrodiil and Elsweyr.
+Dragon-scouts soaring above the wood report that Falinesti and the other
+graht-oaks still roam uncontested, but also uninhabited. Whether or not pockets
+of Bosmeri civilization still hold out is unable to be determined. Hammerfell’s
+coast has been desolate since the beginning of the War, and its population
+withdrawn inland. They have been largely isolated since then, though sporadic
+sightings do occur. High Rock has been thrown into complete chaos since the
+Stormcrown’s Glory on Balfiera. Wayrest, Evermore, Camlorn, and Jehanna are the
+four strongest of the Breton city-states, and without the Bretons and Redguards
+to suppress them, the Orcs have even managed to incorporate their Orsinium
+stronghold again. Their leader, a creature called Krognaz gro-Ghazulob, has gone
+so far as to send emissaries to the Empire seeking provincial recognition in
+return for fealty and military service. Skyrim, unfortunately, is still sundered
+in a sea of blood. The Reach native rebellion, apparently called the “Forsworn
+Uprising”, has engulfed all of the Reach, most of Haafingar, and western
+Hjaalmarch, Whiterun, and Fell Kreath. The roads out of Solitude are unusable,
+and the Bruma pass through the Jeralls see refugee traffic daily. In the eastern
+holds, the Dragon Cult has taken a firm grip on the populace. The Windhelm
+Chapterhouse now commands the Rift, Winterhold, Eastmarch, and Dawnstar. The
+city of Whiterun is pressed between both the Forsworn and the Dragonsworn, and
+reputed to be ready to succumb to either.
 
-*The Summerset Archipelago sees most of Numidium’s fury, and while the cities*
-*hold strong, the countryside of the Isles has been largely ruined and*
-*evacuated.*
+The Summerset Archipelago sees most of Numidium’s fury, and while the cities
+hold strong, the countryside of the Isles has been largely ruined and evacuated.
 
-*This leaves only Cyrodiil. Although Argonian columns have made incursions*
-*through the Blackwood and sacked Leyawiin, and the Dunmer burned the northern*
-*Nibenean countryside on their march here, the Colovian marches remain*
-*relatively intact. Most of the civilian population has been moved to the west,*
-*and the eastern counties are thinly populated only by those who refused to*
-*move. Three legions have been dispatched north to Skyrim, two hold the defense*
-*of the Imperial Tower, and the remaining two guard the western plains.*
+This leaves only Cyrodiil. Although Argonian columns have made incursions
+through the Blackwood and sacked Leyawiin, and the Dunmer burned the northern
+Nibenean countryside on their march here, the Colovian marches remain relatively
+intact. Most of the civilian population has been moved to the west, and the
+eastern counties are thinly populated only by those who refused to move. Three
+legions have been dispatched north to Skyrim, two hold the defense of the
+Imperial Tower, and the remaining two guard the western plains.
 
 ____
 
-*The Dunmer attacked again today. Their battlemages led the first assault,*
-*launching a barrage of spells against the Spire. Our Whisperers managed to*
-*repel most, but as always a few shots came through. The Tower is to the north*
-*today, and the Dunmer camp is spread along the southern face. I do not envy*
-*their constantly-rotating camp, and a central defense against a moving offense*
-*is an inarguable advantage for the besieged. The Spire battlemages have been*
-*working with Ada-Mantia’s weapon controllers, and we may finally have a way of*
-*arcing the Tower’s assaults around the Spire, by passing the lances through a*
-*magickally created lens.*
+The Dunmer attacked again today. Their battlemages led the first assault,
+launching a barrage of spells against the Spire. Our Whisperers managed to repel
+most, but as always a few shots came through. The Tower is to the north today,
+and the Dunmer camp is spread along the southern face. I do not envy their
+constantly-rotating camp, and a central defense against a moving offense is an
+inarguable advantage for the besieged. The Spire battlemages have been working
+with Ada-Mantia’s weapon controllers, and we may finally have a way of arcing
+the Tower’s assaults around the Spire, by passing the lances through a
+magickally created lens.
 
-*Numidium just arrived. Its travel grows increasingly odd. One minute the*
-*Dunmer colossus was pounding at the Spire uncontested, spells flashing back*
-*and forth through the air and the dizzying distortion in the air arcing the*
-*Tower’s beams around us to strike at their golem, and the Brass Walker had*
-*stepped out of thin air and slammed its fist into its rival’s side. Watching*
-*the two fight is both awe-inspiring and terrifying. With the Stormcrown atop*
-*Numidium and Seht atop Akulakhan, both glowing with tremendous power, and the*
-*two metal constructs scraping the sky, the city-wheel and the Dunmer army*
-*below seem as ants in comparison. My unit is stationed near the top of the*
-*Imperial Spire, and yet we stand at the shoulders of the two gargantuan*
-*constructs. They wade casually through the city and lake, kicking aside*
-*buildings like anthills and water like puddles. It is almost like two men*
-*boxing on a small model of a city, only there are no roars or grunts or sounds*
-*of fist striking flesh. The silence is eerie, punctuated only by the rumble of*
-*their movement, the occasionally shrill screech of spell-barrage, and the dull*
-*clang of metal colliding.*
+Numidium just arrived. Its travel grows increasingly odd. One minute the Dunmer
+colossus was pounding at the Spire uncontested, spells flashing back and forth
+through the air and the dizzying distortion in the air arcing the Tower’s beams
+around us to strike at their golem, and the Brass Walker had stepped out of thin
+air and slammed its fist into its rival’s side. Watching the two fight is both
+awe-inspiring and terrifying. With the Stormcrown atop Numidium and Seht atop
+Akulakhan, both glowing with tremendous power, and the two metal constructs
+scraping the sky, the city-wheel and the Dunmer army below seem as ants in
+comparison. My unit is stationed near the top of the Imperial Spire, and yet we
+stand at the shoulders of the two gargantuan constructs. They wade casually
+through the city and lake, kicking aside buildings like anthills and water like
+puddles. It is almost like two men boxing on a small model of a city, only there
+are no roars or grunts or sounds of fist striking flesh. The silence is eerie,
+punctuated only by the rumble of their movement, the occasionally shrill screech
+of spell-barrage, and the dull clang of metal colliding.
 
-*By the Divines! Seht charged Talos, throwing him against the Spire! The whole*
-*building leans to the north now, but he somehow staved in Aku’s knee and drove*
-*him into the water. Numidium PICKED UP the other golem, with the Dunmer*
-*sorcerer flung free, and **HURLED** *it south to the river! The Walking Brass*
-*turned its attention on the Dunmer army next, but by now they’ve grown*
-*practiced to scattering beyond its reach. The situation is much like a man*
-*surrounded by flies, with no way of trapping them where he can crush with*
-*ease. Talos recognizes this, of course, so Numidium soon vanishes in the same*
-*manner as it appeared.*
+By the Divines! Seht charged Talos, throwing him against the Spire! The whole
+building leans to the north now, but he somehow staved in Aku’s knee and drove
+him into the water. Numidium PICKED UP the other golem, with the Dunmer sorcerer
+flung free, and **HURLED** it south to the river! The Walking Brass turned its
+attention on the Dunmer army next, but by now they’ve grown practiced to
+scattering beyond its reach. The situation is much like a man surrounded by
+flies, with no way of trapping them where he can crush with ease. Talos
+recognizes this, of course, so Numidium soon vanishes in the same manner as it
+appeared.
+</div>
 
 ## Hammerfell
 
-*5E10*
+<div markdown="block" class="handwriting">
+5E10
 
-*The human tendency for intercommunication is amazing. Even though we have*
-*sealed ourselves in these Rourken cities, the necessities of survival mean*
-*that surface caravans are a periodic occurrence, and with them travels news*
-*and rumor almost as a plague. For once, they are even mostly true. Or at least*
-*in agreement. They say that the Cyrodiils have a new-made God. That the Dunmer*
-*have a second Brass Monster that they are using to fight the Cyrodiils. And*
-*the strangest, and most easily confirmed: the Khajiit have left Nirn. They*
-*climbed to the moons again and live there in paradise. This must be true, for*
-*a third moon has appeared in the sky, and our lens crafters have been able to*
-*magnify it, and the moon appears to be a mass of glistening cat fur. Lights*
-*also dot Secunda’s surface, and we can surmise that they belong to*
-*Khajiit colonies.*
+The human tendency for intercommunication is amazing. Even though we have sealed
+ourselves in these Rourken cities, the necessities of survival mean that surface
+caravans are a periodic occurrence, and with them travels news and rumor almost
+as a plague. For once, they are even mostly true. Or at least in agreement. They
+say that the Cyrodiils have a new-made God. That the Dunmer have a second Brass
+Monster that they are using to fight the Cyrodiils. And the strangest, and most
+easily confirmed: the Khajiit have left Nirn. They climbed to the moons again
+and live there in paradise. This must be true, for a third moon has appeared in
+the sky, and our lens crafters have been able to magnify it, and the moon
+appears to be a mass of glistening cat fur. Lights also dot Secunda’s surface,
+and we can surmise that they belong to Khajiit colonies.
 
-*May they know peace only dreamed of here on Nirn.*
+May they know peace only dreamed of here on Nirn.
 
-*Our scholars have been poring over all documents and artifacts of the Yoku*
-*Sword Singers ever since we took to the deeps. We know from bitter experience*
-*that merely cutting at Septim’s monster will not hurt it, but the Singers did*
-*not merely cut. Shamans and swordmasters alike have been desperately trying to*
-*recreate the lost legends, and our city has shown some success in this. Last*
-*month, Boraccag successfully summoned what we believe to be a Shehai. The*
-*spirit sword did not exactly match the descriptions in our old texts, but it*
-*WAS a sword, and it WAS immaterial. He practices daily, and each time he*
-*summons it, the blade is stronger and longer-lasting. Texts speak of a*
-*spirit-slice that cuts so finely that reality parts around it. Surely Numidium*
-*cannot resist such a stroke. If we can discover a way to do this, we may have*
-*an end to end this hellish war once and for all.*
+Our scholars have been poring over all documents and artifacts of the Yoku Sword
+Singers ever since we took to the deeps. We know from bitter experience that
+merely cutting at Septim’s monster will not hurt it, but the Singers did not
+merely cut. Shamans and swordmasters alike have been desperately trying to
+recreate the lost legends, and our city has shown some success in this. Last
+month, Boraccag successfully summoned what we believe to be a Shehai. The spirit
+sword did not exactly match the descriptions in our old texts, but it WAS a
+sword, and it WAS immaterial. He practices daily, and each time he summons it,
+the blade is stronger and longer-lasting. Texts speak of a spirit-slice that
+cuts so finely that reality parts around it. Surely Numidium cannot resist such
+a stroke. If we can discover a way to do this, we may have an end to end this
+hellish war once and for all.
 
-*In two months, my crew and I will be dispatched to attempt the run to*
-*Firsthold. Numidium has so far appeared to crush every ship we sent, but with*
-*the Dunmeri siege we believe there is hope to slip by with its attention kept*
-*elsewhere. Our captain, Cyrus, is the best waverunner we’ve seen in many a*
-*year. If anyone can make way through this, it will be him.*
+In two months, my crew and I will be dispatched to attempt the run to Firsthold.
+Numidium has so far appeared to crush every ship we sent, but with the Dunmeri
+siege we believe there is hope to slip by with its attention kept elsewhere. Our
+captain, Cyrus, is the best waverunner we’ve seen in many a year. If anyone can
+make way through this, it will be him.
+</div>
 
 ## Skyrim
 
-*Whiterun, 5E11.*
+<div markdown="block" class="handwriting">
+Whiterun, 5E11.
 
-*This cursed war has gone on for more than twenty years, now. I can remember*
-*its beginning, as clearly as yesterday. It may as well have been yesterday,*
-*given Numidium’s ruin of Time. I remember taking my men north out of Cyrodiil.*
-*I remember Karl and Jormund wanting to go home, only to find out that their*
-*homes were in ruin. And I remember the vise that has gripped Skyrim since*
-*then, the Bretons and then the hill-savages in the western holds and the*
-*bloody-handed Dragon Cultists in the eastern. Superstitious nonsense, we*
-*thought. We knew the “Harbingers of the Return” were just cliffracers chased*
-*out of Morrowind, but to have the Dragons return in force shortly afterwards?*
-*I would never have believed it had I not seen with my own eyes Tiber Septim*
-*atop his colossus, he and the drakes Shouting back and forth. He bent about*
-*half to his will, but the other half remain wild. They now govern Windhelm,*
-*Riften, and Winterhold. What’s left of it, anyway. The Tongues of Hrothgar*
-*came down from their summit to try and counter the menace of the Cult, but we*
-*have heard nothing save the awful roars since their departure. I pray that*
-*Shor and Kyne watch over them, and bring them to halls of valor in this life*
-*or the next.*
+This cursed war has gone on for more than twenty years, now. I can remember its
+beginning, as clearly as yesterday. It may as well have been yesterday, given
+Numidium’s ruin of Time. I remember taking my men north out of Cyrodiil. I
+remember Karl and Jormund wanting to go home, only to find out that their homes
+were in ruin. And I remember the vise that has gripped Skyrim since then, the
+Bretons and then the hill-savages in the western holds and the bloody-handed
+Dragon Cultists in the eastern. Superstitious nonsense, we thought. We knew the
+“Harbingers of the Return” were just cliffracers chased out of Morrowind, but to
+have the Dragons return in force shortly afterwards? I would never have believed
+it had I not seen with my own eyes Tiber Septim atop his colossus, he and the
+drakes Shouting back and forth. He bent about half to his will, but the other
+half remain wild. They now govern Windhelm, Riften, and Winterhold. What’s left
+of it, anyway. The Tongues of Hrothgar came down from their summit to try and
+counter the menace of the Cult, but we have heard nothing save the awful roars
+since their departure. I pray that Shor and Kyne watch over them, and bring them
+to halls of valor in this life or the next.
 
-*It seems that Tamriel is spending all the disasters she has saved up for*
-*millennia in one short burst. As if Numidium, civil war, and Dragons weren’t*
-*enough, the city of Winterhold was destroyed by a tsun-ahm. Everyone thinks it*
-*was from the Dunmer slamming their “tame” sky-rock into the volcano. The Red*
-*Mountain has been erupting continuously since, and the ground around it shakes*
-*with a fury. I certainly can’t think of anything else that would cause such a*
-*wave. Dawnstar and even Solitude were hit as well, but the distance preserved*
-*them.*
+It seems that Tamriel is spending all the disasters she has saved up for
+millennia in one short burst. As if Numidium, civil war, and Dragons weren’t
+enough, the city of Winterhold was destroyed by a tsun-ahm. Everyone thinks it
+was from the Dunmer slamming their “tame” sky-rock into the volcano. The Red
+Mountain has been erupting continuously since, and the ground around it shakes
+with a fury. I certainly can’t think of anything else that would cause such a
+wave. Dawnstar and even Solitude were hit as well, but the distance preserved
+them.
 
-*I wish I could say I hoped for Whiterun’s victory, or even survival, but the*
-*only surety left in the world is death. Tomorrow I lead an army south to the*
-*Fell. The mission is to destroy the hill-savages’ grip on it and open the*
-*passes to Cyrodiil, then bring southern legions north to our aid. But in my*
-*heart, I don’t believe we will succeed.*
+I wish I could say I hoped for Whiterun’s victory, or even survival, but the
+only surety left in the world is death. Tomorrow I lead an army south to the
+Fell. The mission is to destroy the hill-savages’ grip on it and open the
+passes to Cyrodiil, then bring southern legions north to our aid. But in my
+heart, I don’t believe we will succeed.
 
-*Sovngarde saraan.*
+Sovngarde saraan.
+</div>
 
 ## Veloth
 
-<a href="http://theminttu.tumblr.com/">
-![—squish][squish]{:.right}
-</a>
+[![—squish][squish]{:.right}](http://theminttu.tumblr.com)
+
 It has come down from the mountains, the gleaming shards of its skin freshly
 polished in Reason. The sun shines overhead, burning silently in the stillness
 of the day. The barrens before it stretch onwards, smoking and jagged from the
@@ -699,45 +706,46 @@ second sun. It takes another step—
 
 ## Summurset
 
-*It still seems impossible that the Starry Heart has seen not merely one, but*
-*three events of such incredible potency that each has caused a calendar reset*
-*in a single lifetime, even of the men. Perhaps the haste to change Eras is*
-*caused by a hope that a new Era will bring with it actual change (a child’s*
-*wish and folly), or perhaps the concept of time-keeping is as weakened as*
-*broken as Time itself. Still, one cannot deny that the usurpation of divinity*
-*by three men, the first new God since the hubris of the Deep Ones and seizing*
-*power from its shoulders no less, is a world-shaking event. And the*
-*destruction wrought afterwards… we cannot even lay blame at the feet of the*
-*Princes of Discord as during the early days of the Dominion. The chaos,*
-*fighting, and death of late is all on us. Perhaps this is what the lying Snake*
-*wanted us to become when he formed his trap.*
+<div markdown="block" class="handwriting">
+It still seems impossible that the Starry Heart has seen not merely one, but
+three events of such incredible potency that each has caused a calendar reset in
+a single lifetime, even of the men. Perhaps the haste to change Eras is caused
+by a hope that a new Era will bring with it actual change (a child’s wish and
+folly), or perhaps the concept of time-keeping is as weakened as broken as Time
+itself. Still, one cannot deny that the usurpation of divinity by three men, the
+first new God since the hubris of the Deep Ones and seizing power from its
+shoulders no less, is a world-shaking event. And the destruction wrought
+afterwards… we cannot even lay blame at the feet of the Princes of Discord as
+during the early days of the Dominion. The chaos, fighting, and death of late is
+all on us. Perhaps this is what the lying Snake wanted us to become when he
+formed his trap.
 
-*The Khajiit departure still mystifies our scholars. We’d hoped that we might*
-*be able to use remnants of the Dawn Incana to bring about a lunar shift to*
-*coerce their return, but efforts have been so far unsuccessful, and our energy*
-*was best spent on immediate defence. As for the third moon of the Mane, it*
-*seems to have no effect on the tides and is only a reminder of the impossible*
-*bitterness of the southern sands. And our feral cousins in Valenwood, well,*
-*they’ve truly gone beyond any semblance of civilization. Not even the Sea Folk*
-*will sail near those hauntingly silent shores. Our only neighbors have been*
-*the Yokudan desert-folks to the north, who have always been oddly educated and*
-*civilized for men. This is fortunate, as ever since the Activation, they have*
-*provided us with some aid. And now this has come to fruit, in their means of*
-*destroying the Numidium. It will not be a clean victory, but then, what*
-*cleanliness remains in the Arena?*
+The Khajiit departure still mystifies our scholars. We’d hoped that we might be
+able to use remnants of the Dawn Incana to bring about a lunar shift to coerce
+their return, but efforts have been so far unsuccessful, and our energy was best
+spent on immediate defence. As for the third moon of the Mane, it seems to have
+no effect on the tides and is only a reminder of the impossible bitterness of
+the southern sands. And our feral cousins in Valenwood, well, they’ve truly gone
+beyond any semblance of civilization. Not even the Sea Folk will sail near those
+hauntingly silent shores. Our only neighbors have been the Yokudan desert-folks
+to the north, who have always been oddly educated and civilized for men. This is
+fortunate, as ever since the Activation, they have provided us with some aid.
+And now this has come to fruit, in their means of destroying the Numidium. It
+will not be a clean victory, but then, what cleanliness remains in the Arena?
 
-*Upon Numidium’s latest arrival to the Tower, to lay siege yet again to our*
-*home, we sprung the trap. Our strongest Aethe-Wrights formed the Great Seal as*
-*soon as it reached our walls, creating a massive dome of solidified light. The*
-*monster is trapped with us, and with a fleet of the Sea Folk who volunteered*
-*to harry it to the end. This is our death, but it shall be the death of the*
-*Machine as well. I regret only that the monster who calls himself Talos was*
-*not sealed here as well.*
+Upon Numidium’s latest arrival to the Tower, to lay siege yet again to our home,
+we sprung the trap. Our strongest Aethe-Wrights formed the Great Seal as soon as
+it reached our walls, creating a massive dome of solidified light. The monster
+is trapped with us, and with a fleet of the Sea Folk who volunteered to harry it
+to the end. This is our death, but it shall be the death of the Machine as well.
+I regret only that the monster who calls himself Talos was not sealed here as
+well.
 
-*The Seal shrinks ever closer by the hour, and Numidium alternates between*
-*assaulting the spellform in hopes to escape it, and the Crystal Tower in hopes*
-*of shattering us and ending the trap. It will not take long, however, to pin*
-*the Golem and allow the Final Strike.*
+The Seal shrinks ever closer by the hour, and Numidium alternates between
+assaulting the spellform in hopes to escape it, and the Crystal Tower in hopes
+of shattering us and ending the trap. It will not take long, however, to pin the
+Golem and allow the Final Strike.
+</div>
 
 ____
 
@@ -787,9 +795,9 @@ even the gods.
 And he swings.
 
 >&nbsp;
-
+>
 ># NUMIDIAD | `C0DA`
-
+>
 >&nbsp;
 
 The world flashed white and a soundless shock tore through the sky, rushing
