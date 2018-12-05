@@ -46,7 +46,7 @@ So our octave goes like this
 
 > **C** Dibella
 
-Why this ordering, you ask? I explained Mara/Dibella as C above, but let&rsquo;s
+Why this ordering, you ask? I explained Mara/Dibella as C above, but let’s
 expand on this.
 
 Akatosh is the **fundamental tuning pitch** of this entire system. In the
@@ -58,15 +58,14 @@ So with Akatosh defined as the A note of any octave, the rest begins to fall
 into place.
 
 C,E,G make a third, and so I wanted some of the more basic gods in there. Arkay,
-life/death, and Stendarr, mercy and fortitude, fit well with the
-&ldquo;feel&rdquo; of the CEG chord (it is strong and works very well, but not
-very &ldquo;pretty&rdquo;)
+life/death, and Stendarr, mercy and fortitude, fit well with the “feel” of the
+CEG chord (it is strong and works very well, but not very “pretty”)
 
-F, however is a pretty note, and so that&rsquo;s where Kyne went. F is also the
-third Important note of the scale (F, G, and A are basically the stars of the
-show). With Kyne as F, Mara became low C and Dibella high C. (Incidentally, a
-perfect fourth, C-F, is exactly a half-octave, so the waves resonate very well
-with each other. Mara, handmaiden of Kyne, fits here perfectly.)
+F, however is a pretty note, and so that’s where Kyne went. F is also the third
+Important note of the scale (F, G, and A are basically the stars of the show).
+With Kyne as F, Mara became low C and Dibella high C. (Incidentally, a perfect
+fourth, C-F, is exactly a half-octave, so the waves resonate very well with each
+other. Mara, handmaiden of Kyne, fits here perfectly.)
 
 This leaves D and B open, and Zenithar and Julianos to be placed. I placed
 Julianos next to Akatosh and Dibella, since his sphere of intellectual work is
@@ -104,9 +103,9 @@ is unneeded.
 The seven selected Daedra are to go in the seven gaps-between-Aedric-Tones, and
 are to be neighbored by Aedra whose properties are similar to their own. Mara is
 familial, and Zenithar governs labor. Malacath embodies both of those.
-Zenithar&rsquo;s work and Arkay&rsquo;s life/death are both touched by Mehrunes
-Dagon&rsquo;s destruction (ruining the former, speeding the latter). Azura,
-Twilight, is similar to Arkay and Kyne&rsquo;s Wind. And so forth.
+Zenithar’s work and Arkay’s life/death are both touched by Mehrunes Dagon’s
+destruction (ruining the former, speeding the latter). Azura, Twilight, is
+similar to Arkay and Kyne’s Wind. And so forth.
 
 The ten remnant Daedra are to be attached to the five Daedra who have room for
 quarter-tones. **Again, note that in the 12-tone octave, there is no**
@@ -114,8 +113,8 @@ quarter-tones. **Again, note that in the 12-tone octave, there is no**
 **the quarter-tones and cannot have tertiary notes.** Namira and Vaermina are
 associated with ostracism and persecution, and are placed to either side of
 Malacath by what they destroy. Namira destroys families, and Vaermina labor.
-Clavicus Vile is bad bartering to Zenithar&rsquo;s good, and Peryite is illness
-and death. And so forth.
+Clavicus Vile is bad bartering to Zenithar’s good, and Peryite is illness and
+death. And so forth.
 
 For the purposes of this list, accidentals are left-associative. Thus,
 n♯♭ is n, raised one-half, lowered one-quarter.
@@ -174,14 +173,14 @@ Incidentally, if one makes this list into a wheel, with Aedric overtones as the
 longest spokes, the 7 Prominent Daedra with spokes of middling length, and the
 ten remaining Princes as the shortest spokes, one gets this result:
 
-![][wheel-tone-c]{:.ctr}
+[!["A wheel diagram of the Tones, centered on C"][wheel-tone-c]{:.ctr}][wheel-tone-c]
 
 However, if we rotate so that D is our top, the end result is reflectively
 symmetric. D Major is incidentally commonly called the Heavenly Key in the
 Western music canon, and having Work in such a subtly special place is rather
 fitting in my opinion.
 
-![][wheel-tone-d]{:.ctr}
+[!["A wheel diagram of the Tones, centered on D"][wheel-tone-d]{:.ctr}][wheel-tone-d]
 
 # Lorkhan
 
@@ -189,9 +188,9 @@ There is more to music than just the tones. The beat, the rhythm, the measure,
 all terms for one underlying piece: tones alone are nothing without the
 foundation given by the drumline. And this is, of course, the Ninth God, the
 Doom Drum, Lorkhan. (It is pretty ironic that the Space God provides the
-music&rsquo;s Time, but Time and Space are intermingled oddly here) Lorkhan is
-not a Tone, but the Sound-without-Tone, the Pulse. Separate from the Octave and
-just as necessary to the Performance as it.
+music’s Time, but Time and Space are intermingled oddly here) Lorkhan is not a
+Tone, but the Sound-without-Tone, the Pulse. Separate from the Octave and just
+as necessary to the Performance as it.
 
 # Towers
 
@@ -214,13 +213,13 @@ so here.
 - Green-Sap: the Strings, glorying in wood and gut and hair.
 
 - Snow-Throat: the Horns, a rich warbling sound, melodic and majestic without
-seizing attention.
+  seizing attention.
 
 - Orichalc: the Trombones, deep and powerful and alien-yet-alike to the rest of
-the Orchestra.
+  the Orchestra.
 
 - Numidium: the Tubas, strong and dominant, punctuating the song with brassy
-power.
+  power.
 
 - Khajiit: the Tuned Percussion, working with the Drums yet playing Tones.
 

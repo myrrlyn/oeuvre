@@ -24,9 +24,9 @@ the two moons with regard to the morphologies and each other.
 [Link to spreadsheet][gdoc]
 
 My first attempts in this area were to grant Masser more phases, as I believed a
-6M &times; 4S grid would allow for all 24 forms of Khajiit. However, doing so
-also made it difficult for the moons to reach all forms, so I went back to
-working with the 4&times;4 grid to which we are accustomed.
+6M × 4S grid would allow for all 24 forms of Khajiit. However, doing so also
+made it difficult for the moons to reach all forms, so I went back to working
+with the 4×4 grid to which we are accustomed.
 
 It then occurred to me that I might make Masser go through its four phases at a
 slower rate than did Secunda. I began by defining one cell as one arbitrarily
@@ -62,12 +62,12 @@ utterly meaningless in regard to the lunar phases is [here][wolfram-ms].
 
 I must note that, as we have no information on the Lunar Lattice, this should be
 taken solely as the extrapolation that it is. It is also not a finished work, as
-evidenced by the M6&times;S4 sheet in the spreadsheet, which holds no
-presentable findings as yet. This is simply a means to interpret the information
-we have on the moons and Khajiit morphology. The numbers I have chosen (5 and 4)
-for the lengths of the lunar phases are wholly arbitrary, and are used because
-they provide a short full-cycle (if one cell is equal to one week, then the
-cycle repeats in under a year and a half) and good spacing of the forms.
+evidenced by the M6×S4 sheet in the spreadsheet, which holds no presentable
+findings as yet. This is simply a means to interpret the information we have on
+the moons and Khajiit morphology. The numbers I have chosen (5 and 4) for the
+lengths of the lunar phases are wholly arbitrary, and are used because they
+provide a short full-cycle (if one cell is equal to one week, then the cycle
+repeats in under a year and a half) and good spacing of the forms.
 
 Again, I hope that the information presented is useful or at least interesting
 to you. I still have nothing to present on the Mane, but much as the terrestrial
@@ -85,7 +85,7 @@ that the functions are mapped out they can be shifted forward or backwards with
 ease. The math work was done pretty much on my own, but it would be absolutely
 meaningless without the foundation work they put in.
 
-[gdoc]: https://docs.google.com/spreadsheet/ccc?key=0Aly-sXRShwzjdGtrRlJ6a1Mzbk5PZjFXNUExMmIzWGc&usp=drive_web#gid=0
+[gdoc]: https://docs.google.com/spreadsheet/ccc?key=0Aly-sXRShwzjdGtrRlJ6a1Mzbk5PZjFXNUExMmIzWGc
 [wolfram-m]: http://www.wolframalpha.com/input/?i=Plot%5BSin%5BPi*%28x%2F10-.5%29%5D%2C+%7Bx%2C+0%2C+80%7D%5D
 [wolfram-s]: http://www.wolframalpha.com/input/?i=Plot%5BSin%5BPi*%28x%2F8-.5%29%5D%2C+%7Bx%2C+0%2C+80%7D%5D
 [wolfram-ms]: http://www.wolframalpha.com/input/?i=Plot%5BSin%5BPi*%28x%2F10-.5%29%5D+%2B+Sin%5BPi*%28x%2F8-.5%29%5D%2C+%7Bx%2C+0%2C+80%7D%5D

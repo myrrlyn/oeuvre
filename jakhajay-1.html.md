@@ -16,10 +16,10 @@ have with the moons has remained for the most part unexplored.
 
 A recent endeavour on `#memospore`, with noteworthy legwork by /u/solthas, has
 resulted in what I believe to be a suitable introduction into a fuller
-understanding of the ja-Kha&rsquo;jay.
+understanding of the ja-Kha’jay.
 
-If one were to venture to UESP&rsquo;s page on Khajiit, specifically the
-Morphology section, they would find this table:
+If one were to venture to UESP’s page on Khajiit, specifically the Morphology
+section, they would find this table:
 
 |Moons      |Masser|Full       |Waxing     |New        |Waning    |
 |:---------:|:----:|:---------:|:---------:|:---------:|:--------:|
@@ -32,10 +32,9 @@ Morphology section, they would find this table:
 Now, this table tells us absolutely nothing about the Masser-Secunda
 interactions and their output form, save that Secunda dictates whether or not
 the -raht size multiplier is in play. If, however, you were to reorder this
-chart so that time flows positively (defined as
-New&rarr;Waxing&rarr;Full&rarr;Waning&rarr;repeat) on both axes, with phase
-shifts so that stance and size are properly ordered, you would end with this
-chart:
+chart so that time flows positively (defined as New → Waxing → Full → Waning →
+repeat) on both axes, with phase shifts so that stance and size are properly
+ordered, you would end with this chart:
 
 |Moons      |Masser|New        |Waxing     |Full       |Waning    |
 |:---------:|:----:|:---------:|:---------:|:---------:|:--------:|
@@ -60,25 +59,25 @@ like to take this time to review the sixteen known forms of Khajiit.
 3. Senche: quadruped, very large. The raht form is particularly enormous.
 
 4. Dagi: transitional(?) between biped and quadruped. The only description we
-have comes from Mixed Unit Tactics, describing them as tree-leapers, which
-suggests a strong quadruped state with biped capabilities.
+   have comes from Mixed Unit Tactics, describing them as tree-leapers, which
+   suggests a strong quadruped state with biped capabilities.
 
 5. Ohmes: transitional(?) between quadruped and biped. These are described as
-Bosmeri in appearance, and they are likely to be bipedal woods-dwellers with a
-quadruped stance that they are able to use at need.
+   Bosmeri in appearance, and they are likely to be bipedal woods-dwellers with
+   a quadruped stance that they are able to use at need.
 
 6. Suthay: biped, approximately man-sized, perhaps shorter than the mannish
-average.
+   average.
 
 7. Cathay: biped, average to tall on a man. The -raht form would be very tall
-relative to the human height distribution, and on par with the taller Altmer.
+   relative to the human height distribution, and on par with the taller Altmer.
 
 8. Tojay: biped. While little is directly stated about them, we believe that the
-Tojay are the bipedal equivalent of the Senche, and tower over the other bipedal
-forms.
+   Tojay are the bipedal equivalent of the Senche, and tower over the other
+   bipedal forms.
 
 I have one last table to present, and then I will present the conclusion we have
-derived of the ja-Kha&rsquo;jay.
+derived of the ja-Kha’jay.
 
 |Moons      |Masser|New                          |Waxing            |Full                  |Waning                       |
 |:---------:|:----:|:---------------------------:|:----------------:|:--------------------:|:---------------------------:|
@@ -89,8 +88,8 @@ derived of the ja-Kha&rsquo;jay.
 |**Full**   |\|    |Transitional (favors 2)      |Medium Biped      |Large Quadruped       |Small Quadruped              |
 
 Notice that if one ignores the stance, that this table is rotationally
-symmetric. Masser&rsquo;s switch from new-waxing to full-waning wholly inverts
-the morphologic table, shifting stance and size-time arrangement.
+symmetric. Masser’s switch from new-waxing to full-waning wholly inverts the
+morphologic table, shifting stance and size-time arrangement.
 
 As for the transitional forms Dagi and Ohmes, they are both on the low end of
 the size-continuum across all Khajiit, but are in the low-middle of their
@@ -98,15 +97,15 @@ respective favored stance. Alfiq are smaller than Dagi, and Pahmar and Senche
 larger. Ohmes are approximately on par with Suthay, and Cathay and Tojay are
 larger. Furthermore, notice that the transitional phenotypes occur on the move
 from waning to new, and are on full-to-waning Secunda. Although we have yet to
-create a mathematical model of each moon&rsquo;s motion with respect to Nirnic
-time, it is likely that this form-blurring represents a time when the motions of
+create a mathematical model of each moon’s motion with respect to Nirnic time,
+it is likely that this form-blurring represents a time when the motions of
 Masser and Secunda line up in time (with, of course, a 90-degree phase shift
 between Masser and Secunda).
 
 So, to conclude: the phases of Secunda govern the -raht form, and the phases of
 Masser govern the stance and size. Secunda operates on a simple back-and-forth
 toggle between -raht and not every quarter-period, whereas Masser rotates the
-table (not accounting for Secunda&rsquo;s influence) every half-period.
+table (not accounting for Secunda’s influence) every half-period.
 
 [Here is the link to the public and pretty Gdoc spreadsheet][gdoc]. This is not
 the document on which the IRC group originally worked, but as that is
@@ -118,7 +117,7 @@ mathematically modeling `M(t)` and `S(t)` functions to determine the
 birth-order.
 
 I hope the information here has been useful, or at least interesting, and sheds
-some more light on the workings of the ja-Kha&rsquo;jay.
+some more light on the workings of the ja-Kha’jay.
 
 [gdoc]: https://drive.google.com/file/d/0B1y-sXRShwzjc2pjTEFIcGFJMGM/edit?usp=sharing
 
