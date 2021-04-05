@@ -1,5 +1,6 @@
 ---
 title: An Introductory Report on the Orcish Language
+banner: map-stylized
 date: 2014-03-11T10:34:33 -0400
 reddit: 2052ht
 tags:
@@ -60,11 +61,11 @@ course, are SH and TH which have their own symbols.
 
 - An alphabet primer
 
-  ![Alphabet Primer][alphabet]
+  ![Alphabet Primer][alphabet]{:.fullwidth}
 
 - The word “Cyrodiil”
 
-  ![Cyrodiil][cyrodiil]
+  ![Cyrodiil][cyrodiil]{:.right}
 
   (Note: this provides an example of Orsimeris’ phonetic transliteration for
   words spelled in ways their language does not use. Literally, it reads
@@ -72,24 +73,25 @@ course, are SH and TH which have their own symbols.
 
 - The “Holy Name of Gortwog”
 
-  ![Holy Name of Gortwog][gortwog]
+  ![Holy Name of Gortwog][gortwog]{:.right}
 
   (Go-rt-w-og gro Na-go-r-m)
 
 - The Skyrim Strongholds
 
-  ![Strongholds][strongholds]
+  ![Strongholds][strongholds]{:.right}
+  ![gro and gra][gro-gra]{:.right .halfwidth}
 
-  (From top to bottom: M-or Kh-a-zg-ur, Du-sh-n-ikh Y-a-l, Na-rz-ul-b-ur,
-  L-a-rg-a-sh-b-ur)
+  - M-or Kh-a-zg-ur
+  - Du-sh-n-ikh Y-a-l
+  - Na-rz-ul-b-ur
+  - L-a-rg-a-sh-b-ur
 
 - Lastly, these symbols are used for the "gro-" and "gra-" in names. This is the
-only mainstream use of a triple glyph combination, and with two distinct
-baselines as well. The arc of the R serves double duty for the vowel, which is
-turned orthogonally to the rest, giving a vertical baseline for A and horizontal
-for O, contrary to the usual practice.
-
-  ![gro and gra][gro-gra]
+  only mainstream use of a triple glyph combination, and with two distinct
+  baselines as well. The arc of the R serves double duty for the vowel, which is
+  turned orthogonally to the rest, giving a vertical baseline for A and
+  horizontal for O, contrary to the usual practice.
 
 I hope to acquire more samples of Orcish script in the future, though as yet I
 have only seen these directly. The Orcish merchants and wise women with whom I
@@ -103,7 +105,7 @@ reasons of hubris. It is strange, then, that the Orcs adopted “Orsinium Novum�
 of the Cyrodiilic for the name of their new city, since Novum is *perfectly*
 rotationally symmetric.
 
-![Orsinium Novum][orsinium]
+![Orsinium Novum][orsinium]{:.fullwidth}
 
 Perhaps it is a mixture of chance (alternating baselines are impossible to
 compress) and pride in their new-built city, which remains frustratingly

@@ -1,6 +1,7 @@
 ---
 title: On Orsimeri Family Life
 date: 2013-09-22T10:20:55 -0400
+banner: map-wilderness
 reddit: 1mw7f5
 tags:
 - orcs

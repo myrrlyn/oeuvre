@@ -1,5 +1,6 @@
 ---
 title: "Rite Makes Might"
+banner: map-wilderness
 date: 2017-01-14T15:37:24 -0700
 reddit: 5o0any
 tags:

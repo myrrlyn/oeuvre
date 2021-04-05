@@ -1,6 +1,7 @@
 ---
 title: The Stone of Snow-Throat
 date: 2013-10-15T13:32:14 -0400
+banner: map-skyrim
 reddit: 1oihxh
 tags:
 - metaphysics
@@ -16,10 +17,12 @@ about: >
   had been broken during the course of the game, and this revelation was
   unhelpful at first because there isn’t a cave on the peak.
 
-  /u/RottenDeadite casually dropped Jung’s Cave story on us one day, and I took
-  that and ran with it. Kind of stole his thunder there. I don’t think we ever
-  heard if my interpretation was correct or not, but I figure it’s safe to use
-  this until proven otherwise.
+  [/u/RottenDeadite] casually dropped Jung’s Cave story on us one day, and I
+  took that and ran with it. Kind of stole his thunder there. I don’t think we
+  ever heard if my interpretation was correct or not, but I figure it’s safe to
+  use this until proven otherwise.
+
+  [/u/RottenDeadite]: //reddit.com/u/RottenDeadite
 ---
 
 We’ve been hunting this one for a long time, but I am reasonably confident
@@ -113,11 +116,11 @@ ____
 This is built off of the following dialogue, and I am fully aware that I am
 extrapolating and could be horribly wrong.
 
-> ||||
-> |:-|:-|:-|
-> |2013 Oct 15 01:46:02|`<+myrrlyn>`   |What is Snow-Throat's Stone|
-> |2013 Oct 15 01:46:16|`<%Void_Ghost>`|The cave|
-> |2013 Oct 15 22:49:07|`<+OPG>`|What are the Stones of Crystal-Like-Law, Falinesti, and Orichalc?|
-> |2013 Oct 15 22:49:52|`<%MK>` |CLL: A person. F: a fruit. O: a sword.|
+| Time                 | Speaker         | Message                                                           |
+| :------------------- | :-------------- | :---------------------------------------------------------------- |
+| 2013 Oct 15 01:46:02 | `<+myrrlyn>`    | What is Snow-Throat's Stone                                       |
+| 2013 Oct 15 01:46:16 | `<%Void_Ghost>` | The cave                                                          |
+| 2013 Oct 15 22:49:07 | `<+OPG>`        | What are the Stones of Crystal-Like-Law, Falinesti, and Orichalc? |
+| 2013 Oct 15 22:49:52 | `<%MK>`         | CLL: A person. F: a fruit. O: a sword.                            |
 
 `%Void_Ghost` is Michael Kirkbride.

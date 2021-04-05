@@ -5,6 +5,13 @@ reddit: 1p1fip
 tags:
 - apocrypha
 - metaphysics
+intro-music:
+  src: ./music/Sunshine - Adagio in D Minor.mp3
+  title: "Adagio in D Minor (Bombastic), Sunshine"
+  repeat: true
+outro-music:
+  src: ./music/Passion - It Is Accomplished.mp3
+  title: "It Is Accomplished, The Last Temptation of Christ"
 about: >
   The momentum from the previous post on Music carried me into messing with
   Color as well. This one is even more made up than the last.
@@ -12,6 +19,10 @@ about: >
   MK is actually color/sound synæsthetic, so having him find this piece
   acceptable was a huge relief. Me, I’m partially colorblind.
 ---
+
+<div id="intro"></div>
+
+Same soundtrack as the first one.
 
 ## Introduction
 
@@ -66,40 +77,41 @@ necessary, as the rest of the pantheon.
 
 ### Color and Tone
 
-This is the full list of the gods and their hues and tones. I don’t know how to
-embed sound samples in HTML, and I imagine that would be rather annoying anyway,
-but I’ve included the color spectrum appropriately aligned.
+This is the full list of the gods and their hues and tones. I’ve colored the
+table rows according to their assignment; I currently do not have samples for
+the tones to put alongside them.
 
 As for why I’m listing angles in fractions of τ, see [here][tau]. Multiply the
 numerator by 2π / τ for radians; multiply by 360 / τ for degrees.
 
-|       God        | Tone | Hue Angle |
-| :--------------: | :--- | --------: |
-|     **Mara**     | C    |    11τ/12 |
-|      Namira      | C♯♭  |    23τ/24 |
-|    *Malacath*    | C♯   |         0 |
-|     Vaermina     | C♯♯  |      τ/24 |
-|   **Zenithar**   | D    |      τ/12 |
-|  Clavicus Vile   | D♯♭  |       τ/8 |
-| *Mehrunes Dagon* | D♯   |       τ/6 |
-|     Peryite      | D♯♯  |     5τ/24 |
-|    **Arkay**     | E    |       τ/4 |
-|     *Azura*      | E♯   |     7τ/24 |
-|     **Kyne**     | F    |       τ/3 |
-|     Meridia      | F♯♭  |     9τ/24 |
-|   *Molag Bal*    | F♯   |     5τ/12 |
-|     Hircine      | F♯♯  |    11τ/24 |
-|   **Stendarr**   | G    |       τ/2 |
-|     Sanguine     | G♯♭  |    13τ/24 |
-|    *Boethiah*    | G♯   |     7τ/12 |
-|    Nocturnal     | G♯♯  |    15τ/24 |
-|   **Akatosh**    | A    |      2τ/3 |
-|  Hermaeus Mora   | A♯♭  |    17τ/24 |
-|   *Sheogorath*   | A♯   |     9τ/12 |
-|     Jyggalag     | A♯♯  |    19τ/24 |
-|   **Julianos**   | B    |      5τ/6 |
-|    *Mephala*     | B♯   |    21τ/24 |
-|   **Dibella**    | C    |    11τ/12 |
+|       God        | Tone |    Hue |
+| :--------------: | :--- | -----: |
+|     **Mara**     | C    | 11τ/12 |
+|      Namira      | C♯♭  | 23τ/24 |
+|    *Malacath*    | C♯   |      0 |
+|     Vaermina     | C♯♯  |   τ/24 |
+|   **Zenithar**   | D    |   τ/12 |
+|  Clavicus Vile   | D♯♭  |    τ/8 |
+| *Mehrunes Dagon* | D♯   |    τ/6 |
+|     Peryite      | D♯♯  |  5τ/24 |
+|    **Arkay**     | E    |    τ/4 |
+|     *Azura*      | E♯   |  7τ/24 |
+|     **Kyne**     | F    |    τ/3 |
+|     Meridia      | F♯♭  |  9τ/24 |
+|   *Molag Bal*    | F♯   |  5τ/12 |
+|     Hircine      | F♯♯  | 11τ/24 |
+|   **Stendarr**   | G    |    τ/2 |
+|     Sanguine     | G♯♭  | 13τ/24 |
+|    *Boethiah*    | G♯   |  7τ/12 |
+|    Nocturnal     | G♯♯  | 15τ/24 |
+|   **Akatosh**    | A    |   2τ/3 |
+|  Hermaeus Mora   | A♯♭  | 17τ/24 |
+|   *Sheogorath*   | A♯   |  9τ/12 |
+|     Jyggalag     | A♯♯  | 19τ/24 |
+|   **Julianos**   | B    |   5τ/6 |
+|    *Mephala*     | B♯   | 21τ/24 |
+|   **Dibella**    | C    | 11τ/12 |
+{:#color-table}
 
 If you remember my definition of the color wheel, you’ll see that C♯, Red,
 happens to land on a Daedric Prince, whereas the other two are on Aedra (Kyne
@@ -150,6 +162,8 @@ with their periodic Colors as they are with periodic Tones (the Octaves).
 
 ### Synæsthesia
 
+<div id="outro"></div>
+
 The mixture of “discrete” senses into single fields is one that features
 strongly in TES lore. Pure Song is perceived as all of the mortal senses, since
 this Song is what creates the world. Tonal Architecture reshapes the Song and
@@ -169,25 +183,31 @@ ____
 
 Post-Script:
 
-> ||||
-> |:-|:-|:-|
-> |2013 Oct 18 00:26:34|`<MK>`|Can you see the admixture of color and sound yet?|
+| Date                 | Speaker | Message                                           |
+| :------------------- | :------ | :------------------------------------------------ |
+| 2013 Oct 18 00:26:34 | `<MK>`  | Can you see the admixture of color and sound yet? |
 
 That line is pretty much why I wrote this.
 
 Post-Post-Script:
 
-> ||||
-> |:-|:-|:-|
-> |2013 Oct 30 06:16:49|`<MK>`|Dat thread about colors and sounds on reddit|
-> |2013 Oct 30 06:17:09|`<!Dovahkiin>`|That was myrrlyn. Man|
-> |2013 Oct 30 06:18:07|`<MK>`|mrlyyn did the lay up, that other dude slamdunked it doing airborned cartwheels|
-> |2013 Oct 30 06:18:19|`<!Dovahhkiin>`|this one? (link)|
-> |2013 Oct 30 06:18:25|`<MK>`|y|
-> |2013 Oct 30 06:18:32|`<!Dvahhkiin>`|that was also myrrlyn|
-> |2013 Oct 30 06:18:47|`<MK>`|I don’t even|
+| Date                 | Speaker         | Message                                                                         |
+| :------------------- | :-------------- | :------------------------------------------------------------------------------ |
+| 2013 Oct 30 06:16:49 | `<MK>`          | Dat thread about colors and sounds on reddit                                    |
+| 2013 Oct 30 06:17:09 | `<!Dovahkiin>`  | That was myrrlyn. Man                                                           |
+| 2013 Oct 30 06:18:07 | `<MK>`          | mrlyyn did the lay up, that other dude slamdunked it doing airborned cartwheels |
+| 2013 Oct 30 06:18:19 | `<!Dovahhkiin>` | this one? (link)                                                                |
+| 2013 Oct 30 06:18:25 | `<MK>`          | y                                                                               |
+| 2013 Oct 30 06:18:32 | `<!Dvahhkiin>`  | that was also myrrlyn                                                           |
+| 2013 Oct 30 06:18:47 | `<MK>`          | I don’t even                                                                    |
 
 Those lines are DEFINITELY why I wrote these.
+
+Discography:
+
+- *Sunshine (Adagio in D Minor)*, track 15 on *Sunshine: Music from the Major*
+  *Motion Picture* (2007), by John Murphy
+- *It Is Accomplished*, track 20 on *Passion* (1989), by Peter Gabriel
 
 [sonochrome]: https://en.wikipedia.org/wiki/Sonochromatism
 [tau]: https://tauday.com/tau-manifesto

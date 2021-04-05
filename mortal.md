@@ -1,6 +1,7 @@
 ---
 title: Mortal
 date: 2013-12-31T16:53:51 -0500
+banner: text-daedric
 reddit: 1u4b55
 tags:
 - apocrypha

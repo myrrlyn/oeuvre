@@ -1,5 +1,6 @@
 ---
 title: "Conversations with Daedric Artifacts, Volume II: Volendrung and Scourge"
+banner: text-daedric
 date: 2015-09-10T04:48:22 -0400
 reddit: 3kdfhd
 tags:
@@ -62,12 +63,18 @@ Spellbreaker on my back and prepared to receive the mighty hammer.
 
 # You’re not going to be able to hold me
 
+{:.volendrung}
+
 I wasn’t surprised by it talking to me, but it certainly was intense. Like a
 tornado of grit ripping words into rock, except the rock was my mind.
 
 # You have too many friends
 
+{:.volendrung}
+
 ## You can’t carry friendship and have enough strength left over to carry me
+
+{:.volendrung}
 
 Set Erol never backs down from a challenge, my anvilicious friend. Unfazed, I
 grabbed its handle and slung it on my shoulder (Volendrung is ridiculously long;
@@ -77,16 +84,22 @@ pinned.
 
 ### I told you, foolish mortal. Carry your baggage or carry me
 
+{:.volendrung}
+
 “How… do… Orcs… carry… you?” I gasped.
 
 “Surely you don’t demand lone wolves of them.”
 
 # ORC FAMILY ISN’T A BURDEN
 
+{:.volendrung}
+
 “I did what your god demanded of his own, who couldn’t. Surely that counts for
 something.”
 
 ### …You did…
+
+{:.volendrung}
 
 The hammer sounded grudging. I didn’t dare think “petulant”.
 
@@ -94,7 +107,10 @@ The hammer sounded grudging. I didn’t dare think “petulant”.
 
 ## I don’t *let* you do ANYTHING
 
+{:.volendrung}
+
 > **Don’t worry; I’ll eat some of his weight.**
+{:.spellbreaker}
 
 And suddenly, Volendrung was no longer crushing me into the ground, but rather
 was just a normal, heavy piece of metal. I didn’t even know Spellbreaker could
@@ -102,10 +118,14 @@ do that, and voiced my surprise.
 
 > **I exist to cleanse as well as guard. Ash like this is dirty; I can cleanse**
 > **it. And we were both Dwemer-forged, so I know all his tricks.**
+{:.spellbreaker}
 
 ## And they abandoned you, Shield
 
+{:.volendrung}
+
 > **And they threw you in the sky, Stick.**
+{:.spellbreaker}
 
 Volendrung didn’t respond, but I could feel sullen irritation radiating off of
 it like heat. I could also feel actual heat radiating off of it – the glowing
@@ -116,6 +136,8 @@ weren’t when I first saw it. That’s when I had an idea.
 with family, you’ll stop being a burden and be helpful, right?”
 
 ### We have been apart for some time
+
+{:.volendrung}
 
 Talk was great and all, but Scourge hadn’t been reliably seen in something like
 two hundred years. Rumor had it that Divayth Fyr broke it out during the
@@ -128,14 +150,21 @@ Dragons were back and stirring things up, but Scourge had yet to reveal itself.
 
 ### What, and let you just grab her like a trinket off a shelf?
 
+{:.volendrung}
+
 Very helpful. …Wait did I hear that right?
 
 ### You don’t get Malacath’s help, wanderer; you earn it
 
+{:.volendrung}
+
 ### And yes I can hear you think
+
+{:.volendrung}
 
 > **No he can’t. You mortals just get predictable after a millenium or**
 > **several.**
+{:.spellbreaker}
 
 The hammer elected not to reply, so with no better plans, I struck out for
 Riften. If there was anywhere I could get information on Scourge’s habits, it
@@ -151,6 +180,8 @@ see this business or that, and I slapped no less than three pickpockets away
 before Volendrung deigned to take an interest.
 
 ##### These creatures know nothing of respect, do they
+
+{:.volendrung}
 
 That was the …quietest, I guess… I’d ever heard the hammer, uh, speak.
 
@@ -263,9 +294,14 @@ press the matter.
 
 ### You’re not seriously going to tell her…
 
+{:.volendrung}
+
 > **Go for it. She knows who we are. And how to behave accordingly.**
+{:.spellbreaker}
 
 ### You trust too much
+
+{:.volendrung}
 
 I gritted my teeth. I couldn’t reply to those two – I still couldn’t really
 believe I was hearing two artifacts talking in my head, and it was normal to me
@@ -274,6 +310,7 @@ apparently a one-way street, and gods help me if I reply aloud, in a public
 room.
 
 > **Volendrung can’t hear you think. I never said I couldn’t.**
+{:.spellbreaker}
 
 I choked on my mead. Emerald looked at me askance.
 
@@ -286,6 +323,7 @@ her question.
 
 > **No, I’m not trying to get you killed by talking to her. Why would you**
 > **think that?**
+{:.spellbreaker}
 
 …That was not a thought that had yet occurred to me.
 
@@ -297,12 +335,14 @@ for their awesomeness but not helping regular folk. What if a Hero goes bad?
 They’ve got ridiculous levels of power and we’re just …us.“
 
 > **I mean, she is kind of cute, but *I* would never encourage that.**
+{:.spellbreaker}
 
 Emerald nodded. “And you aren’t trying to make yourself out to be a Hero too?”
 she asked. “Seems to me anyone with even one Artifact, much less two, might be
 looking to carve a name for herself. Likely in other people’s blood.”
 
 > **You mortals. This is why my master has so much work to do, you know.**
+{:.spellbreaker}
 
 Shut up Spellbreaker you can’t read minds either.
 
@@ -313,7 +353,10 @@ I sneered at the shield.
 
 ### Drop the act moron he obviously sees past it
 
+{:.volendrung}
+
 > **Yeah but it was funny at first did you see him jump.**
+{:.spellbreaker}
 
 The hammer laughed. I hope it never does that again. It made my bones squirm.
 
@@ -325,6 +368,7 @@ been. Talen-Jei had probably dragged it out and thrown it in the canal, but
 nobody mopped that quickly.
 
 > **What part of “I exist to cleanse” did you not understand?**
+{:.spellbreaker}
 
 Sure enough, the white orb in Spellbreaker’s center was swirling with the, uh,
 colors formerly decorating the floor. Ew.
@@ -377,6 +421,7 @@ Her grin stayed put.
 “Oh be a doll and say hello,” she said. Not to me. Past me.
 
 > **Hellooooooooooo**
+{:.spellbreaker}
 
 Spellbreaker was *entirely* too chipper about this.
 
@@ -424,11 +469,16 @@ mean, for the sake of the law and justice.
 
 ### Mostly for fun
 
+{:.volendrung}
+
 This is my story, dammit.
 
 > **Fun and CLEANSING!**
+{:.spellbreaker}
 
 ### And retribution
+
+{:.volendrung}
 
 And also for the bounty. Adventure isn’t cheap.
 
@@ -443,6 +493,8 @@ was invited to Tel Fyr.
 
 ## That’s not an invitation
 
+{:.volendrung}
+
 What, you mean a scion of the most ridiculously powerful, mysterious wizard of a
 ridiculously powerful, mysterious House in Morrowind, inviting a stranger into
 their family seat, *isn’t* planning on having tea with my presence entirely
@@ -456,6 +508,7 @@ Also, as soon as the Fyr emissary started speaking to me, the innkeep vanished.
 I don’t mean in magical terms, or anything, he just bolted.
 
 > **You can’t go like this. You’re covered in ash.**
+{:.spellbreaker}
 
 “I’d be honored. Please, lead the way,” I said aloud.
 
@@ -480,16 +533,25 @@ the sky.
 
 ### Damn showy wizards
 
+{:.volendrung}
+
 > **WHEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE**
+{:.spellbreaker}
 
 ### Did they beat the dignity out of you at the forge, instead of the impurities?
 
+{:.volendrung}
+
 > **Did they beat the fun out of you at the forge, or is Malacath just so**
 > **grumpy that it rubs off?**
+{:.spellbreaker}
 
 # I’M GONNA POUND YOU INTO FOIL THE INSTANT HE WIELDS ME AGAIN YOU SHITSUCKER
 
+{:.volendrung}
+
 > **Bring it big boy. You said it yourself; I’ll suck you right up.**
+{:.spellbreaker}
 
 If I tell them to act like the millenia-old artifacts they are I will never,
 ever live it down. They might even kill me.
@@ -509,6 +571,8 @@ Volendrung lept into my hands.
 
 ### Quick, swing me at that ledge. We’re here
 
+{:.volendrung}
+
 “What makes you the expert?”
 
 The glowing yellow gem in Volendrung’s center swirled. I got the distinct
@@ -519,6 +583,7 @@ from falling upwards to falling forwards, through the entryway and into a long
 hall.
 
 > **Time to look *even cooler,* pal. Pick up your feet and drop me.**
+{:.spellbreaker}
 
 I felt like eight kinds of fool, sliding through a mushroom hall atop a glowing
 shield holding a comically enormous hammer, but it must have been impressive,
@@ -538,6 +603,7 @@ though clearly she already knew who all of us were.
 “You seem quite suited to them, Master Erol.”
 
 > **I am merely a vessel, more receptive than most.**
+{:.spellbreaker}
 
 I repeated Spellbreaker’s words. It seemed like a better idea than what my
 response was going to be.
@@ -553,7 +619,11 @@ I decided to give a non-answer. Volendrung must have agreed with me.
 
 ### Mundus was made for mortals to prove themselves. If they are refused…
 
+{:.volendrung}
+
 ### This quest is not to advance the opening of the Gate, but to await it
+
+{:.volendrung}
 
 I did not expect Volendrung to have such a way with words. I repeated his
 statements, trying to sound as if they were my own idea.
@@ -574,8 +644,11 @@ I’ll have them all at once, or even at all, but it’s sure to be a worthwhile
 journey, no matter the destination.”
 
 > **Well said, Set.**
+{:.spellbreaker}
 
 ### You speak with honor, Erol
+
+{:.volendrung}
 
 Delte turned and set off down a corridor I hadn’t seen, and I followed. We wound
 our way through the tower, and I was thoroughly lost. Who knew mushrooms look
@@ -600,15 +673,20 @@ allows them to ride a surge of the raw forces of Mundrial Creation, spreading
 their influence and, from what we gather, providing a sensation they very nearly
 crave, if the Princes can even be said to experience such things.”
 
-### Words words words words words shut up and show some results woman
+#### Words words words words have any of you *done* anything this century
+
+{:.volendrung}
 
 > **Nothing wrong with a little small talk, Volly. Just because we already**
-> **know** **all this doesn’t mean Set here can’t learn a thing or three.**
+> **know all this doesn’t mean Set here can’t learn a thing or three.**
 >
 > **Also, what happened to you being respectful? I thought Scourge was**
 > **supposed to be the spiteful one.**
+{:.spellbreaker}
 
-### Words bore me and accomplish nothing. Act or be silent
+#### Words bore me and accomplish nothing. Act or be silent
+
+{:.volendrung}
 
 Delte continued walking, oblivious. I hoped. We descended another staircase, and
 came out into a vast chamber, pocketed with dark windows all around its edge.
@@ -658,6 +736,8 @@ little bit humble.
 
 ### Scourge WON’T have you with that kind of attitude
 
+{:.volendrung}
+
 Orrrrr maybe it can hurt. Okay. Add another dash of self-confidence, I suppose.
 
 Delte stopped at a section of wall seemingly no different from the rest.
@@ -673,18 +753,24 @@ matter – and to a Telvanni, they probably were – and left.
 
 ## I can feel her
 
+{:.volendrung}
+
 “Okay question.”
 
 “Why is Scourge a she? For that matter, why are you two he?”
 
 > **I’m an odd number. Evens are women. Irrationals get other options. You**
 > **don’t even want to know about the negatives.**
+{:.spellbreaker}
 
 ### I just kill things. Scourge is far less pleasant to her victims
+
+{:.volendrung}
 
 Cheery.
 
 > **Well, what are you waiting for? We’re here.**
+{:.spellbreaker}
 
 We weren’t anywhere, as far as I could tell. Feeling stupid and decidedly rude,
 I hefted Volendrung. No better ideas came to mind, so I slammed him into the
@@ -706,8 +792,11 @@ didn’t help defend an Orc as much as I could have to get Volendrung. Scourge w
 just …there.
 
 > *I was more or less retired, you see.*
+{:.scourge}
 
 ## I didn’t realize that was an option, sister
+
+{:.volendrung}
 
 Volendrung sounded spiteful. I wasn’t sure if it was disappointment or envy
 tinging his voice, but, there was something.
@@ -717,6 +806,7 @@ tinging his voice, but, there was something.
 > *call for my talents.*
 >
 > *What, mortal mine, is THAT one doing here?*
+{:.scourge}
 
 Her voice shifted enough that I was reasonably sure she meant Spellbreaker, not
 Volendrung.
@@ -725,6 +815,7 @@ Volendrung.
 > **Besides, the Corprusarium? This place is LEGEND. Peryite sent me here**
 > **maybe** **twice in the whole time it’s been established. And you’re here**
 > **all the time? There is NO justice.**
+{:.spellbreaker}
 
 <!-- -->
 
@@ -732,32 +823,51 @@ Volendrung.
 > *infected not with Mundrial disease but agents of your master, or worse, with*
 > *diseases driven by him. Do you have any idea how much work it is just to be*
 > *in this room?*
+{:.scourge}
+
+<!-- -->
 
 > **I know! Isn’t it wonderful?**
+{:.spellbreaker}
+
+<!-- -->
 
 > *The only wonderful thing is how many Daedra I get to kill.*
+{:.scourge}
 
 ## And you never invited me
 
+{:.volendrung}
+
 > *I’ve missed you too brother dear. But this requires slightly more finesse*
 > *than you might like. Or have.*
+{:.scourge}
 
 Volendrung rumbled. Unpleasantly.
 
 > *It has been getting dreary, I will admit. It will be good to roam again. And*
 > *there are always Daedra to banish on the surface. Imagine what havoc we*
 > *could wreak together! Father will have so many new snacks to eat.*
+{:.scourge}
+
+<!-- -->
 
 > **THAT’S what you do to them? You’re a MONSTER!**
+{:.spellbreaker}
 
 Volendrung did that horrible psychic laugh again, and I tried to cower my way
 through the floor.
 
 > *Funny how you never complained when it was us that got eaten.*
+{:.scourge}
 
-# Funny how altering that much AE didn’t affect your precious order then
+# Funny how altering that much Æ didn’t affect your precious order then
+
+{:.volendrung}
 
 > # YOU CALL US MONSTERS WHEN YOU SIMPLY STOOD AND WATCHED US BE MADE THIS WAY
+
+{:.scourge}
 
 My nose was definitely bleeding. Hearing them speak together, that loudly, HURT.
 
@@ -770,6 +880,7 @@ least a day eight activity. Day six, if you’re in a rush.”
 
 > *Follow the attendant, mortal mine, and let me talk on the way. That goes for*
 > *you two, as well.*
+{:.scourge}
 
 I did. Spellbreaker and Volendrung remained silent. The one seemed cowed, the
 other, like a pit fighter whose opponent fainted and now was ready to go and had
@@ -790,6 +901,7 @@ nothing to do. I pitied my eventual mugger.
 > *become so. Feuding families make strong alliances, and I know they persist*
 > *even after departure. I suppose I must acknowledge Peryite’s role in*
 > *creating this place…*
+{:.scourge}
 
 The shield seemed mollified, and radiated something almost like satisfaction. I
 definitely saw his central gemstone glowing a happy yellow.
@@ -797,7 +909,10 @@ definitely saw his central gemstone glowing a happy yellow.
 > *It’s not just the Daedra I send on to the Ashpit, you know. Every death here*
 > *is a tribute to our Father. The pestilences are vanquished foes. But the*
 > *patients… the patients are soldiers returning home.*
+{:.scourge}
 
 Scourge paused, seeming nostalgic.
 
 ## They would make fine Orcs
+
+{:.volendrung}

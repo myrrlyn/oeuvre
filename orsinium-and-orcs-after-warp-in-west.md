@@ -1,6 +1,8 @@
 ---
-title: Orsinium and the Orcs – After the Warp in the West
+title: Orsinium and the Orcs
+subtitle: After the Warp in the West
 date: 2012-12-18T07:06:11 -0500
+banner: map-wilderness
 reddit: 151r8r
 tags:
 - metaphysics

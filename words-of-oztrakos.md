@@ -1,5 +1,6 @@
 ---
 title: The Words of Oztrakos
+banner: map-stylized
 date: 2014-11-26T14:18:19 -0500
 reddit: 2ni654
 tags:
@@ -235,7 +236,7 @@ Sing loud the songs of your ancestors. Let your descendants sing of you. Let us
 live as if we shall never die; let us live as if we shall die tomorrow. Let our
 lives echo everlasting in the stone of the world.
 
-[words-1]: https://redd.it/2ni654
-[words-2]: https://redd.it/2nlb35
-[words-3]: https://redd.it/2nptag
-[words-4]: https://redd.it/56q5yr
+[words-1]: https://old.reddit.com/r/teslore/comments/2ni654
+[words-2]: https://old.reddit.com/r/teslore/comments/2nlb35
+[words-3]: https://old.reddit.com/r/teslore/comments/2nptag
+[words-4]: https://old.reddit.com/r/teslore/comments/56q5yr

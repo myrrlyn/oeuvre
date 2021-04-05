@@ -5,6 +5,13 @@ reddit: 1oybze
 tags:
 - apocrypha
 - metaphysics
+intro-music:
+  src: ./music/Sunshine - Adagio in D Minor.mp3
+  title: "Adagio in D Minor (Bombastic), Sunshine"
+  repeat: true
+outro-music:
+  src: ./music/Passion - It Is Accomplished.mp3
+  title: "It Is Accomplished, The Last Temptation of Christ"
 about: >
   This is probably the text for which I am most well known. Which is somewhat
   ironic, since I set out to be the Orc guy and am not a music theorist. Despite
@@ -16,77 +23,17 @@ about: >
   Still, I made this up out of whole cloth and no sleep. I feel obligated to
   have that disclaimer posted. It gets even wilder for the sequel.
 
-  The inspiration for these two posts came from some MK stories on `#memospore`;
-  I’ve included them below for reference.
-
-  ____
-
-  > Tamriel<br />
-  > Starry Heart<br />
-  > That whole fucking thing is a song<br />
-  > It was made either out of 12 planets<br />
-  > or from two brothers that split in the womb<br />
-  > either way, it’s the primal wail<br />
-  > and those that grew up on it<br />
-  > they can’t help but hear it<br />
-  > and add to it<br />
-  > or try to control it<br />
-  > or run from it<br />
-  > the reason there IS music on Tamriel at ALL<br />
-  > is because it exists<br />
-  > it was and is<br />
-  > and it will not stop<br />
-  > there are repeats in it<br />
-  > plays on a tune<br />
-  > variations<br />
-  > and most likely<br />
-  > Magnus?<br />
-  > he’s the one that made the fucker<br />
-  > and now that’s why he looks back on it<br />
-  > every single day<br />
-  > that’s his promise<br />
-  > when you wake up, I will still listen<br />
-  > I’m sorry I left<br />
-  > but hey<br />
-  > I’m still right up here<br />
-  > And my mnemoli? They show up every now and then.<br />
-  > and collect all the songs you’ve made since the last time around<br />
-  > the last real moment<br />
-  > The Mnemoli?<br />
-  > They’re the keepers of the Elder Scrolls.<br />
-  > They cannot be fixed until seen.<br />
-  > And they cannot be seen until a moent.<br />
-  > And you, your hero, makes that moment.
-
-  ____
-
-  Q: In musical terms, would you say that the Void is subgradiated noise, pure
-  silence, or something else entirely?
-
-  > A: I would say it’s deafness. Which is why people that travel there get
-  > sensorily unraveled. Wait, better: try not to imagine a world without music.
-
-  Q: Could the Towers be construed as Tuning Forks, given your music statement
-  yesterday?
-
-  > A: yes, maybe. more like maestros
-
-  Q: How does the Sharmat’s line I AM OLDER THAN MUSIC tie in with the concept
-  of Music as a fundamental element of the world?
-
-  > A: Nice one. He’s ego-trippin’ and balls-trippin’ at the same time. Remember,
-  > that quote is from the Sermons. Consider the source.
-
+  The inspiration for these two posts came from some MK stories on `#memospore`.
+  They are attached at the end of the piece.
 ---
 
-Foreword: [play this song][sunshine-adagio] as
-you read. It automatically repeats.
+<div id="intro"></div>
+
+Play the above music before you start.
 
 Music is the underlying force of the TES universe. It has laws and structures
 governing its function in the world just as physics does. This is my effort to
 describe the Theory of Music.
-
-____
 
 ## The Octave
 
@@ -103,34 +50,42 @@ similar-yet-different gods.
 So our octave goes like this
 
 > **C** Mara
+{:.piano-key .aedra}
 
 <!-- -->
 
 > **D** Zenithar
+{:.piano-key .aedra}
 
 <!-- -->
 
 > **E** Arkay
+{:.piano-key .aedra}
 
 <!-- -->
 
 > **F** Kyne
+{:.piano-key .aedra}
 
 <!-- -->
 
 > **G** Stendarr
+{:.piano-key .aedra}
 
 <!-- -->
 
 > **A** Akatosh
+{:.piano-key .aedra}
 
 <!-- -->
 
 > **B** Julianos
+{:.piano-key .aedra}
 
 <!-- -->
 
 > **C** Dibella
+{:.piano-key .aedra}
 
 Why this ordering, you ask? I explained Mara/Dibella as C above, but let’s
 expand on this.
@@ -205,103 +160,130 @@ death. And so forth.
 For the purposes of this list, accidentals are left-associative. Thus,
 n♯♭ is n, raised one-half, lowered one-quarter.
 
-> **C** Mara
+> > > **C** Mara
+{:.piano-key .aedra}
 
 <!-- -->
 
-> > > **C♯♭ / D♭♭** Namira
+> **C♯♭ / D♭♭** Namira
+{:.piano-key .daedra}
 
 <!-- -->
 
 > > **C♯ / D♭** Malacath
+{:.piano-key .daedra .cothot}
 
 <!-- -->
 
-> > > **C♯♯ / D♭♯** Vaermina
+> **C♯♯ / D♭♯** Vaermina
+{:.piano-key .daedra}
 
 <!-- -->
 
-> **D** Zenithar
+> > > **D** Zenithar
+{:.piano-key .aedra}
 
 <!-- -->
 
-> > > **D♯♭ / E♭♭** Clavicus Vile
+> **D♯♭ / E♭♭** Clavicus Vile
+{:.piano-key .daedra}
 
 <!-- -->
 
 > > **D♯ / E♭** Mehrunes Dagon
+{:.piano-key .daedra .cothot}
 
 <!-- -->
 
-> > > **D♯♯ / E♭♯** Peryite
+> **D♯♯ / E♭♯** Peryite
+{:.piano-key .daedra}
 
 <!-- -->
 
-> **E** Arkay
+> > > **E** Arkay
+{:.piano-key .aedra}
 
 <!-- -->
 
 > > **E♯ / F♭** Azura
+{:.piano-key .daedra .cothot}
 
 <!-- -->
 
-> **F** Kyne
+> > > **F** Kyne
+{:.piano-key .aedra}
 
 <!-- -->
 
-> > > **F♯♭ / G♭♭** Meridia
+> **F♯♭ / G♭♭** Meridia
+{:.piano-key .daedra}
 
 <!-- -->
 
 > > **F♯ / G♭** Molag Bal
+{:.piano-key .daedra .cothot}
 
 <!-- -->
 
-> > > **F♯♯ / G♭♯** Hircine
+> **F♯♯ / G♭♯** Hircine
+{:.piano-key .daedra}
 
 <!-- -->
 
-> **G** Stendarr
+> > > **G** Stendarr
+{:.piano-key .aedra}
 
 <!-- -->
 
-> > > **G♯♭ / A♭♭** Sanguine
+> **G♯♭ / A♭♭** Sanguine
+{:.piano-key .daedra}
 
 <!-- -->
 
 > > **G♯ / A♭** Boethiah
+{:.piano-key .daedra .cothot}
 
 <!-- -->
 
-> > > **G♯♯ / A♭♯** Nocturnal
+> **G♯♯ / A♭♯** Nocturnal
+{:.piano-key .daedra}
 
 <!-- -->
 
-> **A** Akatosh
+> > > **A** Akatosh
+{:.piano-key .aedra}
 
 <!-- -->
 
-> > > **A♯♭ / B♭♭** Hermaeus Mora
+> **A♯♭ / B♭♭** Hermaeus Mora
+{:.piano-key .daedra}
 
 <!-- -->
 
 > > **A♯ / B♭** Sheogorath
+{:.piano-key .daedra .cothot}
 
 <!-- -->
 
-> > > **A♯♯ / B♭♯** Jyggalag
+> **A♯♯ / B♭♯** Jyggalag
+{:.piano-key .daedra}
 
 <!-- -->
 
-> **B** Julianos
+> > > **B** Julianos
+{:.piano-key .aedra}
 
 <!-- -->
 
 > > **B♯ / C♭** Mephala
+{:.piano-key .daedra .daedra .cothot}
 
 <!-- -->
 
-> **C** Dibella
+> > > **C** Dibella
+{:.piano-key .aedra .last}
+
+<!-- -->
 
 Incidentally, if one makes this list into a wheel, with Aedric overtones as the
 longest spokes, the 7 Prominent Daedra with spokes of middling length, and the
@@ -331,6 +313,10 @@ as necessary to the Performance as it.
 MK has stated that the Towers are like maestros, performing and conducting the
 Song of Creation. They can be compared to roles in an Orchestra, and I will do
 so here.
+
+<div id="outro"></div>
+
+(Now play this music.)
 
 ### DIVINE
 
@@ -364,21 +350,79 @@ ____
 In conclusion, I present to you the Orchestra of the Aurbis, in structure and
 form. The Song goes ever onwards, and though sections may be silenced, silence
 is ever a part of music. So long as the Conductor stands, the Song will go on.
-The [coda][accomplished] of a kalpic movement does
-not necessarily herald the conclusion of the Performance, but merely provides an
-opportunity for a new movement, a new expression of the Great Song, to be
-played. The Symphony is complete in and of itself, and can never be destroyed.
-All they require, is an Audience.
+The [coda] of a kalpic movement does not necessarily herald the conclusion of
+the Performance, but merely provides an opportunity for a new movement, a new
+expression of the Great Song, to be played. The Symphony is complete in and of
+itself, and can never be destroyed. All they require, is an Audience.
 
 All it requires, is us.
 
 ____
 
-Post-Script:
+Inspiration:
 
-There is a [sequel](http://redd.it/1p1fip).
+> Tamriel<br />
+> Starry Heart<br />
+> That whole fucking thing is a song<br />
+> It was made either out of 12 planets<br />
+> or from two brothers that split in the womb<br />
+> either way, it’s the primal wail<br />
+> and those that grew up on it<br />
+> they can’t help but hear it<br />
+> and add to it<br />
+> or try to control it<br />
+> or run from it<br />
+> the reason there IS music on Tamriel at ALL<br />
+> is because it exists<br />
+> it was and is<br />
+> and it will not stop<br />
+> there are repeats in it<br />
+> plays on a tune<br />
+> variations<br />
+> and most likely<br />
+> Magnus?<br />
+> he’s the one that made the fucker<br />
+> and now that’s why he looks back on it<br />
+> every single day<br />
+> that’s his promise<br />
+> when you wake up, I will still listen<br />
+> I’m sorry I left<br />
+> but hey<br />
+> I’m still right up here<br />
+> And my mnemoli? They show up every now and then.<br />
+> and collect all the songs you’ve made since the last time around<br />
+> the last real moment<br />
+> The Mnemoli?<br />
+> They’re the keepers of the Elder Scrolls.<br />
+> They cannot be fixed until seen.<br />
+> And they cannot be seen until a moent.<br />
+> And you, your hero, makes that moment.
 
-[accomplished]: https://www.youtube.com/watch?v=Uz1AwyyEKoo&list=PLqnnuEVGcRQy6dzmNbXJpU5mfGXVoaCqT&index=20 "It Is Accomplished, The Last Temptation of Christ"
-[sunshine-adagio]: http://www.listenonrepeat.com/watch?v=hYMseN4XzxI "Adagio in D Minor (Bombastic), Sunshine"
+____
+
+Q: In musical terms, would you say that the Void is subgradiated noise, pure
+silence, or something else entirely?
+
+> A: I would say it’s deafness. Which is why people that travel there get
+> sensorily unraveled. Wait, better: try not to imagine a world without music.
+
+Q: Could the Towers be construed as Tuning Forks, given your music statement
+yesterday?
+
+> A: yes, maybe. more like maestros
+
+Q: How does the Sharmat’s line I AM OLDER THAN MUSIC tie in with the concept
+of Music as a fundamental element of the world?
+
+> A: Nice one. He’s ego-trippin’ and balls-trippin’ at the same time. Remember,
+> that quote is from the Sermons. Consider the source.
+
+Discography:
+
+- *Sunshine (Adagio in D Minor)*, track 15 on *Sunshine: Music from the Major*
+  *Motion Picture* (2007), by John Murphy
+- *It Is Accomplished*, track 20 on *Passion* (1989), by Peter Gabriel
+
+[coda]: //c0da.es
 [wheel-tone-c]: ./images/wheel-tones-c.png
 [wheel-tone-d]: ./images/wheel-tones-d.png

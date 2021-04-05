@@ -1,6 +1,7 @@
 ---
 title: A Bedtime Story About the Elves
 date: 2013-11-26T03:28:48 -0500
+banner: map-skyrim
 reddit: 1rhg1f
 tags:
 - apocrypha
@@ -22,9 +23,7 @@ about: >
   apologize enough for the flood of ~~shitposting~~ bedtime storytelling
   that came of this.
 
-  Just kidding. No ragrets.
-
-  [discussion post]: https://redd.it/1n322k
+  [discussion post]: https://old.reddit.com/r/teslore/comments/1n322k
 ---
 
 “So, you want a story, eh? Hahah… Let’s see. Ah, you’ve heard enough of

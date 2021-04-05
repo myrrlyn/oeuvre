@@ -21,7 +21,7 @@ sentience.
 Let’s take a look at this, shall we?
 
 We know that in gameplay, the ten races get black souls and everyone else gets
-white. But this being /r/TESLore, we don’t really care.
+white. But this being [/r/TESLore], we don’t really care.
 
 So, onto the lore. Four races of men (Bretons, Cyrodiils, Nords, Redguards) have
 black. Four races of mer (Altmer, Bosmer, Dunmer, Orsimer). Two beasts
@@ -39,18 +39,18 @@ Examining both in-game examples of goblin society or even just the relevant
 quite intelligent, possessed of a social construct, and quite possibly sentient.
 Yet they have white souls.
 
-Okay I have class in half an hour so I’m going to <del>wrap this up</del> really
-get going. I may come back with an edit. Here’s my actual point.
+Okay I have class in half an hour so I’m going to ~~wrap this up~~ really get
+going. I may come back with an edit. Here’s my actual point.
 
 ____
 
 Arkay doesn’t award black souls because of a level of sentience or intelligence.
 He awards it because of a level of maturity and civilization.
 
-As I [wrote earlier](http://redd.it/151r7k/), the Orcs changed their nature and
-appearance during the Warp in the West. Not a physical makeover, but more of a
-mental one. They changed from being seen as monsters to being seen as, well,
-men. Of a sort. Different discussion.
+As I [wrote earlier], the Orcs changed their nature and appearance during the
+Warp in the West. Not a physical makeover, but more of a mental one. They
+changed from being seen as monsters to being seen as, well, men. Of a sort.
+Different discussion.
 
 Orcs didn’t magically become more intelligent. They didn’t suddenly gain
 sentience they hadn’t had. They’ve always been sentient. They were Aldmer, then
@@ -106,3 +106,6 @@ did for the intro. I really spit it out in a time crunch. Class in fifteen, now.
 I guess the first part had a lot of research to it.
 
 Discuss.
+
+[wrote earlier]: /oeuvre/orsinum-and-orcs-after-warp-in-west
+[/r/TESLore]: //old.reddit.com/r/teslore

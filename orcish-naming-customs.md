@@ -1,10 +1,12 @@
 ---
 title: Orcish Naming Customs
 date: 2013-01-03T23:27:42 -0500
+banner: map-wilderness
 reddit: 15xkxu
 tags:
 - orcs
 - worldbuilding
+toc: false
 about: >
   This resulted from my work in the Tamriel Scholars’s Guild. I don’t like weak
   names, so I put some thought into how to make a real-sounding Orcish name, and

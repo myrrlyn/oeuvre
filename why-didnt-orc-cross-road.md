@@ -1,5 +1,6 @@
 ---
 title: "“Why Didn’t the Orc Cross the Road?”"
+banner: map-wilderness
 date: 2016-10-07T22:13:22 -0400
 reddit: 56ez7p
 tags:
@@ -12,9 +13,9 @@ about: >
   write about people talking about why Orcs don’t use roads.
 
   It wound up becoming my most highly voted piece of all time within a day,
-  which kind of annoys me because this is not even close to my best work, but it
-  also failed to make the Compendium, which annoys me further because I’m a
-  narcissist like that.
+  which kind of annoys me because (a) this is not even close to my best work and
+  (b) this is blatant *Codex of Alera* theft, but it also failed to make the
+  Compendium, which annoys me further because I’m a narcissist like that.
 ---
 
 It’s a joke in every tavern, taproom, bar, and brothel this side of the Niben.
@@ -115,8 +116,8 @@ He took another drink.
 
 "Your roads are broken."
 
-I frowned in confusion, and decided to have another fork of stew -- they make
-thick stew in Bruma -- while waiting for clarification. None came.
+I frowned in confusion, and decided to have another fork of stew — they make
+thick stew in Bruma — while waiting for clarification. None came.
 
 "The roads aren’t broken. The Empire sinks a lot of money into roads."
 

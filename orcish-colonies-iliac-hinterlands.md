@@ -1,5 +1,6 @@
 ---
 title: Orcish Colonies of the Iliac Hinterlands
+banner: map-wilderness
 date: 2014-09-07T15:48:06 -0400
 reddit: 2gouvd
 tags:
@@ -76,16 +77,16 @@ Redguards, some of which I have listed here for reference:
 
 - The Sea Pigs, also called Or-sea-mer or Shorks (a bad portmanteau of Shark and
   Orc), depending on whom you ask, display a rare quality of their kind – namely,
-  an affinity for water and claim the shoreline of the northern Dragontails and
-  live in caves along the coast. They like to prey upon passing ships, and have
-  developed various flippers which they can attach to hands and feet to swim at
-  great speeds. As they possess neither the equipment nor the capability for
-  constructing ships, they swim to their prey, board, and capture the ship, then
-  bring it home by deliberately dashing it against the rocky coast. Once the ship
-  is broken, those who remained on shore come out to scavenge. Despite the danger
-  of Sea Pig attacks, sailing close to shore is still necessary as the Iliac’s
-  frequent storms are far worse on open sea, and when the Shorks are inland,
-  there is no risk other than the well-charted rocks.
+  an affinity for water – and claim the shoreline of the northern Dragontails
+  and live in caves along the coast. They like to prey upon passing ships, and
+  have developed various flippers which they can attach to hands and feet to
+  swim at great speeds. As they possess neither the equipment nor the capability
+  for constructing ships, they swim to their prey, board, and capture the ship,
+  then bring it home by deliberately dashing it against the rocky coast. Once
+  the ship is broken, those who remained on shore come out to scavenge. Despite
+  the danger of Sea Pig attacks, sailing close to shore is still necessary as
+  the Iliac’s frequent storms are far worse on open sea, and when the Shorks are
+  inland, there is no risk other than the well-charted rocks.
 
 - The Stone Skulls claim the Dragontails just south of the coast down to about
   the latitude of Kozanset. Exact demarcations are impossible, as the Orcs know

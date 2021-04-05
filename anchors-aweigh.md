@@ -1,6 +1,7 @@
 ---
 title: Anchors Aweigh
 date: 2014-02-18T14:05:57 -0500
+banner: text-daedric
 reddit: 1y9jxz
 tags:
 - eso

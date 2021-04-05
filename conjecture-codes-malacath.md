@@ -1,6 +1,7 @@
 ---
 title: Conjecture on the Codes of Malacath
 date: 2012-12-27T13:46:41-0500
+banner: map-wilderness
 reddit: 15j34k
 tags:
 - orcs
