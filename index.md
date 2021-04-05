@@ -32,8 +32,8 @@ maintainer of the subreddit’s CSS.
 In addition to my behind-the-scenes work on /r/teslore’s visual appearance, I
 also improved my writing and understanding of the series meta-canon by hanging
 out in the Memospore chatrooms. Most of my posts from late 2013 on are in the
-/r/teslore [Compendium], and two are in the much, much narrower
-[Suggested Reading] list.
+/r/teslore [Compendium] (specifically [my section]), and two are in the much,
+much narrower [Suggested Reading] list.
 
 I started drifting away from the community as university wound down, and
 ultimately lost the habit entirely shortly after starting work. I miss it, and I
@@ -45,5 +45,6 @@ my friends there. I hope you’ll enjoy these.
 
 [Compendium]: //old.reddit.com/r/teslore/w/archive
 [Suggested Reading]: /old.reddit.com/r/teslore/w/suggestedreading
+[my section]: //old.reddit.com/r/teslore/wiki/compilationauthor#wiki_myrrlyn
 [/r/teslore]: //old.reddit.com/r/teslore
 [/u/numinit]: //old.reddit.com/u/numinit
