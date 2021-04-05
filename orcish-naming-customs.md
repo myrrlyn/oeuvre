@@ -5,15 +5,19 @@ reddit: 15xkxu
 tags:
 - orcs
 - worldbuilding
+about: >
+  This resulted from my work in the Tamriel Scholars’s Guild. I don’t like weak
+  names, so I put some thought into how to make a real-sounding Orcish name, and
+  came up with this.
 ---
 
-# Overview
+## Overview
 
 Orcs all have basically the same name. Given name, prefix-surname. Very simple,
 very universal. I like that about the Orcs. Gives them a big sense of community,
 though not variety, that other races just don't quite have.
 
-# Lore
+## Lore
 
 Known Orcish names consist of the Orc’s own name, followed by gro-Father or
 gra-Mother, depending on the Orc’s sex.
@@ -85,9 +89,3 @@ Krognaz gro-Makoza, is male for the given name and female for the surname. I
 don’t know how well that came across, but I’m rather proud of it.
 
 [uesp]: http://www.uesp.net/wiki/Lore:Orc_Names
-
-<aside markdown="block" id="about-text">
-This resulted from my work in the Tamriel Scholars’s Guild. I don’t like weak
-names, so I put some thought into how to make a real-sounding Orcish name, and
-came up with this.
-</aside>

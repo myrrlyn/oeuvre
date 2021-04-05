@@ -5,6 +5,11 @@ reddit: 15j34k
 tags:
 - orcs
 - worldbuilding
+about: >
+  I wrote this piece during an information trawl for my RPG character. Its age
+  is pretty evident, both in writing style and content.
+
+  Covering up old awkwardness is a sign of weakness. We all started somewhere.
 ---
 
 The Code of Malacath is a set of unwritten rules passed through the Orcish
@@ -48,63 +53,62 @@ Orcish people.
 
 - No theft
 
-    This one is fairly self-explanatory. The Orcs are a highly tribal culture,
-    and acts of pure selfishness hurt the tribe. This is to be avoided.
-    Therefore, theft is condemned. Property is well defined, and if status is
-    vague, the item in question is considered as belonging to the Chief until he
-    says otherwise. The tribe must survive, even to individual detriment.
+  This one is fairly self-explanatory. The Orcs are a highly tribal culture, and
+  acts of pure selfishness hurt the tribe. This is to be avoided. Therefore,
+  theft is condemned. Property is well defined, and if status is vague, the item
+  in question is considered as belonging to the Chief until he says otherwise.
+  The tribe must survive, even to individual detriment.
 
 - No cowardly murder
 
-    Similar to the theft rule, murder is forbidden. It damages the tribe.
-    Killing in combat is of course exempt, as combat is a challenge and the
-    better Orc wins (see below). 𠇊“Cowardly” killings include backstabbing, using
-    magic, or poisoning the other. There are probably more, and it’s most likely
-    a subjective rule than a list of criteria.
+  Similar to the theft rule, murder is forbidden. It damages the tribe. Killing
+  in combat is of course exempt, as combat is a challenge and the better Orc
+  wins (see below). “Cowardly” killings include backstabbing, using magic, or
+  poisoning the other. There are probably more, and it’s most likely a
+  subjective rule than a list of criteria.
 
 - Death in combat is glory
 
-    Much like the Nords, the Orcs have a warrior culture and it is shown
-    (through *Skyrim’s* Old Orc) that they would rather die fighting than in
-    bed. Malacath prizes fighters, and would rather one of his own lose a fight
-    than die without fighting.
+  Much like the Nords, the Orcs have a warrior culture and it is shown (through
+  *Skyrim’s* Old Orc) that they would rather die fighting than in bed. Malacath
+  prizes fighters, and would rather one of his own lose a fight than die without
+  fighting.
 
 - Only the most strong may thrive
 
-    Seen in the Strongholds’ marriage practices. Only the Chief takes wives and
-    bears children. The strongest of his sons becomes Chief, and the cycle
-    continues. Wives are likely taken from other Strongholds to offset
-    inbreeding. Orcs outside the Strongholds are likely exempt from this
-    marriage rule, but they still compete fiercely. This can be seen in their
-    dedication and work ethic, be they mining, smithing, or even cooking. The
-    Gourmet wasn’t satisfied being anything less.
+  Seen in the Strongholds’ marriage practices. Only the Chief takes wives and
+  bears children. The strongest of his sons becomes Chief, and the cycle
+  continues. Wives are likely taken from other Strongholds to offset inbreeding.
+  Orcs outside the Strongholds are likely exempt from this marriage rule, but
+  they still compete fiercely. This can be seen in their dedication and work
+  ethic, be they mining, smithing, or even cooking. The Gourmet wasn’t satisfied
+  being anything less.
 
 - Isolation is safety
 
-    Born from three eras of being hunted and killed by all, especially Bretons
-    and Redguards. Seen in the Strongholds’ xenophobia to non-Orcs. They are not
-    fanatical about it, however, as non-Orcs may be granted Blood-kin status,
-    but they must first earn it.
+  Born from three eras of being hunted and killed by all, especially Bretons and
+  Redguards. Seen in the Strongholds’ xenophobia to non-Orcs. They are not
+  fanatical about it, however, as non-Orcs may be granted Blood-kin status, but
+  they must first earn it.
 
 - Courage, Duty, Honor, Loyalty: prized virtues
 
 - Fight with valor: again, warrior culture. Orcs are fierce warriors and
-weakness will not be tolerated. One with the Berserker Rage ability.
+  weakness will not be tolerated. One with the Berserker Rage ability.
 
 - Mercy is for the weak
 
-    Orcs do not have jails where prisoners may wait and think on their misdeeds.
-    They must sacrifice, in means or health. Orcs do not take prisoners in
-    battle nor lessen their ferocity for seemingly less potent victims. This can
-    be seen in their behavior in raids described by Bretons, though one must
-    filter out some bias.
+  Orcs do not have jails where prisoners may wait and think on their misdeeds.
+  They must sacrifice, in means or health. Orcs do not take prisoners in battle
+  nor lessen their ferocity for seemingly less potent victims. This can be seen
+  in their behavior in raids described by Bretons, though one must filter out
+  some bias.
 
 - Cold iron, hot blood
 
-    This one is just a motto made from dialogue (with Borgakh the Steel Heart,
-    if I remember correctly). Orcs love their weaponry (they are naturally
-    talented smiths) and fighting. This seems like an apt summary of their
-    behavior.
+  This one is just a motto made from dialogue (with Borgakh the Steel Heart, if
+  I remember correctly). Orcs love their weaponry (they are naturally talented
+  smiths) and fighting. This seems like an apt summary of their behavior.
 
 ____
 
@@ -136,10 +140,3 @@ the most man-kin of the mer-folk and are seen by themselves, men, and mer as
 more aligned with man than elf. However, the practices I describe in
 Malacath’s Codes are likely inspired by or drawn from their pre-transformation
 existence as Aldmer sundered from their former divine state.
-
-<aside markdown="block" id="about-text">
-I wrote this piece during an information trawl for my RPG character. Its age is
-pretty evident, both in writing style and content.
-
-Covering up old awkwardness is a sign of weakness. We all started somewhere.
-</aside>

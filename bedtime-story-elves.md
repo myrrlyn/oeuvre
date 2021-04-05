@@ -6,6 +6,25 @@ tags:
 - apocrypha
 - elves
 - story
+about: >
+  This is the tale of a man telling his grandson a story. Imagine a mix between
+  *The Princess Bride*’s narrator, and Marcus from *Borderlands*, set in
+  Cyrodiil or Skyrim farm country.
+
+  This post, like *The Numidiad*, was born as a comment on a [discussion post]
+  by /u/Mr_Flippers. Unlike *The Numidiad*, this was received with way more
+  enthusiasm than it deserved. (I’m actually proud of *The Numidiad*; this piece
+  was a joke.)
+
+  Also unlike *The Numidiad*, this spawned a plague of other Bedtime Stories
+  About the Lore, which culminated in *A Bedtime Story About Bedtime Stories*.
+  Just search the subreddit for bedtime stories. It was a rough time. I cannot
+  apologize enough for the flood of ~~shitposting~~ bedtime storytelling
+  that came of this.
+
+  Just kidding. No ragrets.
+
+  [discussion post]: https://redd.it/1n322k
 ---
 
 “So, you want a story, eh? Hahah… Let’s see. Ah, you’ve heard enough of
@@ -14,7 +33,7 @@ adventure and dragons and treasure for a week. How about a story of homes.”
 “The world has always been divided into two camps. First there was the void, and
 in the void we-”
 
->”Anu and Pad-oh-may, I know that already.”
+> ”Anu and Pad-oh-may, I know that already.”
 
 “Fine, fine. And so the elf gods ripped out Shor’s heart and flung it across the
 ocean, and it made Red Mountain. And then the Men and the Elves went their
@@ -22,11 +41,11 @@ separate ways.”
 
 “Now there were two groups of mortals…”
 
->“What about the Akaviri?”
+> “What about the Akaviri?”
 
 “Three groups—”
 
->“And the Hist and Argonians?”
+> “And the Hist and Argonians?”
 
 “There was all kinds of mortals, but we only care about the biggest. They were
 called the Ehlnofey, and they split in half: the elves and the men.”
@@ -35,13 +54,13 @@ called the Ehlnofey, and they split in half: the elves and the men.”
 they stopped fighting, but only because they were tired and also nowhere near
 each other. Hard to fight with your brother when he’s in a different room, eh?”
 
->“No, I just go to that room.”
+> “No, I just go to that room.”
 
 “Shut up I’m tellin’ a story.”
 
 “So the elves was all in the southwest, and the men was all in the north.”
 
->“What about the Redguards?”
+> “What about the Redguards?”
 
 “THE ELVES WERE SOUTHWEST AND THE HUMANS WERE NORTH. Then the men spread out and
 some went across the ocean and some went down to the swamp and some went to the
@@ -62,17 +81,17 @@ Ayleids.”
 “Some elves were just plain weird and sailed away and now we call them the Left
 Handed Elves—”
 
->“Were they all left handed?”
+> “Were they all left handed?”
 
 “No. Well, maybe some were. But they were called that because they were elves
 but different. Like how your left hand is a hand, but different from your
 right.”
 
->“They’re the same…”
+> “They’re the same…”
 
 “But totally backwards. Want to hear the rest?”
 
->*Yawn.* “I’m actually kind of tired…”
+> *Yawn.* “I’m actually kind of tired…”
 
 “Too bad.”
 
@@ -83,7 +102,7 @@ their gods and saw nothing but a warden locked in with them. So they tunneled
 underground and built a big machine to break the prison and then they all got
 inside and that was that.”
 
->“Did they escape?”
+> “Did they escape?”
 
 “No clue.”
 
@@ -100,11 +119,11 @@ villages and sturdy homes just like us. And then the men came back and they
 realized they didn’t like them so they fought and the elves all died or ran
 underground and then died in the Deep Elves’ caves. And they was the Falmer.”
 
->“Are you done yet?”
+> “Are you done yet?”
 
 “Almost. Who’s left?”
 
->“Uhhm, you haven’t mentioned the ashies.”
+> “Uhhm, you haven’t mentioned the ashies.”
 
 “So there were still a lot of elves left down south, and the Plot Prince talked
 to them and got them to fall in love with the world and then got them to follow
@@ -118,24 +137,3 @@ world was stupid, but they couldn’t leave it, so now they just act all arrogan
 and they’s the Altmer.”
 
 “Go to sleep.”
-
-<aside markdown="block" id="about-text">
-This is the tale of a man telling his grandson a story. Imagine a mix between
-*The Princess Bride*’s narrator, and Marcus from *Borderlands*, set in Cyrodiil
-or Skyrim farm country.
-
-This post, like *The Numidiad*, was born as a comment on a [discussion post] by
-/u/Mr_Flippers. Unlike *The Numidiad*, this was received with way more
-enthusiasm than it deserved. (I’m actually proud of *The Numidiad*; this piece
-was a joke.)
-
-Also unlike *The Numidiad*, this spawned a plague of other Bedtime Stories About
-the Lore, which culminated in *A Bedtime Story About Bedtime Stories*. Just
-search the subreddit for bedtime stories. It was a rough time. I cannot
-apologize enough for the flood of <del>shitposting</del> bedtime storytelling
-that came of this.
-
-Just kidding. No ragrets.
-
-[discussion post]: https://redd.it/1n322k
-</aside>

@@ -7,6 +7,12 @@ tags:
 - orcs
 - worldbuilding
 - topic of the week
+about: >
+  This was a Challenge of the Week entry, about “Cities of Tamriel” (obviously).
+
+  It is written as a draft for the Orsinium entry of a new *Pocket Guide to the*
+  *Empire*. With the exception of the post-script, this is not written in or by
+  any particular character, though I suppose my Anaximander character could fit.
 ---
 
 Orsinium has existed in some form or another since history was first written in
@@ -148,11 +154,3 @@ uninhabited. I have contacted Orsinium’s embassy in the Capital for their
 blessing and a guard force to launch an archaeological expedition in Orsinium,
 in hopes that we may glean a more complete understanding of one of Tamriel’s
 oldest conflicts.
-
-<aside markdown="block" id="about-text">
-This was a Challenge of the Week entry, about “Cities of Tamriel” (obviously).
-
-It is written as a draft for the Orsinium entry of a new *Pocket Guide to the*
-*Empire*. With the exception of the post-script, this is not written in or by
-any particular character, though I suppose my Anaximander character could fit.
-</aside>

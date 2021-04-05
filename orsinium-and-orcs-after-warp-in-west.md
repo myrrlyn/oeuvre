@@ -5,6 +5,12 @@ reddit: 151r8r
 tags:
 - metaphysics
 - orcs
+about: >
+  This is my first published essay on the Orcs. It arose from research I did for
+  my roleplaying character, Krognaz gro-Makoza.
+
+  Its age is likely evident in my writing style. Ah well. We all start
+  somewhere.
 ---
 
 The Orsimer have appeared in all games. Initially (*Arena* and *Daggerfall*)
@@ -94,10 +100,3 @@ about actions, behavior or achievement. The self-possessed Altmer can be just as
 vicious and violent, the Dunmer are even more xenophobic, the Argonians as
 hostile to interlopers. Civilization is about clothes, metaphorically and
 literally. That is the gift of Gortwog.
-
-<aside markdown="block" id="about-text">
-This is my first published essay on the Orcs. It arose from research I did for
-my roleplaying character, Krognaz gro-Makoza.
-
-Its age is likely evident in my writing style. Ah well. We all start somewhere.
-</aside>

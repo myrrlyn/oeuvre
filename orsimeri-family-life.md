@@ -5,6 +5,23 @@ reddit: 1mw7f5
 tags:
 - orcs
 - worldbuilding
+about: >
+  I love *Skyrim*. It’s what got me into *The Elder Scrolls* in the first place,
+  it has a great deal of Orc lore (surpassed only recently by ESO), and has a
+  lot more depth and wonder than many people in the lore community thought at
+  first blush.
+
+  I will **never** forgive Bethesda for what they did to the Orcish family with
+  their snippets about Chiefs and marriages.
+
+  I have ranted in comments about how that concept, of few patriarchal lines and
+  severely restricted breeding, is atrocious and unable to support Orcish life.
+  I do not feel the need to do so in a formal essay. However, detractions mean
+  nothing without alternatives.
+
+  This is my take on what Orcish family lives could and should be. It was
+  written long before ESO came out, so gloss over the outdated information such
+  as Orcs only living in five places.
 ---
 
 (Author’s Note: First off, I have always wanted to use the phrase Author’s Note
@@ -17,7 +34,8 @@ of nervous about that. Without further ado, the actual post.)
 
 ____
 
-###### Disclaimer: This is both known lore and conjecture.
+> Disclaimer: This is both known lore and conjecture.
+{:.bq-warn role="complementary"}
 
 As a result of their ostracism by the Aldmer upon the Transformation to Orsimer,
 the family is of utmost importance to all Orsimer, goblins and ogres and Orcs
@@ -48,7 +66,8 @@ Dushnik Yal is the best source in *Skyrim* of Orcish family life, as Mor Khazgur
 has a much simpler and smaller family tree, Narzulbur is more fragmented, and
 Largashbur seems populated by non-relatives, perhaps due to Malacath’s curse.
 
-###### Begin conjecture-on-lore and pure conjecture
+> Begin conjecture-on-lore and pure conjecture
+{:.bq-safe role="complementary"}
 
 (Nova) Orsinium is another matter entirely. Whereas the Strongholds appear to be
 a large family or small clan (assuming again that Skyrim in lore is larger than
@@ -124,22 +143,3 @@ communal structure far outstrips the individual family in this regard.
 Furthermore, the Orcish family bond is a near-unbreakable force, and it has been
 frequently documented that to foolishly attack one Orc is to invite the fury of
 his whole family.
-
-<aside markdown="block" id="about-text">
-I love *Skyrim*. It’s what got me into *The Elder Scrolls* in the first place,
-it has a great deal of Orc lore (surpassed only recently by ESO), and has a lot
-more depth and wonder than many people in the lore community thought at first
-blush.
-
-I will **never** forgive Bethesda for what they did to the Orcish family with
-their snippets about Chiefs and marriages.
-
-I have ranted in comments about how that concept, of few patriarchal lines and
-severely restricted breeding, is atrocious and unable to support Orcish life. I
-do not feel the need to do so in a formal essay. However, detractions mean
-nothing without alternatives.
-
-This is my take on what Orcish family lives could and should be. It was written
-long before ESO came out, so gloss over the outdated information such as Orcs
-only living in five places.
-</aside>

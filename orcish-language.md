@@ -6,6 +6,21 @@ tags:
 - apocrypha
 - orcs
 - worldbuilding
+about: >
+  There was a teslore Challenge of the Week on languages, so I whipped this up
+  over lunch. I don’t believe there’s yet any official word on an Orcish written
+  language, so I felt rather safe at the time I wrote this to invent one for
+  them.
+
+  I am very much **not** a linguist, and have no background whatsoever in
+  working with constructed languages, spoken or written. I based this off of
+  Futhark runic scripts, reasoning that Orcs are in a similar physical situation
+  of carving in stone or clay with chisels and would therefor prefer a script
+  that does not require complex shapes or curves. The simplicity of the glyphs
+  allows for easy and reliable engraving, stamping, or carving.
+
+  The reference to the Tradeyards is for my *Orsinium Novum* project. I’ll have
+  to put some of my work up eventually for the context to make sense.
 ---
 
 As per your request, I have striven to learn what I can about the Orcs’
@@ -45,28 +60,28 @@ course, are SH and TH which have their own symbols.
 
 - An alphabet primer
 
-    ![Alphabet Primer][alphabet]
+  ![Alphabet Primer][alphabet]
 
 - The word “Cyrodiil”
 
-    ![Cyrodiil][cyrodiil]
+  ![Cyrodiil][cyrodiil]
 
-    (Note: this provides an example of Orsimeris’ phonetic transliteration
-    for words spelled in ways their language does not use. Literally, it reads
-    SI-RO-DI-IL)
+  (Note: this provides an example of Orsimeris’ phonetic transliteration for
+  words spelled in ways their language does not use. Literally, it reads
+  SI-RO-DI-IL)
 
 - The “Holy Name of Gortwog”
 
-    ![Holy Name of Gortwog][gortwog]
+  ![Holy Name of Gortwog][gortwog]
 
-    (Go-rt-w-og gro Na-go-r-m)
+  (Go-rt-w-og gro Na-go-r-m)
 
 - The Skyrim Strongholds
 
-    ![Strongholds][strongholds]
+  ![Strongholds][strongholds]
 
-    (From top to bottom: M-or Kh-a-zg-ur, Du-sh-n-ikh Y-a-l, Na-rz-ul-b-ur,
-    L-a-rg-a-sh-b-ur)
+  (From top to bottom: M-or Kh-a-zg-ur, Du-sh-n-ikh Y-a-l, Na-rz-ul-b-ur,
+  L-a-rg-a-sh-b-ur)
 
 - Lastly, these symbols are used for the "gro-" and "gra-" in names. This is the
 only mainstream use of a triple glyph combination, and with two distinct
@@ -74,7 +89,7 @@ baselines as well. The arc of the R serves double duty for the vowel, which is
 turned orthogonally to the rest, giving a vertical baseline for A and horizontal
 for O, contrary to the usual practice.
 
-    ![gro and gra][gro-gra]
+  ![gro and gra][gro-gra]
 
 I hope to acquire more samples of Orcish script in the future, though as yet I
 have only seen these directly. The Orcish merchants and wise women with whom I
@@ -109,19 +124,3 @@ with respect to their language.
 [gro-gra]: ./images/orcish-gro-gra.png "Gro and Gra"
 [orsinium]: ./images/orcish-orsinium.png "Orsinium Novum"
 [strongholds]: ./images/orcish-strongholds.png "Strongholds"
-
-<aside markdown="block" id="about-text">
-There was a teslore Challenge of the Week on languages, so I whipped this up
-over lunch. I don’t believe there’s yet any official word on an Orcish written
-language, so I felt rather safe at the time I wrote this to invent one for them.
-
-I am very much **not** a linguist, and have no background whatsoever in working
-with constructed languages, spoken or written. I based this off of Futhark runic
-scripts, reasoning that Orcs are in a similar physical situation of carving in
-stone or clay with chisels and would therefor prefer a script that does not
-require complex shapes or curves. The simplicity of the glyphs allows for easy
-and reliable engraving, stamping, or carving.
-
-The reference to the Tradeyards is for my *Orsinium Novum* project. I’ll have to
-put some of my work up eventually for the context to make sense.
-</aside>

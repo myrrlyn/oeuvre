@@ -4,6 +4,12 @@ date: 2013-01-17T13:26:52 -0500
 reddit: 16riq2
 tags:
 - metaphysics
+about: >
+  I don’t remember why I wrote this. I assume it was based on a discussion about
+  how soul colors worked.
+
+  It’s not in the teslore Compendium, for good reason. I think I was right about
+  the concept, though, so I want to keep it around until it gets rewritten.
 ---
 
 There are two types of souls, black and white. Black are the ten playable races
@@ -51,7 +57,7 @@ sentience they hadn’t had. They’ve always been sentient. They were Aldmer, t
 changed, then the rest of Tamriel changed how they saw them. Yet their soul
 status was changed. Why?
 
-Because Arkay is a <del>judgmental prick</del> subjective judge of soul status.
+Because Arkay is a ~~judgmental prick~~ subjective judge of soul status.
 
 And color. White is generally purity, black taint. Ever wonder why the superior
 creatures get the ugly soul? I have.
@@ -100,11 +106,3 @@ did for the intro. I really spit it out in a time crunch. Class in fifteen, now.
 I guess the first part had a lot of research to it.
 
 Discuss.
-
-<aside markdown="block" id="about-text">
-I don’t remember why I wrote this. I assume it was based on a discussion about
-how soul colors worked.
-
-It’s not in the teslore Compendium, for good reason. I think I was right about
-the concept, though, so I want to keep it around until it gets rewritten.
-</aside>

@@ -9,6 +9,30 @@ tags:
 - orcs
 - religion
 - worldbuilding
+about: >
+  As part of my mythical *Orsinium Novum* project, I’ve created some new
+  religions (though I guess it’s technically one religion with a schism and a
+  heresy).
+
+  Every good religion needs scripture, so I’m writing one for the Orcs. The
+  first three Words are the creation myth; the last Word is part of the
+  destruction myth.
+
+  A common discussion I see concerning TES’s kalpic cycles is about whether the
+  regular ending and rebirth of the world in new ways is a good thing or not,
+  and if it’s something the inhabitants of the world should fear or try to
+  avoid. I contend that the nature of the Aurbis mandates conflict, regression,
+  and kalpic cycles, and that their presence is part of what makes the *Elder*
+  *Scrolls* story so beautiful. My goal with The Final Words was to try to
+  convey that in universe and provide some comfort and resolve to the people
+  whose lives are going to be erased when the kalpa closes.
+
+  The prophet Oztrakos, founder of the Oztraki faith, is similar to Moses. He is
+  believed to have led the Orcish people out of bondage and into wilderness
+  exile, and spoke the first tenets of their faith.
+
+  Yes, his name is a **blatant** rip-off of the Greek word *ostrakon*. I am not
+  a subtle man.
 ---
 
 # WANDERING ON THE PLAINS
@@ -33,7 +57,7 @@ which had believed itself to be alone in the Twilight, came across the old camps
 of the other, and knew that they were not alone. And one camp rejoiced that they
 were not alone in the barren plain, yet the other camp wept that they were
 forever separated from their kin. The camp that rejoiced left messages of hope
-for the camp that wept, the camp that wept left messages of sorrow.
+for the camp that wept; the camp that wept left messages of sorrow.
 
 The Sun turned, and with it turned the twilights in which the clans dwelt. The
 clans grew, and continued to leave messages for the other, and in time agreed to
@@ -215,28 +239,3 @@ lives echo everlasting in the stone of the world.
 [words-2]: https://redd.it/2nlb35
 [words-3]: https://redd.it/2nptag
 [words-4]: https://redd.it/56q5yr
-
-<aside markdown="block" id="about-text">
-As part of my mythical *Orsinium Novum* project, I’ve created some new religions
-(though I guess it’s technically one religion with a schism and a heresy).
-
-Every good religion needs scripture, so I’m writing one for the Orcs. The first
-three Words are the creation myth; the last Word is part of the destruction
-myth.
-
-A common discussion I see concerning TES’s kalpic cycles is about whether the
-regular ending and rebirth of the world in new ways is a good thing or not, and
-if it’s something the inhabitants of the world should fear or try to avoid. I
-contend that the nature of the Aurbis mandates conflict, regression, and kalpic
-cycles, and that their presence is part of what makes the *Elder Scrolls* story
-so beautiful. My goal with The Final Words was to try to convey that in universe
-and provide some comfort and resolve to the people whose lives are going to be
-erased when the kalpa closes.
-
-The prophet Oztrakos, founder of the Oztraki faith, is similar to Moses. He is
-believed to have led the Orcish people out of bondage and into wilderness exile,
-and spoke the first tenets of their faith.
-
-Yes, his name is a **blatant** rip-off of the Greek word *ostrakon*. I am not a
-subtle man.
-</aside>

@@ -6,6 +6,16 @@ tags:
 - apocrypha
 - orcs
 - topic of the week
+about: >
+  I really don’t like the chieftain lore in *Skyrim*, but, it’s apparently here
+  to stay, so I might as well try to make it work.
+
+  This is a direct sequel to *The Birth of Savages*. Dialogue alternates between
+  Korosha and Vurnolamathel.
+
+  Writing characters with intelligent thought but without complex language is
+  *really* hard. The Orcs aren’t stupid, but they don’t have the language needed
+  to express complex thought, not even in their own head.
 ---
 
 Stronger. We must be stronger. I must be stronger. How.
@@ -102,15 +112,3 @@ new are stronger. The pack is stronger. Larger. Better. The strongest lead. The
 middle follow. The weakest fall away.
 
 Good.
-
-<aside markdown="block" id="about-text">
-I really don’t like the chieftain lore in *Skyrim*, but, it’s apparently here to
-stay, so I might as well try to make it work.
-
-This is a direct sequel to *The Birth of Savages*. Dialogue alternates between
-Korosha and Vurnolamathel.
-
-Writing characters with intelligent thought but without complex language is
-*really* hard. The Orcs aren’t stupid, but they don’t have the language needed
-to express complex thought, not even in their own head.
-</aside>

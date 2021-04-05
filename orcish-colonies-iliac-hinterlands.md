@@ -7,6 +7,18 @@ tags:
 - orcs
 - worldbuilding
 - topic of the week
+about: >
+  I wrote this as an entry for an /r/teslore Topic of the Week challenge.
+  Despite appearances and some speculation to the contrary, this was an entirely
+  original piece not in the works prior to said challenge being posted. That
+  said, it is based partly on work I had been doing for my *Orsinium Novum*
+  project, which at this rate will probably never see the light of day.
+
+  I’ve unofficially adopted the pseudonym “Anaximander”as my in-universe
+  scholarly persona. Anaximander is an Imperial Geographic Society scholar, and
+  I do my best to keep him from being an Orc fanboy despite my own leanings.
+  He’s somewhat like an anthropologist, in that he finds Orcish culture
+  interesting to study, but he absolutely wouldn’t go native.
 ---
 
 Orcs have long been sighted in the wilderness surrounding the Iliac Bay,
@@ -21,7 +33,7 @@ I am no warrior myself, merely a humble scholar of Bretony and now Cyrod, but I
 have accompanied many an expedition into the field to study the Orcs so that we
 might better learn to resist and overcome them.
 
-### Hammerfell
+## Hammerfell
 
 In Hammerfell, the Orcish population stays largely to the Dragontail mountains,
 as the province’s fertile rim is firmly defended by an entrenched Redguard
@@ -63,66 +75,66 @@ The largest and most long-lived Orc clans have even been given names by the
 Redguards, some of which I have listed here for reference:
 
 - The Sea Pigs, also called Or-sea-mer or Shorks (a bad portmanteau of Shark and
-Orc), depending on whom you ask, display a rare quality of their kind – namely,
-an affinity for water and claim the shoreline of the northern Dragontails and
-live in caves along the coast. They like to prey upon passing ships, and have
-developed various flippers which they can attach to hands and feet to swim at
-great speeds. As they possess neither the equipment nor the capability for
-constructing ships, they swim to their prey, board, and capture the ship, then
-bring it home by deliberately dashing it against the rocky coast. Once the ship
-is broken, those who remained on shore come out to scavenge. Despite the danger
-of Sea Pig attacks, sailing close to shore is still necessary as the Iliac’s
-frequent storms are far worse on open sea, and when the Shorks are inland, there
-is no risk other than the well-charted rocks.
+  Orc), depending on whom you ask, display a rare quality of their kind – namely,
+  an affinity for water and claim the shoreline of the northern Dragontails and
+  live in caves along the coast. They like to prey upon passing ships, and have
+  developed various flippers which they can attach to hands and feet to swim at
+  great speeds. As they possess neither the equipment nor the capability for
+  constructing ships, they swim to their prey, board, and capture the ship, then
+  bring it home by deliberately dashing it against the rocky coast. Once the ship
+  is broken, those who remained on shore come out to scavenge. Despite the danger
+  of Sea Pig attacks, sailing close to shore is still necessary as the Iliac’s
+  frequent storms are far worse on open sea, and when the Shorks are inland,
+  there is no risk other than the well-charted rocks.
 
 - The Stone Skulls claim the Dragontails just south of the coast down to about
-the latitude of Kozanset. Exact demarcations are impossible, as the Orcs know no
-borders and territory is enforced only when two bands collide. The Stone Skulls
-earned their name from their custom of constantly striking their skulls with
-rocks, beginning when they are about five or six. The constant barrage of light,
-but consistent, blows causes small fractures at the impact site, and the bone
-grows back thicker to compensate. Over the years, these Orcs develop massive,
-thick skulls, eschewing helmets in favor of the armor they so brutally force
-themselves to grow. They also greatly enjoy headbutting their enemies, striking
-with sufficient force to break bones in the victim.
+  the latitude of Kozanset. Exact demarcations are impossible, as the Orcs know
+  no borders and territory is enforced only when two bands collide. The Stone
+  Skulls earned their name from their custom of constantly striking their skulls
+  with rocks, beginning when they are about five or six. The constant barrage of
+  light, but consistent, blows causes small fractures at the impact site, and the
+  bone grows back thicker to compensate. Over the years, these Orcs develop
+  massive, thick skulls, eschewing helmets in favor of the armor they so
+  brutally force themselves to grow. They also greatly enjoy headbutting their
+  enemies, striking with sufficient force to break bones in the victim.
 
-    Whether this custom reduces their intelligence or not is difficult to say,
-    as Orcs display little measurable qualities of this in the first place.
+  Whether this custom reduces their intelligence or not is difficult to say, as
+  Orcs display little measurable qualities of this in the first place.
 
 - South of the Stone Skulls roam the Dusky Tuskies. They are largely average for
-Orcs, though with brown skin rather than green, and their teeth grow to be
-unusually large. Tusks from these are prized by the Redguards, and commonly made
-into drinking vessels.
+  Orcs, though with brown skin rather than green, and their teeth grow to be
+  unusually large. Tusks from these are prized by the Redguards, and commonly
+  made into drinking vessels.
 
 - The Sand Snakes inhabit the desert near Dak’fron and, interestingly enough,
-worship Boethiah rather than Malacath or Mauloch or Malak or however any of the
-savages unusual and well-trained enough to pick up a pen spells the name of that
-troublesome prince. They attack the other Orcs as viciously as they attack
-Hammerfell, gaining them some measure of forebearance from the Redguards. After
-all, watching one’s enemies take care of themselves is as hilarious as it is
-useful.
+  worship Boethiah rather than Malacath or Mauloch or Malak or however any of
+  the savages unusual and well-trained enough to pick up a pen spells the name
+  of that troublesome prince. They attack the other Orcs as viciously as they
+  attack Hammerfell, gaining them some measure of forebearance from the
+  Redguards. After all, watching one’s enemies take care of themselves is as
+  hilarious as it is useful.
 
 - The Wind-Walker clan is perhaps the farthest-roaming, and is difficult to
-pursue as they eschew use of the holdfasts the other tribes have constructed
-over the centuries. They are almost continually on the move, and leave little
-trace of their passage. Most Orcs have stamina to rival horses, but these in
-particular have been known to run for days on end without relent and still be in
-fighting shape on arrival.
+  pursue as they eschew use of the holdfasts the other tribes have constructed
+  over the centuries. They are almost continually on the move, and leave little
+  trace of their passage. Most Orcs have stamina to rival horses, but these in
+  particular have been known to run for days on end without relent and still be
+  in fighting shape on arrival.
 
 - The Falling Rocks live in the highlands near Ephesus, and earned this
-particular moniker for exactly the reason you would expect. They like throwing
-boulders at things.
+  particular moniker for exactly the reason you would expect. They like throwing
+  boulders at things.
 
 - The Dust Demons are the most feared and reviled troop. No Redguard has ever
-survived a confrontation with them, and we only know of their existence from
-attacks that have happened when all the other large gangs were known to be
-elsewhere. They burn anything they don’t pillage, and presumably take prisoners,
-but these have never been recovered. Little is known of their migratory
-patterns, but they seem to avoid other warbands, so the presence of other Orcs,
-though of course an unwelcome blight in itself, at least serves as assurance
-that the Dust Demons are somewhere else.
+  survived a confrontation with them, and we only know of their existence from
+  attacks that have happened when all the other large gangs were known to be
+  elsewhere. They burn anything they don’t pillage, and presumably take
+  prisoners, but these have never been recovered. Little is known of their
+  migratory patterns, but they seem to avoid other warbands, so the presence of
+  other Orcs, though of course an unwelcome blight in itself, at least serves as
+  assurance that the Dust Demons are somewhere else.
 
-### Wrothgar
+## Wrothgar
 
 The Wrothgarian Orcs are more (in)famous than their Dragontail cousins, most
 notably for their muleheaded stubbornness in continuing to build Orsinium in the
@@ -171,26 +183,26 @@ Run or get out of the way; an Orcish Juggernaut stops for nothing.
 Wrothgar's notable tribes are:
 
 - Khomokh: Primarily herdsmen and farmers, the Khomokh are reputed to be the
-first to invent soap. They are the most nomadic of the Wrothgarian tribes, only
-settling to winter in Strongholds before wandering again come spring. They
-frequently raid Breton farms and pastures, but generally avoid villages. The
-Khomokh are excellent with camouflage and see nothing dishonorable about hiding
-and waiting in ambush.
+  first to invent soap. They are the most nomadic of the Wrothgarian tribes,
+  only settling to winter in Strongholds before wandering again come spring.
+  They frequently raid Breton farms and pastures, but generally avoid villages.
+  The Khomokh are excellent with camouflage and see nothing dishonorable about
+  hiding and waiting in ambush.
 
 - Garitag: Controlling the area's richest mines, the Garitag are excellent (by
-low Orcish standards) craftsmen and metalworkers. They make weapons and armor to
-trade with the other clans, and often serve as mercenary troops for the Khomokh
-in exchange for food. They tend to live exclusively in mountain Strongholds,
-striking forth to raid throughout the region and returning home before armies
-can be mobilized against them. Breton troops have often destroyed their
-fortresses at not-insignificant cost, but they have proven difficult to stamp
-out entirely.
+  low Orcish standards) craftsmen and metalworkers. They make weapons and armor
+  to trade with the other clans, and often serve as mercenary troops for the
+  Khomokh in exchange for food. They tend to live exclusively in mountain
+  Strongholds, striking forth to raid throughout the region and returning home
+  before armies can be mobilized against them. Breton troops have often
+  destroyed their fortresses at not-insignificant cost, but they have proven
+  difficult to stamp out entirely.
 
 - Lastly of the major clans is, of course, the Dokkaz, who stubbornly refuse to
-abandon their dream of an Orcish city. They are already well-known enough that
-writing about them further would serve no purpose, but it should be noted that
-while attacking them is incredibly easy (they are ALWAYS in that valley of
-theirs), it is likewise incredibly costly.
+  abandon their dream of an Orcish city. They are already well-known enough that
+  writing about them further would serve no purpose, but it should be noted that
+  while attacking them is incredibly easy (they are ALWAYS in that valley of
+  theirs), it is likewise incredibly costly.
 
 There are, of course, numerous smaller tribes, offshoots, and outcasts wandering
 the hills as well, though these are too numerous and small to account.
@@ -203,17 +215,3 @@ they should not be underestimated, as many a man, confident in his modern armor
 and weaponry and training, has discovered.
 
 —Anaximander
-
-<aside markdown="block" id="about-text">
-I wrote this as an entry for an /r/teslore Topic of the Week challenge. Despite
-appearances and some speculation to the contrary, this was an entirely original
-piece not in the works prior to said challenge being posted. That said, it is
-based partly on work I had been doing for my *Orsinium Novum* project, which at
-this rate will probably never see the light of day.
-
-I’ve unofficially adopted the pseudonym “Anaximander”as my in-universe scholarly
-personal. Anaximander is an Imperial Geographic Society scholar, and I do my
-best to keep him from being an Orc fanboy despite my own leanings. He’s somewhat
-like an anthropologist, in that he finds Orcish culture interesting to study,
-but he absolutely wouldn’t go native.
-</aside>

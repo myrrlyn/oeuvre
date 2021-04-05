@@ -5,6 +5,23 @@ reddit: 1y9jxz
 tags:
 - eso
 - story
+about: >
+  I forgot I wrote this, honestly. It’s submitted under an alt account – I think
+  the reason I wrote it, and submitted it anonymously, was due to a discussion
+  about whether certain people’s posts were being upvoted because they were
+  good, or because that person was popular. Since by the time I wrote this, I
+  had also written such hits as *The Numidiad* and *Aurbis: The Musical* I
+  figured I would be as good a candidate as any to try such an experiment.
+
+  Granted, this piece turned out to be *nothing* like my other work, but it was
+  well received on IRC and got an okay, if muted, reception on /r/teslore. I
+  don’t think anyone read it and then realized I was the author, and I don’t
+  remember if I ever owned up to it in public.
+
+  Considering it’s a dramatization of the ESO opening sequence, and absolutely
+  has to happen to a character with zero defining traits, I think it went pretty
+  well.
+toc: false
 ---
 
 I awoke in a cell. It wasn’t the pretty, gradual awakening of one returning from
@@ -57,12 +74,12 @@ Suddenly, a lizard was on the other side of my cell’s door, leering at me. I
 instinctively went to cover myself and gestured rudely. The lizard seemed to
 smile more, and spoke.
 
->It seems there is a jailbreak. Maybe it is right to open your cell, yes?
+> It seems there is a jailbreak. Maybe it is right to open your cell, yes?
 
 The creature fiddled with a lock I couldn’t see, and with reluctance, the bars
 retreated. It occurred to me that the lizard was clothed.
 
->Coming?
+> Coming?
 
 It shrugged; maybe my silence and stillness made it think I’d been broken. It
 turned away and ran towards the other end of the room. I took a step forward,
@@ -137,7 +154,7 @@ man who’d thrown his shadow at me earlier. I nodded along, not really caring
 what happened as long as there were two of us now. She looked like she could
 stop a lot of arrows.
 
-#### LYRIS IS A MIGHTY AND NOBLE WARRIOR. TRUST IN HER.
+#### LYRIS IS A MIGHTY AND NOBLE WARRIOR. TRUST IN HER
 
 Good to know, though now I was curious what she was doing in this place. We
 squeezed through another door, and then ran up a scaffold running over a darkly
@@ -263,20 +280,3 @@ In a brief, frightening moment of calm, I muttered, “Good thing I’m already
 dead.”
 
 And then I slammed into the ground.
-
-<aside markdown="block" id="about-text">
-I forgot I wrote this, honestly. It’s submitted under an alt account – I think
-the reason I wrote it, and submitted it anonymously, was due to a discussion
-about whether certain people’s posts were being upvoted because they were good,
-or because that person was popular. Since by the time I wrote this, I had also
-written such hits as *The Numidiad* and *Aurbis: The Musical* I figured I would
-be as good a candidate as any to try such an experiment.
-
-Granted, this piece turned out to be *nothing* like my other work, but it was
-well received on IRC and got an okay, if muted, reception on /r/teslore. I don’t
-think anyone read it and then realized I was the author, and I don’t remember if
-I ever owned up to it in public.
-
-Considering it’s a dramatization of the ESO opening sequence, and absolutely has
-to happen to a character with zero defining traits, I think it went pretty well.
-</aside>

@@ -5,9 +5,81 @@ reddit: 1oybze
 tags:
 - apocrypha
 - metaphysics
+about: >
+  This is probably the text for which I am most well known. Which is somewhat
+  ironic, since I set out to be the Orc guy and am not a music theorist. Despite
+  my repeated entreaties for people to *not* use it as a foundation for their
+  own thoughts, though, I’ve seen it used as a base reference for numerous other
+  posts and it’s virtually guaranteed to get referenced whenever the topic comes
+  up. Oh well.
+
+  Still, I made this up out of whole cloth and no sleep. I feel obligated to
+  have that disclaimer posted. It gets even wilder for the sequel.
+
+  The inspiration for these two posts came from some MK stories on `#memospore`;
+  I’ve included them below for reference.
+
+  ____
+
+  > Tamriel<br />
+  > Starry Heart<br />
+  > That whole fucking thing is a song<br />
+  > It was made either out of 12 planets<br />
+  > or from two brothers that split in the womb<br />
+  > either way, it’s the primal wail<br />
+  > and those that grew up on it<br />
+  > they can’t help but hear it<br />
+  > and add to it<br />
+  > or try to control it<br />
+  > or run from it<br />
+  > the reason there IS music on Tamriel at ALL<br />
+  > is because it exists<br />
+  > it was and is<br />
+  > and it will not stop<br />
+  > there are repeats in it<br />
+  > plays on a tune<br />
+  > variations<br />
+  > and most likely<br />
+  > Magnus?<br />
+  > he’s the one that made the fucker<br />
+  > and now that’s why he looks back on it<br />
+  > every single day<br />
+  > that’s his promise<br />
+  > when you wake up, I will still listen<br />
+  > I’m sorry I left<br />
+  > but hey<br />
+  > I’m still right up here<br />
+  > And my mnemoli? They show up every now and then.<br />
+  > and collect all the songs you’ve made since the last time around<br />
+  > the last real moment<br />
+  > The Mnemoli?<br />
+  > They’re the keepers of the Elder Scrolls.<br />
+  > They cannot be fixed until seen.<br />
+  > And they cannot be seen until a moent.<br />
+  > And you, your hero, makes that moment.
+
+  ____
+
+  Q: In musical terms, would you say that the Void is subgradiated noise, pure
+  silence, or something else entirely?
+
+  > A: I would say it’s deafness. Which is why people that travel there get
+  > sensorily unraveled. Wait, better: try not to imagine a world without music.
+
+  Q: Could the Towers be construed as Tuning Forks, given your music statement
+  yesterday?
+
+  > A: yes, maybe. more like maestros
+
+  Q: How does the Sharmat’s line I AM OLDER THAN MUSIC tie in with the concept
+  of Music as a fundamental element of the world?
+
+  > A: Nice one. He’s ego-trippin’ and balls-trippin’ at the same time. Remember,
+  > that quote is from the Sermons. Consider the source.
+
 ---
 
-Foreword: [play this song](http://www.listenonrepeat.com/watch?v=hYMseN4XzxI) as
+Foreword: [play this song][sunshine-adagio] as
 you read. It automatically repeats.
 
 Music is the underlying force of the TES universe. It has laws and structures
@@ -16,7 +88,7 @@ describe the Theory of Music.
 
 ____
 
-# The Octave
+## The Octave
 
 The octave is used both on Earth and in Mundus as a perfect set. 8 has abundant
 significance in numerology. So let's assume that Mundus keeps the eight gods,
@@ -32,17 +104,31 @@ So our octave goes like this
 
 > **C** Mara
 
+<!-- -->
+
 > **D** Zenithar
+
+<!-- -->
 
 > **E** Arkay
 
+<!-- -->
+
 > **F** Kyne
+
+<!-- -->
 
 > **G** Stendarr
 
+<!-- -->
+
 > **A** Akatosh
 
+<!-- -->
+
 > **B** Julianos
+
+<!-- -->
 
 > **C** Dibella
 
@@ -59,7 +145,7 @@ into place.
 
 C,E,G make a third, and so I wanted some of the more basic gods in there. Arkay,
 life/death, and Stendarr, mercy and fortitude, fit well with the “feel” of the
-CEG chord (it is strong and works very well, but not very “pretty”)
+CEG chord (it is strong and works very well, but not very “pretty”).
 
 F, however is a pretty note, and so that’s where Kyne went. F is also the third
 Important note of the scale (F, G, and A are basically the stars of the show).
@@ -72,7 +158,7 @@ Julianos next to Akatosh and Dibella, since his sphere of intellectual work is
 close (sort of) to Beauty and the Fundamental. Zenithar, labor, goes well next
 to Arkay's life/death and Mara's family.
 
-# The Accidentals
+## The Accidentals
 
 This is where we break off **markedly** from the music you know. Western canon
 uses the 12-tone C C♯ D D♯ E F F♯ G G♯ A A♯ B octave. This only has five
@@ -85,8 +171,8 @@ F♯ F♯♯ F♯♯♯ G G♯ G♯♯ G♯♯♯ A A♯ A♯♯ A♯♯♯ B B�
 note of the twelve-tone now has a halfway note to its right, including the
 formerly-accidental-free note pairs of B/C and E/F.
 
-We have sixteen-and-one Daedra depending on how you count Sheo/Jyggalag. And
-while the description of the Wheel as having eight Spokes and sixteen
+We have sixteen-and-one Daedra depending on how you count Sheogorath/Jyggalag.
+And while the description of the Wheel as having eight Spokes and sixteen
 Spoke-Voids may make you think there are two voids between each spoke, this does
 not necessarily have to be true. The octave is not evenly spaced for the primal
 chords, so the Wheel Spokes are not rotationally symmetric. Their spacing is not
@@ -121,51 +207,99 @@ n♯♭ is n, raised one-half, lowered one-quarter.
 
 > **C** Mara
 
->>> **C♯♭ / D♭♭** Namira
+<!-- -->
 
->> **C♯ / D♭** Malacath
+> > > **C♯♭ / D♭♭** Namira
 
->>> **C♯♯ / D♭♯** Vaermina
+<!-- -->
+
+> > **C♯ / D♭** Malacath
+
+<!-- -->
+
+> > > **C♯♯ / D♭♯** Vaermina
+
+<!-- -->
 
 > **D** Zenithar
 
->>> **D♯♭ / E♭♭** Clavicus Vile
+<!-- -->
 
->> **D♯ / E♭** Mehrunes Dagon
+> > > **D♯♭ / E♭♭** Clavicus Vile
 
->>> **D♯♯ / E♭♯** Peryite
+<!-- -->
+
+> > **D♯ / E♭** Mehrunes Dagon
+
+<!-- -->
+
+> > > **D♯♯ / E♭♯** Peryite
+
+<!-- -->
 
 > **E** Arkay
 
->> **E♯ / F♭** Azura
+<!-- -->
+
+> > **E♯ / F♭** Azura
+
+<!-- -->
 
 > **F** Kyne
 
->>> **F♯♭ / G♭♭** Meridia
+<!-- -->
 
->> **F♯ / G♭** Molag Bal
+> > > **F♯♭ / G♭♭** Meridia
 
->>> **F♯♯ / G♭♯** Hircine
+<!-- -->
+
+> > **F♯ / G♭** Molag Bal
+
+<!-- -->
+
+> > > **F♯♯ / G♭♯** Hircine
+
+<!-- -->
 
 > **G** Stendarr
 
->>> **G♯♭ / A♭♭** Sanguine
+<!-- -->
 
->> **G♯ / A♭** Boethiah
+> > > **G♯♭ / A♭♭** Sanguine
 
->>> **G♯♯ / A♭♯** Nocturnal
+<!-- -->
+
+> > **G♯ / A♭** Boethiah
+
+<!-- -->
+
+> > > **G♯♯ / A♭♯** Nocturnal
+
+<!-- -->
 
 > **A** Akatosh
 
->>> **A♯♭ / B♭♭** Hermaeus Mora
+<!-- -->
 
->> **A♯ / B♭** Sheogorath
+> > > **A♯♭ / B♭♭** Hermaeus Mora
 
->>> **A♯♯ / B♭♯** Jyggalag
+<!-- -->
+
+> > **A♯ / B♭** Sheogorath
+
+<!-- -->
+
+> > > **A♯♯ / B♭♯** Jyggalag
+
+<!-- -->
 
 > **B** Julianos
 
->> **B♯ / C♭** Mephala
+<!-- -->
+
+> > **B♯ / C♭** Mephala
+
+<!-- -->
 
 > **C** Dibella
 
@@ -173,16 +307,16 @@ Incidentally, if one makes this list into a wheel, with Aedric overtones as the
 longest spokes, the 7 Prominent Daedra with spokes of middling length, and the
 ten remaining Princes as the shortest spokes, one gets this result:
 
-[!["A wheel diagram of the Tones, centered on C"][wheel-tone-c]{:.ctr}][wheel-tone-c]
+!["A wheel diagram of the Tones, centered on C"][wheel-tone-c]{:.ctr}
 
 However, if we rotate so that D is our top, the end result is reflectively
 symmetric. D Major is incidentally commonly called the Heavenly Key in the
 Western music canon, and having Work in such a subtly special place is rather
 fitting in my opinion.
 
-[!["A wheel diagram of the Tones, centered on D"][wheel-tone-d]{:.ctr}][wheel-tone-d]
+!["A wheel diagram of the Tones, centered on D"][wheel-tone-d]{:.ctr}
 
-# Lorkhan
+## Lorkhan
 
 There is more to music than just the tones. The beat, the rhythm, the measure,
 all terms for one underlying piece: tones alone are nothing without the
@@ -192,19 +326,19 @@ music’s Time, but Time and Space are intermingled oddly here) Lorkhan is not a
 Tone, but the Sound-without-Tone, the Pulse. Separate from the Octave and just
 as necessary to the Performance as it.
 
-# Towers
+## Towers
 
 MK has stated that the Towers are like maestros, performing and conducting the
 Song of Creation. They can be compared to roles in an Orchestra, and I will do
 so here.
 
-## DIVINE
+### DIVINE
 
 - Ada-Mantia: Tuning Note of the Octave, the Conductor.
 
 - Red Mountain: Beat of the Song, the Percussion.
 
-## MORTAL
+### MORTAL
 
 - White-Gold Tower: the Trumpets, proclaiming glory far and wide.
 
@@ -230,7 +364,7 @@ ____
 In conclusion, I present to you the Orchestra of the Aurbis, in structure and
 form. The Song goes ever onwards, and though sections may be silenced, silence
 is ever a part of music. So long as the Conductor stands, the Song will go on.
-The [coda](http://www.youtube.com/watch?v=6YQNOw0GPz0) of a kalpic movement does
+The [coda][accomplished] of a kalpic movement does
 not necessarily herald the conclusion of the Performance, but merely provides an
 opportunity for a new movement, a new expression of the Great Song, to be
 played. The Symphony is complete in and of itself, and can never be destroyed.
@@ -244,78 +378,7 @@ Post-Script:
 
 There is a [sequel](http://redd.it/1p1fip).
 
+[accomplished]: https://www.youtube.com/watch?v=Uz1AwyyEKoo&list=PLqnnuEVGcRQy6dzmNbXJpU5mfGXVoaCqT&index=20 "It Is Accomplished, The Last Temptation of Christ"
+[sunshine-adagio]: http://www.listenonrepeat.com/watch?v=hYMseN4XzxI "Adagio in D Minor (Bombastic), Sunshine"
 [wheel-tone-c]: ./images/wheel-tones-c.png
 [wheel-tone-d]: ./images/wheel-tones-d.png
-
-<aside markdown="block" id="about-text">
-This is probably the text for which I am most well known. Which is somewhat
-ironic, since I set out to be the Orc guy and am not a music theorist. Despite
-my repeated entreaties for people to *not* use it as a foundation for their own
-thoughts, though, I’ve seen it used as a base reference for numerous other posts
-and it’s virtually guaranteed to get referenced whenever the topic comes up. Oh
-well.
-
-Still, I made this up out of whole cloth and no sleep. I feel obligated to have
-that disclaimer posted. It gets even wilder for the sequel.
-
-The inspiration for these two posts came from some MK stories on `#memospore`;
-I’ve included them below for reference.
-
-____
-
->Tamriel<br />
->Starry Heart<br />
->That whole fucking thing is a song<br />
->It was made either out of 12 planets<br />
->or from two brothers that split in the womb<br />
->either way, it’s the primal wail<br />
->and those that grew up on it<br />
->they can’t help but hear it<br />
->and add to it<br />
->or try to control it<br />
->or run from it<br />
->the reason there IS music on Tamriel at ALL<br />
->is because it exists<br />
->it was and is<br />
->and it will not stop<br />
->there are repeats in it<br />
->plays on a tune<br />
->variations<br />
->and most likely<br />
->Magnus?<br />
->he’s the one that made the fucker<br />
->and now that’s why he looks back on it<br />
->every single day<br />
->that’s his promise<br />
->when you wake up, I will still listen<br />
->I’m sorry I left<br />
->but hey<br />
->I’m still right up here<br />
->And my mnemoli? They show up every now and then.<br />
->and collect all the songs you’ve made since the last time around<br />
->the last real moment<br />
->The Mnemoli?<br />
->They’re the keepers of the Elder Scrolls.<br />
->They cannot be fixed until seen.<br />
->And they cannot be seen until a moent.<br />
->And you, your hero, makes that moment.
-
-____
-
-Q: In musical terms, would you say that the Void is subgradiated noise, pure
-silence, or something else entirely?
-
->A: I would say it’s deafness. Which is why people that travel there get
-sensorily unraveled. Wait, better: try not to imagine a world without music.
-
-Q: Could the Towers be construed as Tuning Forks, given your music statement
-yesterday?
-
->A: yes, maybe. more like maestros
-
-Q: How does the Sharmat’s line I AM OLDER THAN MUSIC tie in with the concept of
-Music as a fundamental element of the world?
-
->A: Nice one. He’s ego-trippin’ and balls-trippin’ at the same time. Remember,
-that quote is from the Sermons. Consider the source.
-</aside>

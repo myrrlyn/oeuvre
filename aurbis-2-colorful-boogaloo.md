@@ -5,9 +5,15 @@ reddit: 1p1fip
 tags:
 - apocrypha
 - metaphysics
+about: >
+  The momentum from the previous post on Music carried me into messing with
+  Color as well. This one is even more made up than the last.
+
+  MK is actually color/sound synæsthetic, so having him find this piece
+  acceptable was a huge relief. Me, I’m partially colorblind.
 ---
 
-# Introduction
+## Introduction
 
 In keeping with the spirit of writing esoteric extrapolations late at night, I
 present to you the sequel of *Aurbis: The Musical* concerning the Gods as Tones:
@@ -17,7 +23,7 @@ universe (Tonal Architecture is the synæsthesia of Sound and Touch, for
 instance), I arrived at the conclusion that the Tones and Colors are merely two
 physical translations of the Gods.
 
-# Foundation
+## Foundation
 
 If you haven’t, reread *Aurbis: The Musical* and familiarize yourself with the
 musical listing of the gods.
@@ -27,22 +33,22 @@ Now, some other resources:
 - [Sonochromatism][sonochrome] – the mapping of sound to color.
 
 - I made this wheel to serve as a visual representation of the list of God-Tones
-from Aurbis 1. The longest spokes represent the Aedra; the middle spokes are the
-Four Corners of the House of Troubles and the Three Good Daedra; the shortest
-spokes are the remaining Daedra.
+  from Aurbis 1. The longest spokes represent the Aedra; the middle spokes are
+  the Four Corners of the House of Troubles and the Three Good Daedra; the
+  shortest spokes are the remaining Daedra.
 
-    ![Wheel of Gods and Tones][wheel-tones]{:.ctr}
+  ![Wheel of Gods and Tones][wheel-tones]{:.ctr}
 
 - This is that same wheel, with colors mapped over it. The primary colors, red,
-green, and blue, are mapped to C♯, F, and A respectively (details below). I also
-capped the Aedra with white, the seven more interesting Daedra with gray, and
-the ten remaining Daedra with black, for distinction.
+  green, and blue, are mapped to C♯, F, and A respectively (details below). I
+  also capped the Aedra with white, the seven more interesting Daedra with gray,
+  and the ten remaining Daedra with black, for distinction.
 
-    ![Wheel of Gods and Colors][wheel-color]{:.ctr}
+  ![Wheel of Gods and Colors][wheel-color]{:.ctr}
 
-# Theory
+## Theory
 
-## Lorkhan, the Beat
+### Lorkhan, the Beat
 
 Before I delve into the meat of this post, I want to quickly cover one thing.
 Look at the blank Wheel. See how the Aedric Tones are long, the 7 Prominent
@@ -58,7 +64,7 @@ associated with the tones with least commonality and power. As with my Music
 post yesterday, Lorkhan continues to be utterly different from, yet equally
 necessary, as the rest of the pantheon.
 
-## Color and Tone
+### Color and Tone
 
 This is the full list of the gods and their hues and tones. I don’t know how to
 embed sound samples in HTML, and I imagine that would be rather annoying anyway,
@@ -67,33 +73,33 @@ but I’ve included the color spectrum appropriately aligned.
 As for why I’m listing angles in fractions of τ, see [here][tau]. Multiply the
 numerator by 2π / τ for radians; multiply by 360 / τ for degrees.
 
-| God            | Tone | Hue Angle |
-|:--------------:|:-----|----------:|
-|**Mara**        |C     |11τ/12     |
-|Namira          |C♯♭   |23τ/24     |
-|*Malacath*      |C♯    | 0         |
-|Vaermina        |C♯♯   |  τ/24     |
-|**Zenithar**    |D     |  τ/12     |
-|Clavicus Vile   |D♯♭   |  τ/8      |
-|*Mehrunes Dagon*|D♯    |  τ/6      |
-|Peryite         |D♯♯   | 5τ/24     |
-|**Arkay**       |E     |  τ/4      |
-|*Azura*         |E♯    | 7τ/24     |
-|**Kyne**        |F     |  τ/3      |
-|Meridia         |F♯♭   | 9τ/24     |
-|*Molag Bal*     |F♯    | 5τ/12     |
-|Hircine         |F♯♯   |11τ/24     |
-|**Stendarr**    |G     |  τ/2      |
-|Sanguine        |G♯♭   |13τ/24     |
-|*Boethiah*      |G♯    | 7τ/12     |
-|Nocturnal       |G♯♯   |15τ/24     |
-|**Akatosh**     |A     | 2τ/3      |
-|Hermaeus Mora   |A♯♭   |17τ/24     |
-|*Sheogorath*    |A♯    | 9τ/12     |
-|Jyggalag        |A♯♯   |19τ/24     |
-|**Julianos**    |B     | 5τ/6      |
-|*Mephala*       |B♯    |21τ/24     |
-|**Dibella**     |C     |11τ/12     |
+|       God        | Tone | Hue Angle |
+| :--------------: | :--- | --------: |
+|     **Mara**     | C    |    11τ/12 |
+|      Namira      | C♯♭  |    23τ/24 |
+|    *Malacath*    | C♯   |         0 |
+|     Vaermina     | C♯♯  |      τ/24 |
+|   **Zenithar**   | D    |      τ/12 |
+|  Clavicus Vile   | D♯♭  |       τ/8 |
+| *Mehrunes Dagon* | D♯   |       τ/6 |
+|     Peryite      | D♯♯  |     5τ/24 |
+|    **Arkay**     | E    |       τ/4 |
+|     *Azura*      | E♯   |     7τ/24 |
+|     **Kyne**     | F    |       τ/3 |
+|     Meridia      | F♯♭  |     9τ/24 |
+|   *Molag Bal*    | F♯   |     5τ/12 |
+|     Hircine      | F♯♯  |    11τ/24 |
+|   **Stendarr**   | G    |       τ/2 |
+|     Sanguine     | G♯♭  |    13τ/24 |
+|    *Boethiah*    | G♯   |     7τ/12 |
+|    Nocturnal     | G♯♯  |    15τ/24 |
+|   **Akatosh**    | A    |      2τ/3 |
+|  Hermaeus Mora   | A♯♭  |    17τ/24 |
+|   *Sheogorath*   | A♯   |     9τ/12 |
+|     Jyggalag     | A♯♯  |    19τ/24 |
+|   **Julianos**   | B    |      5τ/6 |
+|    *Mephala*     | B♯   |    21τ/24 |
+|   **Dibella**    | C    |    11τ/12 |
 
 If you remember my definition of the color wheel, you’ll see that C♯, Red,
 happens to land on a Daedric Prince, whereas the other two are on Aedra (Kyne
@@ -142,7 +148,7 @@ of the Color Helix. We can, however, assume that the Color Helix extends beyond
 our perception in the same manner as Tones do, and that the Gods are associated
 with their periodic Colors as they are with periodic Tones (the Octaves).
 
-## Synæsthesia
+### Synæsthesia
 
 The mixture of “discrete” senses into single fields is one that features
 strongly in TES lore. Pure Song is perceived as all of the mortal senses, since
@@ -153,7 +159,7 @@ Furthermore, the use of cross-sensory perception in the mythos of Mundus further
 illustrates the nature of the Dream state that Godhead, Anu, the Captive Sage,
 and perhaps more to come experience.
 
-# Summary
+## Summary
 
 Not only can the world be described through Tone, but also Color. Furthermore,
 the two are intimately related and may be two aspects of the same fundamental
@@ -163,21 +169,23 @@ ____
 
 Post-Script:
 
->Oct 18 00:26:34 `<MK>` Can you see the admixture of color and sound yet?
+> ||||
+> |:-|:-|:-|
+> |2013 Oct 18 00:26:34|`<MK>`|Can you see the admixture of color and sound yet?|
 
 That line is pretty much why I wrote this.
 
 Post-Post-Script:
 
->`2013-10-30T06:16:49` `<MK>` Dat thread about colors and sounds on
-reddit<br />
->`2013-10-30T06:17:09` `<!Dovahkiin>` That was myrrlyn. Man<br />
->`2013-10-30T06:18:07` `<MK>` mrlyyn did the lay up, that other dude
-slamdunked it doing airborned cartwheels<br />
->`2013-10-30T06:18:19` `<!Dovahkiin>` this one? (link)<br />
->`2013-10-30T06:18:25` `<MK>` y<br />
->`2013-10-30T06:18:32` `<!Dovahkiin>` that was also myrrlyn<br />
->`2013-10-30T06:18:47` `<MK>` I don’t even<br />
+> ||||
+> |:-|:-|:-|
+> |2013 Oct 30 06:16:49|`<MK>`|Dat thread about colors and sounds on reddit|
+> |2013 Oct 30 06:17:09|`<!Dovahkiin>`|That was myrrlyn. Man|
+> |2013 Oct 30 06:18:07|`<MK>`|mrlyyn did the lay up, that other dude slamdunked it doing airborned cartwheels|
+> |2013 Oct 30 06:18:19|`<!Dovahhkiin>`|this one? (link)|
+> |2013 Oct 30 06:18:25|`<MK>`|y|
+> |2013 Oct 30 06:18:32|`<!Dvahhkiin>`|that was also myrrlyn|
+> |2013 Oct 30 06:18:47|`<MK>`|I don’t even|
 
 Those lines are DEFINITELY why I wrote these.
 
@@ -185,11 +193,3 @@ Those lines are DEFINITELY why I wrote these.
 [tau]: https://tauday.com/tau-manifesto
 [wheel-tones]: ./images/wheel-tones-c.png
 [wheel-color]: ./images/wheel-color-c.png
-
-<aside markdown="block" id="about-text">
-The momentum from the previous post on Music carried me into messing with Color
-as well. This one is even more made up than the last.
-
-MK is actually color/sound synæsthetic, so having him find this piece acceptable
-was a huge relief. Me, I’m partially colorblind.
-</aside>
