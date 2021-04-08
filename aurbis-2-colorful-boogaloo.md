@@ -18,7 +18,19 @@ about: >
 
   MK is actually color/sound synæsthetic, so having him find this piece
   acceptable was a huge relief. Me, I’m partially colorblind.
+
+  ____
+
+  I originally created the sketches for these posts in Paint.NET and annotated
+  them by hand; as part of hosting them here, I have rebuilt the images in SVG
+  and added some additional flair.
 ---
+
+> Note: the images are SVG rendered by your browser. I have observed that the
+> animation causes the more complex images to flicker. I apologize if you have
+> similar problems, but the overall delivery is still an improvement over the
+> hand-drawn images I originally made.
+{:.bq-info}
 
 <div id="intro"></div>
 
@@ -44,18 +56,11 @@ Now, some other resources:
 - [Sonochromatism][sonochrome] – the mapping of sound to color.
 
 - I made this wheel to serve as a visual representation of the list of God-Tones
-  from Aurbis 1. The longest spokes represent the Aedra; the middle spokes are
-  the Four Corners of the House of Troubles and the Three Good Daedra; the
-  shortest spokes are the remaining Daedra.
+  from Aurbis 1. The longest, white spokes represent the Aedra; the middle,
+  black, spokes are the Four Corners of the House of Troubles and the Three Good
+  Daedra; the shortest, grey, spokes are the remaining Daedra.
 
-  ![Wheel of Gods and Tones][wheel-tones]{:.ctr}
-
-- This is that same wheel, with colors mapped over it. The primary colors, red,
-  green, and blue, are mapped to C♯, F, and A respectively (details below). I
-  also capped the Aedra with white, the seven more interesting Daedra with gray,
-  and the ten remaining Daedra with black, for distinction.
-
-  ![Wheel of Gods and Colors][wheel-color]{:.ctr}
+  ![Wheel of Gods and Tones][wheel-nocolor]{:.fullwidth}
 
 ## Theory
 
@@ -77,49 +82,50 @@ necessary, as the rest of the pantheon.
 
 ### Color and Tone
 
-This is the full list of the gods and their hues and tones. I’ve colored the
-table rows according to their assignment; I currently do not have samples for
-the tones to put alongside them.
+I’ve taken the monochrome wheel and mapped the colors of human perception to it
+here. I elected to assign the primary colors of red, green, and blue to C♯, F,
+and A, respectively, and let the rest of the wheel fall into place from there. I
+will explain my rationale below. For additional symbolism, and as a reminder of
+the Anuad, I’ve added Anu and Padhome circling each other in the entanglement
+that created Aurbis.
 
-As for why I’m listing angles in fractions of τ, see [here][tau]. Multiply the
-numerator by 2π / τ for radians; multiply by 360 / τ for degrees.
+![Wheel of Gods and Colors][wheel-color]{:.fullwidth}
 
-|       God        | Tone |    Hue |
-| :--------------: | :--- | -----: |
-|     **Mara**     | C    | 11τ/12 |
-|      Namira      | C♯♭  | 23τ/24 |
-|    *Malacath*    | C♯   |      0 |
-|     Vaermina     | C♯♯  |   τ/24 |
-|   **Zenithar**   | D    |   τ/12 |
-|  Clavicus Vile   | D♯♭  |    τ/8 |
-| *Mehrunes Dagon* | D♯   |    τ/6 |
-|     Peryite      | D♯♯  |  5τ/24 |
-|    **Arkay**     | E    |    τ/4 |
-|     *Azura*      | E♯   |  7τ/24 |
-|     **Kyne**     | F    |    τ/3 |
-|     Meridia      | F♯♭  |  9τ/24 |
-|   *Molag Bal*    | F♯   |  5τ/12 |
-|     Hircine      | F♯♯  | 11τ/24 |
-|   **Stendarr**   | G    |    τ/2 |
-|     Sanguine     | G♯♭  | 13τ/24 |
-|    *Boethiah*    | G♯   |  7τ/12 |
-|    Nocturnal     | G♯♯  | 15τ/24 |
-|   **Akatosh**    | A    |   2τ/3 |
-|  Hermaeus Mora   | A♯♭  | 17τ/24 |
-|   *Sheogorath*   | A♯   |  9τ/12 |
-|     Jyggalag     | A♯♯  | 19τ/24 |
-|   **Julianos**   | B    |   5τ/6 |
-|    *Mephala*     | B♯   | 21τ/24 |
-|   **Dibella**    | C    | 11τ/12 |
-{:#color-table}
+|       God        | Tone |  Hue |  Color  |
+| :--------------: | :--- | ---: | :-----: |
+|     **Mara**     | C    | 330° |         |
+|      Namira      | C♯♭  | 345° |         |
+|    *Malacath*    | C♯   |   0° |   red   |
+|     Vaermina     | C♯♯  |  15° |         |
+|   **Zenithar**   | D    |  30° | orange  |
+|  Clavicus Vile   | D♯♭  |  45° |         |
+| *Mehrunes Dagon* | D♯   |  60° | yellow  |
+|     Peryite      | D♯♯  |  75° |         |
+|    **Arkay**     | E    |  90° |         |
+|     *Azura*      | E♯   | 105° |         |
+|     **Kyne**     | F    | 120° |  green  |
+|     Meridia      | F♯♭  | 135° |         |
+|   *Molag Bal*    | F♯   | 150° |         |
+|     Hircine      | F♯♯  | 165° |         |
+|   **Stendarr**   | G    | 180° |  cyan   |
+|     Sanguine     | G♯♭  | 195° |         |
+|    *Boethiah*    | G♯   | 210° |         |
+|    Nocturnal     | G♯♯  | 225° |         |
+|   **Akatosh**    | A    | 240° |  blue   |
+|  Hermaeus Mora   | A♯♭  | 255° |         |
+|   *Sheogorath*   | A♯   | 270° |         |
+|     Jyggalag     | A♯♯  | 285° |         |
+|   **Julianos**   | B    | 300° | magenta |
+|    *Mephala*     | B♯   | 315° |         |
+|   **Dibella**    | C    | 330° |         |
+{:#color-table .right}
 
-If you remember my definition of the color wheel, you’ll see that C♯, Red,
-happens to land on a Daedric Prince, whereas the other two are on Aedra (Kyne
-and Julianos). This may seem a little strange, considering that one of the
-tenets of my Musical Theory of Mundus is that the Aedra are the key Tones and
-the Daedra are less important. But look again at just who the pillar is:
-MALACATH. Malacath is formerly Trinimiac, an Aedra, who was changed (transposed,
-if you will) later on.
+Note that C♯, Red, happens to land on a Daedric Prince, whereas the other two
+primary colors are on Aedra (Kyne and Julianos). This may seem a little strange,
+considering that one of the tenets of my Musical Theory of Mundus is that the
+Aedra are the primaray Tones and the Daedra are ~~less important~~ harmonics.
+But look again at just who the pillar is: MALACATH. Malacath is formerly
+Trinimiac, an Aedra, who was changed (transposed, if you will) later on.
 
 As an aside, the number 3 in TES is extremely significant in a few different
 overarching ways. One of these, the Triune House, is composed of two extremes
@@ -211,5 +217,5 @@ Discography:
 
 [sonochrome]: https://en.wikipedia.org/wiki/Sonochromatism
 [tau]: https://tauday.com/tau-manifesto
-[wheel-tones]: ./images/wheel-tones-c.png
-[wheel-color]: ./images/wheel-color-c.png
+[wheel-nocolor]: //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=no-color&classes=no-swirl
+[wheel-color]: //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=hcl

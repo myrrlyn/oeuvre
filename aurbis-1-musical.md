@@ -289,14 +289,14 @@ Incidentally, if one makes this list into a wheel, with Aedric overtones as the
 longest spokes, the 7 Prominent Daedra with spokes of middling length, and the
 ten remaining Princes as the shortest spokes, one gets this result:
 
-!["A wheel diagram of the Tones, centered on C"][wheel-tone-c]{:.ctr}
+!["A wheel diagram of the Tones, centered on C"][wheel-tone-c]{:.fullwidth}
 
 However, if we rotate so that D is our top, the end result is reflectively
 symmetric. D Major is incidentally commonly called the Heavenly Key in the
 Western music canon, and having Work in such a subtly special place is rather
 fitting in my opinion.
 
-!["A wheel diagram of the Tones, centered on D"][wheel-tone-d]{:.ctr}
+!["A wheel diagram of the Tones, centered on D"][wheel-tone-d]{:.fullwidth}
 
 ## Lorkhan
 
@@ -424,5 +424,5 @@ Discography:
 - *It Is Accomplished*, track 20 on *Passion* (1989), by Peter Gabriel
 
 [coda]: //c0da.es
-[wheel-tone-c]: ./images/wheel-tones-c.png
-[wheel-tone-d]: ./images/wheel-tones-d.png
+[wheel-tone-c]: //myrrlyn.net/oeuvre/images/tones.svg?key=c-major&color=no-color&classes=no-swirl
+[wheel-tone-d]: //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=no-color&classes=no-swirl
