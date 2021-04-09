@@ -7,7 +7,8 @@ tags:
 - apocrypha
 - orcs
 - worldbuilding
-about: >
+summary: A construction of Orcish orthography.
+about: |
   There was a teslore Challenge of the Week on languages, so I whipped this up
   over lunch. I don’t believe there’s yet any official word on an Orcish written
   language, so I felt rather safe at the time I wrote this to invent one for

@@ -7,7 +7,8 @@ tags:
 - apocrypha
 - orcs
 - topic of the week
-about: >
+summary: What happened to the Orsimer in the first days of their transformation?
+about: |
   I wrote this as a Challenge of the Week entry (for “Beginnings”), and to
   explore the Orcish moment of creation. The Dunmeri perspective, as recorded in
   *The Anticipations*, is that Trinimac’s followers rubbed the soil of him on

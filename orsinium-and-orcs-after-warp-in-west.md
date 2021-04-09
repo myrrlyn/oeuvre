@@ -7,7 +7,8 @@ reddit: 151r8r
 tags:
 - metaphysics
 - orcs
-about: >
+summary: An essay on the significance of Gortwog’s actions in Daggerfall.
+about: |
   This is my first published essay on the Orcs. It arose from research I did for
   my roleplaying character, Krognaz gro-Makoza.
 

@@ -8,7 +8,8 @@ tags:
 - orcs
 - story
 - topic of the week
-about: >
+summary: A short story about the racial biases of infrastructure.
+about: |
   There was a “Roads” weekly theme. Rather than write about roads, I elected to
   write about people talking about why Orcs don’t use roads.
 

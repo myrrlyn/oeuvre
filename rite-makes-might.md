@@ -7,7 +7,8 @@ tags:
 - apocrypha
 - orcs
 - topic of the week
-about: >
+summary: What happens when civilized Mer become animalistic Orcs?
+about: |
   I really don’t like the chieftain lore in *Skyrim*, but, it’s apparently here
   to stay, so I might as well try to make it work.
 

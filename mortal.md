@@ -8,7 +8,8 @@ tags:
 - orcs
 - story
 toc: false
-about: >
+summary: What does it mean to be the Orc at the back of the group?
+about: |
   This particular piece is a bit of an oddity for me. It’s neither scholarly (in
   the loose, /r/teslore sense of the word) nor esoteric. It’s the first (and for
   a long while, only) down-to-earth, truly Mundane, slice of life piece I’ve

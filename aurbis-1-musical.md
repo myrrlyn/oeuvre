@@ -12,7 +12,8 @@ intro-music:
 outro-music:
   src: ./music/Passion - It Is Accomplished.mp3
   title: "It Is Accomplished, The Last Temptation of Christ"
-about: >
+summary: My extrapolation of the Elder Scrolls divinities as musical Tones.
+about: |
   This is probably the text for which I am most well known. Which is somewhat
   ironic, since I set out to be the Orc guy and am not a music theorist. Despite
   my repeated entreaties for people to *not* use it as a foundation for their

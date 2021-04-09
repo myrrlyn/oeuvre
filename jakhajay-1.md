@@ -5,7 +5,8 @@ reddit: 1rnyrg
 tags:
 - khajiit
 - metaphysics
-about: >
+summary: An actuarial opinion on the Khajiit.
+about: |
   Once upon a time on IRC, we got to talking about how, exactly, the lunar
   cycles affected Khajiit birth patterns.
 

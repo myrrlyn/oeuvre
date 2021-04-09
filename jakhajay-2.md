@@ -5,7 +5,8 @@ reddit: 1rrqui
 tags:
 - khajiit
 - metaphysics
-about: >
+summary: A continued actuarial opinion on the Khajiit.
+about: |
   This is a continuation of my first post about the ja-Kha’jay, with more math
   and inventiveness. I plan on embedding the tables and graphs into this
   document, but that’s a rather low priority. The GDoc sheet has lasted this

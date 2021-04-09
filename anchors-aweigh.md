@@ -6,7 +6,8 @@ reddit: 1y9jxz
 tags:
 - eso
 - story
-about: >
+summary: A short story dramatizing the opening of the Elder Scrolls Online.
+about: |
   I forgot I wrote this, honestly. It’s submitted under an alt account – I think
   the reason I wrote it, and submitted it anonymously, was due to a discussion
   about whether certain people’s posts were being upvoted because they were

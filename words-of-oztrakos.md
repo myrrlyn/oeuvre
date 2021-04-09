@@ -10,7 +10,8 @@ tags:
 - orcs
 - religion
 - worldbuilding
-about: >
+summary: A collection of Orcish religious texts.
+about: |
   As part of my mythical *Orsinium Novum* project, I’ve created some new
   religions (though I guess it’s technically one religion with a schism and a
   heresy).

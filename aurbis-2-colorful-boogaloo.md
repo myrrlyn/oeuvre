@@ -12,7 +12,8 @@ intro-music:
 outro-music:
   src: ./music/Passion - It Is Accomplished.mp3
   title: "It Is Accomplished, The Last Temptation of Christ"
-about: >
+summary: My exploration of the Elder Scrolls divinities as Colors.
+about: |
   The momentum from the previous post on Music carried me into messing with
   Color as well. This one is even more made up than the last.
 

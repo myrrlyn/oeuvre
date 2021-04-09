@@ -8,7 +8,8 @@ tags:
 - dragon break
 - numidium
 - story
-about: >
+summary: Break the Dragon and endure the tempestuous winds of Time.
+about: |
   This is by far the largest piece I’ve published, and without a doubt one of my
   most notable. I still get the occasional ping about it to this day, and I’ve
   even seen a professionally printed copy, so I’m technically a published author.

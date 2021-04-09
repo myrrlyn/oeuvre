@@ -7,7 +7,8 @@ tags:
 - apocrypha
 - story
 toc: false
-about: >
+summary: An adventurer seeks out the artifacts Volendrung and Scourge.
+about: |
   This one is /u/IceFireWarden’s fault. He cooked up an idea for a series of
   travelogues, where various members of the lore community with some renown
   would write pieces about the Daedric Prince with whom they were most familiar.

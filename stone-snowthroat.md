@@ -6,7 +6,8 @@ reddit: 1oihxh
 tags:
 - metaphysics
 - towers
-about: >
+summary: We never did find the Stone of Skyrim’s Tower.
+about: |
   MK’s info dumps on `#memospore` gave us an awful lot to work with. That little
   storm was responsible for things such as my *Aurbis Musicolor* posts, spurred
   *The Numidiad*, caused a whole slew of threads on the Amaranth concept, and

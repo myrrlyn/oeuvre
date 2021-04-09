@@ -6,7 +6,8 @@ reddit: 15j34k
 tags:
 - orcs
 - worldbuilding
-about: >
+summary: My extrapolation of the Codes of Malacath.
+about: |
   I wrote this piece during an information trawl for my RPG character. Its age
   is pretty evident, both in writing style and content.
 

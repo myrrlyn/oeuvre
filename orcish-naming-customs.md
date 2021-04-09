@@ -7,7 +7,8 @@ tags:
 - orcs
 - worldbuilding
 toc: false
-about: >
+summary: An exploration of Orcish naming habits.
+about: |
   This resulted from my work in the Tamriel Scholars’s Guild. I don’t like weak
   names, so I put some thought into how to make a real-sounding Orcish name, and
   came up with this.

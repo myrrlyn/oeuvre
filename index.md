@@ -1,7 +1,8 @@
 ---
 title: oeuvre myrrlyn
 banner: text-oghma
-about: >
+summary: My collection of Elder Scrolls apocrypha and fan-fiction.
+about: |
   I should probably note that many of my texts are classified as “apocryphal”,
   that is, making up new things rather than analyzing existing lore. It’s
   totally fine to reject apocrypha, and whether or not you add my works to your

@@ -4,7 +4,8 @@ date: 2013-01-17T13:26:52 -0500
 reddit: 16riq2
 tags:
 - metaphysics
-about: >
+summary: An essay about soul colorings and sapience.
+about: |
   I don’t remember why I wrote this. I assume it was based on a discussion about
   how soul colors worked.
 

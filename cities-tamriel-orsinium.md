@@ -8,7 +8,8 @@ tags:
 - orcs
 - worldbuilding
 - topic of the week
-about: >
+summary: A report on the cities of Orsinium and Nova Orsinium.
+about: |
   This was a Challenge of the Week entry, about “Cities of Tamriel” (obviously).
 
   It is written as a draft for the Orsinium entry of a new *Pocket Guide to the*

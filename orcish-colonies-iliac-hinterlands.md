@@ -8,7 +8,8 @@ tags:
 - orcs
 - worldbuilding
 - topic of the week
-about: >
+summary: An anthropologist’s report on Orcish divergence in the Iliac Bay.
+about: |
   I wrote this as an entry for an /r/teslore Topic of the Week challenge.
   Despite appearances and some speculation to the contrary, this was an entirely
   original piece not in the works prior to said challenge being posted. That
@@ -34,7 +35,7 @@ I am no warrior myself, merely a humble scholar of Bretony and now Cyrod, but I
 have accompanied many an expedition into the field to study the Orcs so that we
 might better learn to resist and overcome them.
 
-## Hammerfell
+# Hammerfell
 
 In Hammerfell, the Orcish population stays largely to the Dragontail mountains,
 as the province’s fertile rim is firmly defended by an entrenched Redguard
@@ -135,7 +136,7 @@ Redguards, some of which I have listed here for reference:
   other Orcs, though of course an unwelcome blight in itself, at least serves as
   assurance that the Dust Demons are somewhere else.
 
-## Wrothgar
+# Wrothgar
 
 The Wrothgarian Orcs are more (in)famous than their Dragontail cousins, most
 notably for their muleheaded stubbornness in continuing to build Orsinium in the

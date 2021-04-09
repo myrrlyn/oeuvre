@@ -6,7 +6,8 @@ reddit: 1mw7f5
 tags:
 - orcs
 - worldbuilding
-about: >
+summary: An exploration of Orcish family structures.
+about: |
   I love *Skyrim*. It’s what got me into *The Elder Scrolls* in the first place,
   it has a great deal of Orc lore (surpassed only recently by ESO), and has a
   lot more depth and wonder than many people in the lore community thought at
