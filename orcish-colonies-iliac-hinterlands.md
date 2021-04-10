@@ -35,7 +35,7 @@ I am no warrior myself, merely a humble scholar of Bretony and now Cyrod, but I
 have accompanied many an expedition into the field to study the Orcs so that we
 might better learn to resist and overcome them.
 
-# Hammerfell
+## Hammerfell
 
 In Hammerfell, the Orcish population stays largely to the Dragontail mountains,
 as the province’s fertile rim is firmly defended by an entrenched Redguard
@@ -77,25 +77,26 @@ The largest and most long-lived Orc clans have even been given names by the
 Redguards, some of which I have listed here for reference:
 
 - The Sea Pigs, also called Or-sea-mer or Shorks (a bad portmanteau of Shark and
-  Orc), depending on whom you ask, display a rare quality of their kind – namely,
-  an affinity for water – and claim the shoreline of the northern Dragontails
-  and live in caves along the coast. They like to prey upon passing ships, and
-  have developed various flippers which they can attach to hands and feet to
-  swim at great speeds. As they possess neither the equipment nor the capability
-  for constructing ships, they swim to their prey, board, and capture the ship,
-  then bring it home by deliberately dashing it against the rocky coast. Once
-  the ship is broken, those who remained on shore come out to scavenge. Despite
-  the danger of Sea Pig attacks, sailing close to shore is still necessary as
-  the Iliac’s frequent storms are far worse on open sea, and when the Shorks are
-  inland, there is no risk other than the well-charted rocks.
+  Orc), depending on whom you ask, display a rare quality of their kind –
+  namely, an affinity for water – and claim the shoreline of the northern
+  Dragontails and live in caves along the coast. They like to prey upon passing
+  ships, and have developed various flippers which they can attach to hands and
+  feet to swim at great speeds. As they possess neither the equipment nor the
+  capability for constructing ships, they swim to their prey, board, and capture
+  the ship, then bring it home by deliberately dashing it against the rocky
+  coast. Once the ship is broken, those who remained on shore come out to
+  scavenge. Despite the danger of Sea Pig attacks, sailing close to shore is
+  still necessary as the Iliac’s frequent storms are far worse on open sea, and
+  when the Shorks are inland, there is no risk other than the well-charted
+  rocks.
 
 - The Stone Skulls claim the Dragontails just south of the coast down to about
   the latitude of Kozanset. Exact demarcations are impossible, as the Orcs know
   no borders and territory is enforced only when two bands collide. The Stone
   Skulls earned their name from their custom of constantly striking their skulls
   with rocks, beginning when they are about five or six. The constant barrage of
-  light, but consistent, blows causes small fractures at the impact site, and the
-  bone grows back thicker to compensate. Over the years, these Orcs develop
+  light, but consistent, blows causes small fractures at the impact site, and
+  the bone grows back thicker to compensate. Over the years, these Orcs develop
   massive, thick skulls, eschewing helmets in favor of the armor they so
   brutally force themselves to grow. They also greatly enjoy headbutting their
   enemies, striking with sufficient force to break bones in the victim.
@@ -136,7 +137,7 @@ Redguards, some of which I have listed here for reference:
   other Orcs, though of course an unwelcome blight in itself, at least serves as
   assurance that the Dust Demons are somewhere else.
 
-# Wrothgar
+## Wrothgar
 
 The Wrothgarian Orcs are more (in)famous than their Dragontail cousins, most
 notably for their muleheaded stubbornness in continuing to build Orsinium in the

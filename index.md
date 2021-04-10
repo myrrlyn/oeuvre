@@ -9,7 +9,7 @@ about: |
   perception of Tamriel is entirely up to you.
 ---
 
-# Oeuvre myrrlyn
+# oeuvre myrrlyn
 
 I started writing in the *Elder Scrolls* universe in the fall of 2012, when I
 found a (now-defunct) “Tamriel Scholars’ Guild” roleplaying group on reddit.

@@ -41,6 +41,8 @@ about: |
 
 ## [The First Words of Oztrakos][words-1]
 
+{:.subtitle}
+
 On the First Dawn, the Sun rose over an empty plain of barren stone. No wind
 raced across this plain, for there was no wind. No water trickled down this
 plain, for there was no water. No grass grew from its skin, nor did game graze
@@ -87,6 +89,8 @@ the harsh barrenness of the empty rock and knew that there, WE CANNOT BE.
 
 ## [The Second Words of Oztrakos][words-2]
 
+{:.subtitle}
+
 The clans moved into the Mountain, digging beneath its skin and carving out
 homes and warrens in the rock.
 
@@ -124,6 +128,8 @@ to war as well.
 # THE FIRST OF WARS
 
 ## [The Third Words of Oztrakos][words-3]
+
+{:.subtitle}
 
 The war went on for a long time, and the Sun turned many times and the light it
 cast through the holes riddling the mountain spun and danced to follow, and
@@ -185,6 +191,8 @@ rugged. And they knew there was no going back.
 # THE END OF DAYS
 
 ## [The Last Words of Oztrakos][words-4]
+
+{:.subtitle}
 
 All that has a beginning, must have an ending. Only that which has never been
 may always be.

@@ -835,11 +835,11 @@ even the gods.
 
 And he swings.
 
->
+>  
 >
 > # NUMIDIAD | `C0DA`
 >
->
+>  
 
 The world flashed white and a soundless shock tore through the sky, rushing
 across land and sea and flattening everything in its path. The unnatural silence

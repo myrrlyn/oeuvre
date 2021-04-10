@@ -75,17 +75,17 @@ He wasn’t sure if that was a blessing or not.
 “Yes. I’m in hell.”
 
 His mind reeled as his Father smashed in. He was falling, falling, ash rushing
-by in countless, endless streaks–
+by in countless, endless streaks—
 
 ____
 
-“You know I love you like a son-”
+“You know I love you like a son—”
 
 “I am your son.”
 
 Was that pain in her eyes?
 
-“-so please just listen and obey. You don’t need to be here. You know Ghalurok.
+“—so please just listen and obey. You don’t need to be here. You know Ghalurok.
 You know what he’ll do to you. Just go!”
 
 That’s a strange definition of love, mother.
@@ -173,7 +173,7 @@ ____
 
 # YOU WERE BRAVE
 
-I– what?
+I— what?
 
 He didn’t have an answer to that.
 

@@ -24,7 +24,10 @@ about: |
 
   I originally created the sketches for these posts in Paint.NET and annotated
   them by hand; as part of hosting them here, I have rebuilt the images in SVG
-  and added some additional flair.
+  and added some additional flair. The rainbow used for the color wheel is a
+  model originally written by [Mike Bostock].
+
+  [Mike Bostock]: https://bl.ocks.org/mbostock/310c99e53880faec2434
 ---
 
 > Note: the images are SVG rendered by your browser. I have observed that the
@@ -205,7 +208,7 @@ Post-Post-Script:
 | 2013 Oct 30 06:18:07 | `<MK>`          | mrlyyn did the lay up, that other dude slamdunked it doing airborned cartwheels |
 | 2013 Oct 30 06:18:19 | `<!Dovahhkiin>` | this one? (link)                                                                |
 | 2013 Oct 30 06:18:25 | `<MK>`          | y                                                                               |
-| 2013 Oct 30 06:18:32 | `<!Dvahhkiin>`  | that was also myrrlyn                                                           |
+| 2013 Oct 30 06:18:32 | `<!Dovahhkiin>` | that was also myrrlyn                                                           |
 | 2013 Oct 30 06:18:47 | `<MK>`          | I don’t even                                                                    |
 
 Those lines are DEFINITELY why I wrote these.
@@ -219,4 +222,4 @@ Discography:
 [sonochrome]: https://en.wikipedia.org/wiki/Sonochromatism
 [tau]: https://tauday.com/tau-manifesto
 [wheel-nocolor]: //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=no-color&classes=no-swirl
-[wheel-color]: //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=hcl
+[wheel-color]: //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=cube-helix
