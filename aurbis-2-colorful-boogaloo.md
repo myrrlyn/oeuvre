@@ -34,7 +34,7 @@ about: |
 > animation causes the more complex images to flicker. I apologize if you have
 > similar problems, but the overall delivery is still an improvement over the
 > hand-drawn images I originally made.
-{:.bq-info}
+{:.bq-info role="complementary"}
 
 <div id="intro"></div>
 
