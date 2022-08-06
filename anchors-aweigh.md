@@ -47,11 +47,13 @@ Oh gods.
 
 The voice boomed again, and I screamed as the pain sent my thoughts scurrying.
 
-# YOU AWAKEN
+> *YOU AWAKEN*
+{:.sz-1}
 
 The voice dropped in intensity.
 
-## CAN YOU HEAR ME
+> *CAN YOU HEAR ME*
+{:.sz-2}
 
 “FUCK YES I CAN HEAR YOU!” I roared, and staggered unceremoniously forward. That
 was when I realized that the mysterious voice in my head had a speaker, and he
@@ -93,7 +95,8 @@ it to the ground.
 Now that I was clothed, I started forward in the direction it had been going,
 when the voice intoned through my skull again.
 
-### FOLLOW URDESEEM. QUICKLY, NOW
+> *FOLLOW URDESEEM. QUICKLY, NOW.*
+{:.sz-3}
 
 Was Urdeseem the lizard I just killed?
 
@@ -156,7 +159,8 @@ man who’d thrown his shadow at me earlier. I nodded along, not really caring
 what happened as long as there were two of us now. She looked like she could
 stop a lot of arrows.
 
-#### LYRIS IS A MIGHTY AND NOBLE WARRIOR. TRUST IN HER
+> *LYRIS IS A MIGHTY AND NOBLE WARRIOR. TRUST IN HER.*
+{:.sz-4}
 
 Good to know, though now I was curious what she was doing in this place. We
 squeezed through another door, and then ran up a scaffold running over a darkly

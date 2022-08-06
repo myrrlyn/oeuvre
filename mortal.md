@@ -66,7 +66,8 @@ attacked.
 
 ____
 
-# DO YOU KNOW WHERE YOU ARE
+> DO YOU KNOW WHERE YOU ARE
+{:.malacath .sz-1}
 
 He would have sighed, if he dared. There was only one possible answer to that
 question, and it meant that his last words were not, in fact, his last mistake.
@@ -97,7 +98,8 @@ cities, or Orsinium.”
 
 ____
 
-# DO YOU KNOW WHY YOU ARE HERE
+> DO YOU KNOW WHY YOU ARE HERE
+{:.malacath .sz-1}
 
 That was painfully obvious. But one such as him did not bandy words with one
 such as Him.
@@ -120,7 +122,8 @@ Ghalurok hit back.
 
 ____
 
-# YOU WERE WEAK
+> YOU WERE WEAK
+{:.malacath .sz-1}
 
 Water was wet. Sky was blue. Snow was cold.
 
@@ -147,7 +150,8 @@ At least he was getting stronger. Well, less pathetically weak.
 
 ____
 
-# YOU WERE A FOOL
+> YOU WERE A FOOL
+{:.malacath .sz-1}
 
 “Yes.”
 
@@ -171,7 +175,8 @@ That was one of the last days he dreamed that.
 
 ____
 
-# YOU WERE BRAVE
+> YOU WERE BRAVE
+{:.malacath .sz-1}
 
 I— what?
 
@@ -232,7 +237,8 @@ sword is one thing. A child with a rock is quite another.”
 
 ____
 
-# DO YOU KNOW WHAT I ASK OF MY CHILDREN
+> DO YOU KNOW WHAT I ASK OF MY CHILDREN
+{:.malacath .sz-1}
 
 He supposed he didn’t.
 
@@ -264,14 +270,16 @@ And he was alone.
 
 ____
 
-# STRENGTH IS MEANINGLESS ALONE
+> STRENGTH IS MEANINGLESS ALONE
+{:.malacath .sz-1}
 
 Ghalurok stepped into the blow, stiffening his rib-muscles as the punch landed.
 Ghalurok’s head slammed into his chest, sending him staggering back. Ghalurok
 stayed bent down, and charged him; shoulder met chest with a meaty slap and they
 both tumbled to the rocks.
 
-# HONOR DOES NOT FEED THE CLAN
+> HONOR DOES NOT FEED THE CLAN
+{:.malacath .sz-1}
 
 He and Ghalurok were hunting; their target was not only the deer grazing upwind
 of them, but the Nord hunter who had yet to spot them. Ghalurok nodded at him,
@@ -279,13 +287,15 @@ and they split up. He kept his sight on the deer as Ghalurok slipped towards the
 Nord. A badger hissed, then growled; Ghalurok was ready. Three. Two. One. The
 arrow lept from his bow as Ghalurok’s stone took the Nord in the skull.
 
-# MY CHILDREN ARE NOT THE PEOPLE BEST WITH STRENGTH, OR HONOR, OR FEROCITY
+> MY CHILDREN ARE NOT THE PEOPLE BEST WITH STRENGTH, OR HONOR, OR FEROCITY
+{:.malacath .sz-1}
 
 He and Ghalurok were given the first cuts of the deer. He tore ravenously into
 his, while Ghalurok regaled the Stronghold with how he’d taken out the oblivious
 Nord so that the deer would be theirs.
 
-# MY CHILDREN ARE THE PEOPLE BEST WITH FAMILY
+> MY CHILDREN ARE THE PEOPLE BEST WITH FAMILY
+{:.malacath .sz-1}
 
 They danced around the fire; the whole Stronghold was together and everyone had
 something to celebrate. Kumaz had been awarded a smithing contract in Markarth;
@@ -304,7 +314,8 @@ He grinned back.
 
 ____
 
-# DO YOU KNOW WHERE YOU ARE
+> DO YOU KNOW WHERE YOU ARE
+{:.malacath .sz-1}
 
 He did. Father had spoken little, but the memories he showed were instructive
 enough. There were no excuses for his failings, but there was some forgiveness

@@ -43,8 +43,8 @@ Same soundtrack as the first one.
 ## Introduction
 
 In keeping with the spirit of writing esoteric extrapolations late at night, I
-present to you the sequel of *Aurbis: The Musical* concerning the Gods as Tones:
-the synæsthesia of Gods, Tones, and Colors. We know that the Magne-Ge are
+present to you the sequel of [*Aurbis: The Musical*] concerning the Gods as
+Tones: the synæsthesia of Gods, Tones, and Colors. We know that the Magne-Ge are
 colors, and given that synæsthesia seems to be a profound mechanic of the
 universe (Tonal Architecture is the synæsthesia of Sound and Touch, for
 instance), I arrived at the conclusion that the Tones and Colors are merely two
@@ -189,7 +189,10 @@ Not only can the world be described through Tone, but also Color. Furthermore,
 the two are intimately related and may be two aspects of the same fundamental
 concept.
 
-____
+----
+
+(These are IRC logs from the `#memospore` channel, where several of us hung out
+to chat about esoterica in our free time. `<MK>` is Michael Kirkbride.)
 
 Post-Script:
 
@@ -201,15 +204,15 @@ That line is pretty much why I wrote this.
 
 Post-Post-Script:
 
-| Date                 | Speaker         | Message                                                                         |
-| :------------------- | :-------------- | :------------------------------------------------------------------------------ |
-| 2013 Oct 30 06:16:49 | `<MK>`          | Dat thread about colors and sounds on reddit                                    |
-| 2013 Oct 30 06:17:09 | `<!Dovahkiin>`  | That was myrrlyn. Man                                                           |
-| 2013 Oct 30 06:18:07 | `<MK>`          | mrlyyn did the lay up, that other dude slamdunked it doing airborned cartwheels |
-| 2013 Oct 30 06:18:19 | `<!Dovahhkiin>` | this one? (link)                                                                |
-| 2013 Oct 30 06:18:25 | `<MK>`          | y                                                                               |
-| 2013 Oct 30 06:18:32 | `<!Dovahhkiin>` | that was also myrrlyn                                                           |
-| 2013 Oct 30 06:18:47 | `<MK>`          | I don’t even                                                                    |
+| Date                 | Speaker      | Message                                                                         |
+| :------------------- | :----------- | :------------------------------------------------------------------------------ |
+| 2013 Oct 30 06:16:49 | `<MK>`       | Dat thread about colors and sounds on reddit                                    |
+| 2013 Oct 30 06:17:09 | `<!numinit>` | That was myrrlyn. Man                                                           |
+| 2013 Oct 30 06:18:07 | `<MK>`       | mrlyyn did the lay up, that other dude slamdunked it doing airborned cartwheels |
+| 2013 Oct 30 06:18:19 | `<!numinit>` | this one? (link)                                                                |
+| 2013 Oct 30 06:18:25 | `<MK>`       | y                                                                               |
+| 2013 Oct 30 06:18:32 | `<!numinit>` | that was also myrrlyn                                                           |
+| 2013 Oct 30 06:18:47 | `<MK>`       | I don’t even                                                                    |
 
 Those lines are DEFINITELY why I wrote these.
 
@@ -219,6 +222,7 @@ Discography:
   *Motion Picture* (2007), by John Murphy
 - *It Is Accomplished*, track 20 on *Passion* (1989), by Peter Gabriel
 
+[*Aurbis: The Musical*]: //myrrlyn.net/oeuvre/aurbis-1-musical
 [sonochrome]: https://en.wikipedia.org/wiki/Sonochromatism
 [tau]: https://tauday.com/tau-manifesto
 [wheel-nocolor]: //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=no-color&classes=no-swirl
