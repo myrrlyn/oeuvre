@@ -1,6 +1,5 @@
 ---
 title: oeuvre myrrlyn
-banner: text-oghma
 summary: My collection of Elder Scrolls apocrypha and fan-fiction.
 about: |
   I should probably note that many of my texts are classified as “apocryphal”,
