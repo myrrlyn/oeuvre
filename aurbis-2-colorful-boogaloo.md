@@ -141,11 +141,11 @@ So. Let’s talk physics and theory (and also terror. *blackens hands*).
 
 Human hearing ranges from ~20Hz to ~16kHz, and musical notes are spaced
 logarithmically (going up an octave doubles the frequency of each note). Human
-color perception ranges from 4×10<sup>14</sup> to 8×10<sup>14</sup>, and unlike
-with music, which offers essentially limitless pure tones, there are only three
-pure colors we can see: red, green, and blue. (A small percentage of women have
-a genetic mutation granting them a fourth primary color, yellow). All other
-colors must exist as a harmonic chord of those three or four base colors.
+color perception ranges from 4×10^14^ to 8×10^14^, and unlike with music, which
+offers essentially limitless pure tones, there are only three pure colors we can
+see: red, green, and blue. (A small percentage of women have a genetic mutation
+granting them a fourth primary color, yellow). All other colors must exist as a
+harmonic chord of those three or four base colors.
 
 As a result, while the repeating musical scale simply represents increases in
 frequency of single-tone notes, the rotating color wheel represents a field of

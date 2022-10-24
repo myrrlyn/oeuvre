@@ -44,11 +44,11 @@ m1, m↓) took five cells, and each phase of Secunda (s0, s↑, s1, s↓) took f
 Symbol reference: 0 is a New moon, 1 is a Full moon, ↑ is Waxing, and ↓ is
 Waning.
 
-I then began at the top left corner of m0<sub>1</sub>, s0<sub>1</sub>, and moved
-one cell down and to the right and put a counter in that cell. When I reached
-s↓<sub>4</sub> or m↓<sub>5</sub>, I returned to the beginning of the
-respective row or column, and continued on. In doing so, it took 80 iterations
-to reach the end of the path and return to the origin. (See Lunar Chart sheet.)
+I then began at the top left corner of m0~1~, s0~1~, and moved one cell down and
+to the right and put a counter in that cell. When I reached s↓~4~ or m↓~5~, I
+returned to the beginning of the respective row or column, and continued on. In
+doing so, it took 80 iterations to reach the end of the path and return to the
+origin. (See Lunar Chart sheet.)
 
 In conclusion:
 
@@ -86,10 +86,10 @@ Lastly, I’d like to again credit everyone in the IRC who helped on this
 document, especially /u/solthas who has a keen eye for mapping out the tables in
 sensible ways, and who has corrected me several times on how the tables should
 be laid out. I didn’t listen to her when doing the Lattice plotting, because
-going from m0<sub>1</sub> and s0<sub>1</sub> was the most convenient, but now
-that the functions are mapped out they can be shifted forward or backwards with
-ease. The math work was done pretty much on my own, but it would be absolutely
-meaningless without the foundation work they put in.
+going from m0~1~ and s0~1~ was the most convenient, but now that the functions
+are mapped out they can be shifted forward or backwards with ease. The math work
+was done pretty much on my own, but it would be absolutely meaningless without
+the foundation work they put in.
 
 [gdoc]: https://docs.google.com/spreadsheet/ccc?key=0Aly-sXRShwzjdGtrRlJ6a1Mzbk5PZjFXNUExMmIzWGc
 [wolfram-m]: http://www.wolframalpha.com/input/?i=Plot%5BSin%5BPi*%28x%2F10-.5%29%5D%2C+%7Bx%2C+0%2C+80%7D%5D
