@@ -122,7 +122,7 @@ that created Aurbis.
 |   **Julianos**   | B    | 300° | magenta |
 |    *Mephala*     | B♯   | 315° |         |
 |   **Dibella**    | C    | 330° |         |
-{:#color-table .right}
+{:#color-table .float-right}
 
 Note that C♯, Red, happens to land on a Daedric Prince, whereas the other two
 primary colors are on Aedra (Kyne and Julianos). This may seem a little strange,
@@ -224,6 +224,5 @@ Discography:
 
 [*Aurbis: The Musical*]: //myrrlyn.net/oeuvre/aurbis-1-musical
 [sonochrome]: https://en.wikipedia.org/wiki/Sonochromatism
-[tau]: https://tauday.com/tau-manifesto
 [wheel-nocolor]: //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=no-color&classes=no-swirl
 [wheel-color]: //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=cube-helix

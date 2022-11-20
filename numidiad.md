@@ -22,7 +22,7 @@ about: |
   introductory post. The link above is to that post, which itself contains a
   link to the origin comment.
 
-  I desigend pieces of *The Numidiad* to explicitly refer to MK’s `C0DA`
+  I designed pieces of *The Numidiad* to explicitly refer to MK’s `C0DA`
   stories, and after [`C0DA`][c0da] itself was released in February 2014, I
   realized I could easily link this story to his own. To that end, I released a
   sixth part of five, titled *Numidiad | `C0DA`*, which in retrospect I kind of
@@ -729,7 +729,7 @@ red lava and black ebon bleeding from its fissures.
 > Sovngarde saraan.
 {:.handwriting}
 
-![—squish][squish]{:.right}
+![—squish][squish]{:.float-right}
 
 ### Veloth
 
@@ -1022,7 +1022,6 @@ crouching the Colossus to its minimal height.
 Belching steam, hissing and burning [NOOOOOOOOOOOOO] against the Void, the
 Numidium flings itself from Nirn and erupts into the sky.
 
-[c0da]: http://c0da.es
 [squish]: ./images/prophet-4.png "Credit: Minttu Hynninen"
 [Aka-Drog]: #dovah "Aka-Drog: Master"
 [NOOOOOOOOOOOOO]: #dwemer "NOOOOOOOOOOOOO"

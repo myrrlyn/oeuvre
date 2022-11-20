@@ -66,7 +66,7 @@ course, are SH and TH which have their own symbols.
 
 - The word “Cyrodiil”
 
-  ![Cyrodiil][cyrodiil]{:.right}
+  ![Cyrodiil][cyrodiil]{:.float-right}
 
   (Note: this provides an example of Orsimeris’ phonetic transliteration for
   words spelled in ways their language does not use. Literally, it reads
@@ -74,14 +74,14 @@ course, are SH and TH which have their own symbols.
 
 - The “Holy Name of Gortwog”
 
-  ![Holy Name of Gortwog][gortwog]{:.right}
+  ![Holy Name of Gortwog][gortwog]{:.float-right}
 
   (Go-rt-w-og gro Na-go-r-m)
 
 - The Skyrim Strongholds
 
-  ![Strongholds][strongholds]{:.right}
-  ![gro and gra][gro-gra]{:.right .halfwidth}
+  ![Strongholds][strongholds]{:.float-right}
+  ![gro and gra][gro-gra]{:.float-right .halfwidth}
 
   - M-or Kh-a-zg-ur
   - Du-sh-n-ikh Y-a-l
