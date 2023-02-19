@@ -37,7 +37,7 @@ of nervous about that. Without further ado, the actual post.)
 ____
 
 > Disclaimer: This is both known lore and conjecture.
-{:.bq-warn role="complementary"}
+{:role="complementary" .bq-warn}
 
 As a result of their ostracism by the Aldmer upon the Transformation to Orsimer,
 the family is of utmost importance to all Orsimer, goblins and ogres and Orcs
@@ -69,7 +69,7 @@ has a much simpler and smaller family tree, Narzulbur is more fragmented, and
 Largashbur seems populated by non-relatives, perhaps due to Malacath’s curse.
 
 > Begin conjecture-on-lore and pure conjecture
-{:.bq-safe role="complementary"}
+{:role="complementary" .bq-safe}
 
 (Nova) Orsinium is another matter entirely. Whereas the Strongholds appear to be
 a large family or small clan (assuming again that Skyrim in lore is larger than
