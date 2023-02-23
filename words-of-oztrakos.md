@@ -2,6 +2,7 @@
 title: The Words of Oztrakos
 banner: map-stylized
 date: 2014-11-26T14:18:19 -0500
+toc: false
 reddit: 2ni654
 tags:
 - apocrypha
@@ -37,9 +38,11 @@ about: |
   a subtle man.
 ---
 
-# WANDERING ON THE PLAINS
-
 ## [The First Words of Oztrakos][words-1]
+
+{:.subtitle}
+
+### WANDERING ON THE PLAINS
 
 {:.subtitle}
 
@@ -85,9 +88,11 @@ Mountain and its Shadow, and the endless emptiness of the burning plain, with
 only the thin lines of liveable twilight lying between. The leaders of these saw
 the harsh barrenness of the empty rock and knew that there, WE CANNOT BE.
 
-# DIGGING TO THE CAVE
-
 ## [The Second Words of Oztrakos][words-2]
+
+{:.subtitle}
+
+### DIGGING TO THE CAVE
 
 {:.subtitle}
 
@@ -125,9 +130,11 @@ the chief of the settled ones, and they both became so furious with the other
 for being stubborn stupid that they started fighting, and then their clans went
 to war as well.
 
-# THE FIRST OF WARS
-
 ## [The Third Words of Oztrakos][words-3]
+
+{:.subtitle}
+
+### THE FIRST OF WARS
 
 {:.subtitle}
 
@@ -188,9 +195,11 @@ stood up. And when they did, they found that they too had changed. They were no
 longer soft and pretty and graceful and fair; they were hardy and strong and
 rugged. And they knew there was no going back.
 
-# THE END OF DAYS
-
 ## [The Last Words of Oztrakos][words-4]
+
+{:.subtitle}
+
+### THE END OF DAYS
 
 {:.subtitle}
 
