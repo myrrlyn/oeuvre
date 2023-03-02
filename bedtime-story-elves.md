@@ -1,6 +1,6 @@
 ---
 title: A Bedtime Story About the Elves
-date: 2013-11-26T03:28:48 -0500
+date: 2013-11-26T03:28:48-05:00
 banner: map-skyrim
 reddit: 1rhg1f
 tags:

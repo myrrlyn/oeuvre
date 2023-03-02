@@ -1,7 +1,7 @@
 ---
 title: "Rite Makes Might"
-banner: map-wilderness
-date: 2017-01-14T15:37:24 -0700
+banner: wilds-3
+date: 2017-01-14T15:37:24-07:00
 reddit: 5o0any
 tags:
 - apocrypha

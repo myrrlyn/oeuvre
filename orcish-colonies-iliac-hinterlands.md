@@ -1,7 +1,7 @@
 ---
 title: Orcish Colonies of the Iliac Hinterlands
 banner: map-wilderness
-date: 2014-09-07T15:48:06 -0400
+date: 2014-09-07T15:48:06-04:00
 reddit: 2gouvd
 tags:
 - apocrypha

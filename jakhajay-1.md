@@ -1,6 +1,6 @@
 ---
 title: Analyzing the ja-Kha’jay
-date: 2013-11-28T15:11:03 -0500
+date: 2013-11-28T15:11:03-05:00
 reddit: 1rnyrg
 tags:
 - khajiit
@@ -14,6 +14,8 @@ about: |
   sixteen known forms, possibly up to 24.
 
   So naturally we fired up the bullshit factory and set to work.
+embeds:
+- mathjax
 ---
 
 The mechanics of Khajiit subspecies morphology has been a semi-mysterious topic
@@ -122,7 +124,7 @@ chaotically laid out and aesthetically poor, we have elected to condense and
 cleanse the working document to a publishable form. The only data absent from
 this is the foundation work into making tables to deal with the alleged 24
 Khajiit types (giving Masser two more phases), and beginning work on
-mathematically modeling `M(t)` and `S(t)` functions to determine the
+mathematically modeling $$M(t)$$ and $$S(t)$$ functions to determine the
 birth-order.
 
 I hope the information here has been useful, or at least interesting, and sheds

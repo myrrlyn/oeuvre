@@ -1,6 +1,6 @@
 ---
 title: Further Conjecture on the ja-Kha’jay
-date: 2013-11-30T07:13:41 -0500
+date: 2013-11-30T07:13:41-05:00
 reddit: 1rrqui
 tags:
 - khajiit
@@ -11,6 +11,8 @@ about: |
   and inventiveness. I plan on embedding the tables and graphs into this
   document, but that’s a rather low priority. The GDoc sheet has lasted this
   long; I’ll try to keep it around a while longer.
+embeds:
+- mathjax
 ---
 
 (Before we begin, I’d like to take this opportunity to deconstruct the
@@ -52,12 +54,12 @@ origin. (See Lunar Chart sheet.)
 
 In conclusion:
 
-[`M(t) = sin(π*(t/10-p))`][wolfram-m] gives a function with a period of 20 (so
+[$$M(t) = sin(π*(t/10-p))$$][wolfram-m] gives a function with a period of 20 (so
 each phase takes 5). `p` is the phase shift value, and a value of 0.5 will move
 the function by exactly one phase. The linked function is shifted so that it
 opens at the center of Masser-New.
 
-[`S(t) = sin(π*(t/8-p))`][wolfram-s] gives a function with a period of 16 (so
+[$$S(t) = sin(π*(t/8-p))$$][wolfram-s] gives a function with a period of 16 (so
 each phase takes 4). `p` is the phase shift value, and again, n multiples of 0.5
 move the function by exactly n phases. The linked function is shifted so that it
 opens at the center of Secunda-New.

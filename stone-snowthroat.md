@@ -1,6 +1,6 @@
 ---
 title: The Stone of Snow-Throat
-date: 2013-10-15T13:32:14 -0400
+date: 2013-10-15T13:32:14-04:00
 banner: map-skyrim
 reddit: 1oihxh
 tags:

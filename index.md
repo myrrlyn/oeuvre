@@ -8,8 +8,6 @@ about: |
   perception of Tamriel is entirely up to you.
 ---
 
-# oeuvre myrrlyn
-
 I started writing in the *Elder Scrolls* universe in the fall of 2012, when I
 found a (now-defunct) “Tamriel Scholars’ Guild” roleplaying group on reddit.
 While this began as an exercise in community hangout and a very silly way to
@@ -27,7 +25,7 @@ maintainer of the subreddit’s CSS.
 > major from mechanical to computer engineering and thus leading me to the
 > career I’m on today. I never expected my collegiate fanfic hobby to shape, and
 > honestly *save*, my life, but I’m glad it did.
-{:role="complementary"}
+{:tag="aside"}
 
 In addition to my behind-the-scenes work on /r/teslore’s visual appearance, I
 also improved my writing and understanding of the series meta-canon by hanging

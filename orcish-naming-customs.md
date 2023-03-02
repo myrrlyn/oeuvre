@@ -1,6 +1,6 @@
 ---
 title: Orcish Naming Customs
-date: 2013-01-03T23:27:42 -0500
+date: 2013-01-03T23:27:42-05:00
 banner: map-wilderness
 reddit: 15xkxu
 tags:

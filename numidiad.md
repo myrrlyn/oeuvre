@@ -1,7 +1,7 @@
 ---
 title: The Numidiad
 date: 2013-11-26T20:06:47-0500
-banner: map-cyrod
+banner: dragons
 reddit: 1rglj6
 tags:
 - apocrypha
@@ -489,14 +489,19 @@ various ways: Almalexia begins rallying magicka, Vivec stands off to the side,
 half-smiling and half-sorrowed, and Sotha Sil immediately vanishes in a puff of
 energy. His voice deep and commanding, Tiber intones:
 
-> GHARTOK CHIVER DALKADOON TALOS.
-> > In Talos’ hand is the royal-bladed weapon.
-> {:.translation}
-{:.ehlnofex .special-font}
-> DOVVE! GAHVON Z3LLE D3 SAHROT KRONGAH TAAZOKAAN!
-> > Dragons! Yield your souls unto mine for mighty victory over Tamriel
-> {:.translation}
-{:.dovah .special-font}
+> GHARTOK CHIVER DALKADOON TALOS
+>
+> In Talos’ hand is the royal-bladed weapon.
+> {:.translation data-lang="Ehlnofex"}
+{:.special-font .ehlnofex}
+
+<!-- -->
+
+> DOVVE GAHVON Z3LLE D3 SAHROT KRONGAH TAAZOKAAN
+>
+> Dragons! Yield your souls unto mine for mighty victory over Tamriel!
+> {:.translation data-lang="Dovah"}
+{:.special-font .dovah}
 
 A wave, near-invisible, ripples out from Tiber Septim. As it passes through each
 dragon, the creature crumples, collapses, and begins to burn. As the scaly flesh
@@ -729,8 +734,6 @@ red lava and black ebon bleeding from its fissures.
 > Sovngarde saraan.
 {:.handwriting}
 
-![—squish][squish]{:.float-right}
-
 ### Veloth
 
 It has come down from the mountains, the gleaming shards of its skin freshly
@@ -740,8 +743,13 @@ eruption and the footsteps of the twinned towering constructs. The blur of their
 heat ripples as its massive legs stride through the wastelands, and the massive
 gearings of its waist grind and groan as the stone in its chest blazes as a
 second sun. It takes another step—
+{:#landfall-para}
 
-*—squish*
+[![—squish][squish]{:.float-right .half-width}][landfall]
+{:#landfall-img}
+
+[*—squish*][landfall]
+{:#landfall-squish}
 
 ### Summurset
 
@@ -837,7 +845,7 @@ And he swings.
 
 >  
 >
-> # NUMIDIAD | `C0DA`
+> ## NUMIDIAD | `C0DA`
 >
 >  
 
@@ -886,9 +894,10 @@ life-threads of those they encounter are often snarled and sometimes cut, but
 such is the nature of the imperfection of scar-healing.
 
 > AMATIVE T3DE FENT BO
-> > Onward times shall flow
-> {:.transliteration}
-{:.dovah .special-font}
+>
+> Onward times shall flow
+> {:.translation data-lang="Dovah"}
+{:.special-font .dovah title="Onward times shall flow"}
 
 ____
 
@@ -982,10 +991,11 @@ The ever-present cries and screeches of the Jills to which Tamriel had gradually
 become accustomed are joined by the deeper roars and Shouts of the Drakes, which
 had been dwindling for two Eras but now returned in force. In Skyrim, the
 resurgent Dragon Cult was soon brought to heel and pushed across the resisting
-holds. The Dragon King, [YOLMOROKRON3D], perched atop the Ur Tower high above
-the Imperial City, drinking deep its power and breathing out with Royalty and
-Splendor the long fire to back Cyrod’s tangled jungles, leaving dry plains and
-desert behind.
+holds. The Dragon King,
+`YOLMOROKRON3D`{:tag="span" class="special-font dovah" title="Fire-Glory-Conquest" data-lang="Dovah"},
+perched atop the Ur Tower high above the Imperial City, drinking deep its power
+and breathing out with Royalty and Splendor the long fire to back Cyrod’s
+tangled jungles, leaving dry plains and desert behind.
 
 ____
 
@@ -993,8 +1003,12 @@ As Numidium crashes onto Hammerfell’s southern beaches, massive pistons
 thrustings its fists into walls and palaces and homes and refugees, the Mundane
 world is crushed in a mirror of the Mythic. In dimensions imperceptible to the
 mortal eye, the Dragon-forks crash together, the longer-running head biting down
-on its shorter brother. [AKA-DROG] crunches its crystal jaws, shattering the
-bones and scales of his smaller brother [Z1M] and swallowing them.
+on its shorter brother.
+`AKA-DROG`{:tag="span" class="special-font dovah" title="Master" data-lang="Dovah"}
+crunches its crystal jaws, shattering the bones and scales of his smaller
+brother
+`Z1M`{:tag="span" class="special-font dovah" title="Slave" data-lang="Dovah"}
+and swallowing them.
 
 Numidium staggered as Mundus cracked, shattered, and reformed in infinitesimally
 small zero-points of Creatia. Hammerfell’s rocks and sands and sea rose and fell
@@ -1019,11 +1033,33 @@ Numidium stares up at Masser, seething in hatred.
 The tower-legs collapse, folding and telescoping in massive complexity,
 crouching the Colossus to its minimal height.
 
-Belching steam, hissing and burning [NOOOOOOOOOOOOO] against the Void, the
-Numidium flings itself from Nirn and erupts into the sky.
+Belching steam, hissing and burning
+`NOOOOOOOOOOOOO`{:tag="span" class="special-font dwemer" title="No" data-lang="Dwemer"}
+against the Void, the Numidium flings itself from Nirn and erupts into the sky.
 
+[landfall]: //elderscrolls.fandom.com/wiki/The_Prophet_of_Landfall "The Prophet of Landfall"
 [squish]: ./images/prophet-4.png "Credit: Minttu Hynninen"
-[Aka-Drog]: #dovah "Aka-Drog: Master"
-[NOOOOOOOOOOOOO]: #dwemer "NOOOOOOOOOOOOO"
-[YOLMOROKRON3D]: #dovah "Yolmorokroniid: Fire Glory Conquest"
-[Z1m]: #dovah "Aka-Ziim: Slave"
+
+<script type="text/javascript">
+  let query = window.matchMedia("(min-width: 38em)");
+  let veloth = document.getElementById("veloth");
+  let image = document.getElementById("landfall-img");
+  let para = document.getElementById("landfall-para");
+  let squish = document.getElementById("landfall-squish");
+
+  let wrapper = document.createElement("div");
+  wrapper.id = "landfall-wrapper";
+  veloth.replaceWith(wrapper);
+
+  function shuffle_landfall(mq) {
+    if (mq.matches) {
+        wrapper.replaceChildren(image, veloth, para, squish);
+    }
+    else {
+        wrapper.replaceChildren(veloth, para, image, squish);
+    }
+  }
+
+  shuffle_landfall(query);
+  query.addEventListener("change", shuffle_landfall);
+</script>

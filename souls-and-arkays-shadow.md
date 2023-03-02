@@ -1,6 +1,7 @@
 ---
 title: Souls and Arkay’s Shadow
-date: 2013-01-17T13:26:52 -0500
+banner: magnus
+date: 2013-01-17T13:26:52-05:00
 reddit: 16riq2
 tags:
 - metaphysics

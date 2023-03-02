@@ -1,6 +1,7 @@
 ---
 title: "Aurbis: The Musical"
-date: 2013-10-21T23:30:08 -0400
+banner: kel
+date: 2013-10-21T23:30:08-04:00
 reddit: 1oybze
 tags:
 - apocrypha
@@ -290,14 +291,14 @@ Incidentally, if one makes this list into a wheel, with Aedric overtones as the
 longest spokes, the 7 Prominent Daedra with spokes of middling length, and the
 ten remaining Princes as the shortest spokes, one gets this result:
 
-!["A wheel diagram of the Tones, centered on C"][wheel-tone-c]{:.fullwidth}
+!["A wheel diagram of the Tones, centered on C"][wheel-tone-c]{:.full-width}
 
 However, if we rotate so that D is our top, the end result is reflectively
 symmetric. D Major is incidentally commonly called the Heavenly Key in the
 Western music canon, and having Work in such a subtly special place is rather
 fitting in my opinion.
 
-!["A wheel diagram of the Tones, centered on D"][wheel-tone-d]{:.fullwidth}
+!["A wheel diagram of the Tones, centered on D"][wheel-tone-d]{:.full-width}
 
 ## Lorkhan
 

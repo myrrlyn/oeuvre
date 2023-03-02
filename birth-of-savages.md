@@ -1,7 +1,7 @@
 ---
 title: The Birth of Savages
 banner: map-wilderness
-date: 2017-01-07T19:55:20 -0700
+date: 2017-01-07T19:55:20-07:00
 reddit: 5mommo
 tags:
 - apocrypha

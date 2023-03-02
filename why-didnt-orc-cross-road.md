@@ -1,7 +1,7 @@
 ---
 title: "“Why Didn’t the Orc Cross the Road?”"
-banner: map-wilderness
-date: 2016-10-07T22:13:22 -0400
+banner: map-stylized
+date: 2016-10-07T22:13:22-04:00
 reddit: 56ez7p
 tags:
 - apocrypha

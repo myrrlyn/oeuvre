@@ -1,7 +1,7 @@
 ---
 title: The Words of Oztrakos
 banner: map-stylized
-date: 2014-11-26T14:18:19 -0500
+date: 2014-11-26T14:18:19-05:00
 toc: false
 reddit: 2ni654
 tags:
@@ -38,13 +38,13 @@ about: |
   a subtle man.
 ---
 
-## [The First Words of Oztrakos][words-1]
+## WANDERING ON THE PLAINS
 
-{:.subtitle}
+{:.title .subtitle}
 
-### WANDERING ON THE PLAINS
+### [The First Words of Oztrakos][words-1]
 
-{:.subtitle}
+{:.title .subtitle}
 
 On the First Dawn, the Sun rose over an empty plain of barren stone. No wind
 raced across this plain, for there was no wind. No water trickled down this
@@ -88,13 +88,13 @@ Mountain and its Shadow, and the endless emptiness of the burning plain, with
 only the thin lines of liveable twilight lying between. The leaders of these saw
 the harsh barrenness of the empty rock and knew that there, WE CANNOT BE.
 
-## [The Second Words of Oztrakos][words-2]
+## DIGGING TO THE CAVE
 
-{:.subtitle}
+{:.title .subtitle}
 
-### DIGGING TO THE CAVE
+### [The Second Words of Oztrakos][words-2]
 
-{:.subtitle}
+{:.title .subtitle}
 
 The clans moved into the Mountain, digging beneath its skin and carving out
 homes and warrens in the rock.
@@ -130,13 +130,13 @@ the chief of the settled ones, and they both became so furious with the other
 for being stubborn stupid that they started fighting, and then their clans went
 to war as well.
 
-## [The Third Words of Oztrakos][words-3]
+## THE FIRST OF WARS
 
-{:.subtitle}
+{:.title .subtitle}
 
-### THE FIRST OF WARS
+### [The Third Words of Oztrakos][words-3]
 
-{:.subtitle}
+{:.title .subtitle}
 
 The war went on for a long time, and the Sun turned many times and the light it
 cast through the holes riddling the mountain spun and danced to follow, and
@@ -195,13 +195,13 @@ stood up. And when they did, they found that they too had changed. They were no
 longer soft and pretty and graceful and fair; they were hardy and strong and
 rugged. And they knew there was no going back.
 
-## [The Last Words of Oztrakos][words-4]
+## THE END OF DAYS
 
-{:.subtitle}
+{:.title .subtitle}
 
-### THE END OF DAYS
+### [The Last Words of Oztrakos][words-4]
 
-{:.subtitle}
+{:.title .subtitle}
 
 All that has a beginning, must have an ending. Only that which has never been
 may always be.

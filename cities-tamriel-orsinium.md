@@ -1,6 +1,6 @@
 ---
 title: "Cities of Tamriel: Orsinium"
-date: 2014-01-11T05:26:38 -0500
+date: 2014-01-11T05:26:38-05:00
 banner: map-stylized
 reddit: 1uybhq
 tags:

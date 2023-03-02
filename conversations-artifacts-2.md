@@ -1,7 +1,7 @@
 ---
 title: "Conversations with Daedric Artifacts, Volume II: Volendrung and Scourge"
-banner: text-daedric
-date: 2015-09-10T04:48:22 -0400
+banner: oblivion
+date: 2015-09-10T04:48:22-04:00
 reddit: 3kdfhd
 tags:
 - apocrypha
@@ -20,9 +20,7 @@ about: |
   IFW and I had some previous in– and out– of-character spats about the dynamics
   between Malacath and Peryite, of whom IFW is a huge fan. This *may* have
   spurred some of my writing choices. I also tried to keep Spellbreaker close to
-  the character it had in Volume I. Unfortunately, I’m no longer sure that the
-  original text of Volume I exists. If I can find a copy, I will host it here
-  for archival purposes.
+  the character it had in [Volume I](//reddit.com/r/teslore/comments/2snddy).
 
   I don’t think there was ever a Volume III, either, which leaves this piece
   standing awkwardly on its own. Fitting, since it’s about Malacath.
@@ -850,6 +848,8 @@ Volendrung.
 
 > And you never invited me
 {:.volendrung .sz-2}
+
+<!-- -->
 
 > I’ve missed you too brother dear. But this requires slightly more finesse
 > than you might like. Or have.

@@ -1,6 +1,7 @@
 ---
 title: "Aurbis 2: Colorful Boogaloo"
-date: 2013-10-23T05:02:22 -0400
+banner: kel
+date: 2013-10-23T05:02:22-04:00
 reddit: 1p1fip
 tags:
 - apocrypha
@@ -34,7 +35,7 @@ about: |
 > animation causes the more complex images to flicker. I apologize if you have
 > similar problems, but the overall delivery is still an improvement over the
 > hand-drawn images I originally made.
-{:role="complementary" .bq-info}
+{:tag="aside" .bq-info}
 
 <div id="intro"></div>
 
@@ -64,7 +65,7 @@ Now, some other resources:
   black, spokes are the Four Corners of the House of Troubles and the Three Good
   Daedra; the shortest, grey, spokes are the remaining Daedra.
 
-  ![Wheel of Gods and Tones][wheel-nocolor]{:.fullwidth}
+  ![Wheel of Gods and Tones][wheel-nocolor]{:.full-width}
 
 ## Theory
 
@@ -93,7 +94,7 @@ will explain my rationale below. For additional symbolism, and as a reminder of
 the Anuad, I’ve added Anu and Padhome circling each other in the entanglement
 that created Aurbis.
 
-![Wheel of Gods and Colors][wheel-color]{:.fullwidth}
+![Wheel of Gods and Colors][wheel-color]{:.full-width}
 
 |       God        | Tone |  Hue |  Color  |
 | :--------------: | :--- | ---: | :-----: |
@@ -122,7 +123,7 @@ that created Aurbis.
 |   **Julianos**   | B    | 300° | magenta |
 |    *Mephala*     | B♯   | 315° |         |
 |   **Dibella**    | C    | 330° |         |
-{:#color-table .float-right}
+{:#color-table .float-right-lg .cube-helix}
 
 Note that C♯, Red, happens to land on a Daedric Prince, whereas the other two
 primary colors are on Aedra (Kyne and Julianos). This may seem a little strange,

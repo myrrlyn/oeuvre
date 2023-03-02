@@ -1,7 +1,7 @@
 ---
 title: Orsinium and the Orcs
 subtitle: After the Warp in the West
-date: 2012-12-18T07:06:11 -0500
+date: 2012-12-18T07:06:11-05:00
 banner: map-wilderness
 reddit: 151r8r
 tags:
