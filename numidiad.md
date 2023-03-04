@@ -1,7 +1,7 @@
 ---
 title: The Numidiad
 date: 2013-11-26T20:06:47-0500
-banner: dragons
+banner: tools
 reddit: 1rglj6
 tags:
 - apocrypha

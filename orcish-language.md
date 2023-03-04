@@ -1,6 +1,6 @@
 ---
 title: An Introductory Report on the Orcish Language
-banner: map-stylized
+banner: wilds
 date: 2014-03-11T10:34:33-04:00
 reddit: 2052ht
 tags:

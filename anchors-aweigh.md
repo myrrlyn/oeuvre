@@ -1,7 +1,7 @@
 ---
 title: Anchors Aweigh
 date: 2014-02-18T14:05:57-05:00
-banner: seas
+banner: oblivion
 reddit: 1y9jxz
 tags:
 - eso

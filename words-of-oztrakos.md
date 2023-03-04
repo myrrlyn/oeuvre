@@ -1,6 +1,6 @@
 ---
 title: The Words of Oztrakos
-banner: map-stylized
+banner: c0da-4
 date: 2014-11-26T14:18:19-05:00
 toc: false
 reddit: 2ni654

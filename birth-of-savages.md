@@ -1,6 +1,6 @@
 ---
 title: The Birth of Savages
-banner: map-wilderness
+banner: wilds
 date: 2017-01-07T19:55:20-07:00
 reddit: 5mommo
 tags:

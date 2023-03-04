@@ -1,5 +1,6 @@
 ---
 title: Analyzing the ja-Kha’jay
+banner: numinatus
 date: 2013-11-28T15:11:03-05:00
 reddit: 1rnyrg
 tags:

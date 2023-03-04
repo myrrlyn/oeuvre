@@ -1,6 +1,6 @@
 ---
 title: "Rite Makes Might"
-banner: wilds-3
+banner: wilds
 date: 2017-01-14T15:37:24-07:00
 reddit: 5o0any
 tags:

@@ -1,5 +1,6 @@
 ---
 title: Further Conjecture on the ja-Kha’jay
+banner: numinatus
 date: 2013-11-30T07:13:41-05:00
 reddit: 1rrqui
 tags:
