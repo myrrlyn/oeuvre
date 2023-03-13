@@ -44,7 +44,7 @@ trekked east across Skyrim to Largashbur, where I found a …different… recept
 Long story short, they were under seige from a local tribe of giants and their
 Chief wasn’t exactly winning, so not only was I not killed on sight, which I
 always appreciate, but I was even brought in as potential aid. One of them
-muttured that I “couldn’t exactly bring more shit to this pile” which is
+muttered that I “couldn’t exactly bring more shit to this pile” which is
 basically an overabundance of enthusiasm and gratefulness from an Orc.
 
 The shaman sent me back out with instructions to find certain material necessary
@@ -881,7 +881,6 @@ through the floor.
 <!-- -->
 
 > YOU CALL US MONSTERS WHEN YOU SIMPLY STOOD AND WATCHED US BE MADE THIS WAY
-
 {:.scourge .sz-1}
 
 My nose was definitely bleeding. Hearing them speak together, that loudly, HURT.

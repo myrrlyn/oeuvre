@@ -38,13 +38,9 @@ about: |
   a subtle man.
 ---
 
-## WANDERING ON THE PLAINS
+## WANDERING ON THE PLAINS {:.title .subtitle}
 
-{:.title .subtitle}
-
-### [The First Words of Oztrakos][words-1]
-
-{:.title .subtitle}
+### [The First Words of Oztrakos][words-1] {:.title .subtitle}
 
 On the First Dawn, the Sun rose over an empty plain of barren stone. No wind
 raced across this plain, for there was no wind. No water trickled down this
@@ -88,13 +84,9 @@ Mountain and its Shadow, and the endless emptiness of the burning plain, with
 only the thin lines of liveable twilight lying between. The leaders of these saw
 the harsh barrenness of the empty rock and knew that there, WE CANNOT BE.
 
-## DIGGING TO THE CAVE
+## DIGGING TO THE CAVE {:.title .subtitle}
 
-{:.title .subtitle}
-
-### [The Second Words of Oztrakos][words-2]
-
-{:.title .subtitle}
+### [The Second Words of Oztrakos][words-2] {:.title .subtitle}
 
 The clans moved into the Mountain, digging beneath its skin and carving out
 homes and warrens in the rock.
@@ -130,13 +122,9 @@ the chief of the settled ones, and they both became so furious with the other
 for being stubborn stupid that they started fighting, and then their clans went
 to war as well.
 
-## THE FIRST OF WARS
+## THE FIRST OF WARS {:.title .subtitle}
 
-{:.title .subtitle}
-
-### [The Third Words of Oztrakos][words-3]
-
-{:.title .subtitle}
+### [The Third Words of Oztrakos][words-3] {:.title .subtitle}
 
 The war went on for a long time, and the Sun turned many times and the light it
 cast through the holes riddling the mountain spun and danced to follow, and
@@ -195,13 +183,9 @@ stood up. And when they did, they found that they too had changed. They were no
 longer soft and pretty and graceful and fair; they were hardy and strong and
 rugged. And they knew there was no going back.
 
-## THE END OF DAYS
+## THE END OF DAYS {:.title .subtitle}
 
-{:.title .subtitle}
-
-### [The Last Words of Oztrakos][words-4]
-
-{:.title .subtitle}
+### [The Last Words of Oztrakos][words-4] {:.title .subtitle}
 
 All that has a beginning, must have an ending. Only that which has never been
 may always be.
