@@ -55,15 +55,15 @@ origin. (See Lunar Chart sheet.)
 
 In conclusion:
 
-[$$M(t) = sin(π*(t/10-p))$$][wolfram-m] gives a function with a period of 20 (so
-each phase takes 5). `p` is the phase shift value, and a value of 0.5 will move
-the function by exactly one phase. The linked function is shifted so that it
-opens at the center of Masser-New.
+[$$M(t) = \sin(π\times(t/10-p))$$][wolfram-m] gives a function with a period of
+20 (so each phase takes 5). `p` is the phase shift value, and a value of 0.5
+will move the function by exactly one phase. The linked function is shifted so
+that it opens at the center of Masser-New.
 
-[$$S(t) = sin(π*(t/8-p))$$][wolfram-s] gives a function with a period of 16 (so
-each phase takes 4). `p` is the phase shift value, and again, n multiples of 0.5
-move the function by exactly n phases. The linked function is shifted so that it
-opens at the center of Secunda-New.
+[$$S(t) = \sin(π\times(t/8-p))$$][wolfram-s] gives a function with a period of
+16 (so each phase takes 4). `p` is the phase shift value, and again, n multiples
+of 0.5 move the function by exactly n phases. The linked function is shifted so
+that it opens at the center of Secunda-New.
 
 The combination of these two functions yields an interference-pattern with a
 period of 80, as seen in the chart on the provided document. A graph that is
