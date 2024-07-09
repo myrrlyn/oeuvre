@@ -4,9 +4,9 @@ date: 2013-12-31T16:53:51-05:00
 banner: text-daedric
 reddit: 1u4b55
 tags:
-- apocrypha
-- orcs
-- story
+  - apocrypha
+  - orcs
+  - story
 toc: false
 summary: What does it mean to be the Orc at the back of the group?
 about: |
@@ -43,7 +43,7 @@ He was afraid to look down.
 
 He looked down.
 
-____
+---
 
 Ghalurok paced across the clearing from him. There was no joy on his face, no
 eagerness or anticipation. There was only determination and, he hoped, regret.
@@ -64,9 +64,10 @@ Ghalurok shook his head sadly. “So be it.”
 Ghalurok spun his mace up to the ready, met his eyes one last time, and
 attacked.
 
-____
+---
 
 > DO YOU KNOW WHERE YOU ARE
+
 {:.malacath .sz-1}
 
 He would have sighed, if he dared. There was only one possible answer to that
@@ -78,7 +79,7 @@ He wasn’t sure if that was a blessing or not.
 His mind reeled as his Father smashed in. He was falling, falling, ash rushing
 by in countless, endless streaks—
 
-____
+---
 
 “You know I love you like a son—”
 
@@ -96,9 +97,10 @@ cities, or Orsinium.”
 
 “There is for me.”
 
-____
+---
 
 > DO YOU KNOW WHY YOU ARE HERE
+
 {:.malacath .sz-1}
 
 That was painfully obvious. But one such as him did not bandy words with one
@@ -106,7 +108,7 @@ such as Him.
 
 “Yes.”
 
-____
+---
 
 Ghalurok grinned at him.
 
@@ -120,16 +122,17 @@ He hit him. Wonder of wonders, Ghalurok actually staggered. Ghalurok laughed.
 
 Ghalurok hit back.
 
-____
+---
 
 > YOU WERE WEAK
+
 {:.malacath .sz-1}
 
 Water was wet. Sky was blue. Snow was cold.
 
 “Yes.”
 
-____
+---
 
 Was there anything more boring than mine work? Go into the dark, swing and swing
 and cart and cart. Some shifts would be weeks in the tunnels, never seeing light
@@ -138,8 +141,8 @@ there was the dust. They all wore their shirts over their faces instead of their
 chests. He supposed an outsider would be shocked by the women doing this, not
 just the men, but then, outsiders had ridiculous notions about sex. Killing
 their women just to satisfy ideas about what was proper? Stupid death was
-improper. Breasts were breasts. He didn’t see why outlanders cared so much
-about where cloth went. The mines weren’t cold.
+improper. Breasts were breasts. He didn’t see why outlanders cared so much about
+where cloth went. The mines weren’t cold.
 
 He supposed this was one of the reasons he didn’t take the constant advice to
 leave, to strike out on his own. See what the cities or the countryside might
@@ -148,14 +151,15 @@ the mines.
 
 At least he was getting stronger. Well, less pathetically weak.
 
-____
+---
 
 > YOU WERE A FOOL
+
 {:.malacath .sz-1}
 
 “Yes.”
 
-____
+---
 
 It was his tenth birthday. He supposed he was a man now. No, not supposed. He
 was a man now. The whole Stronghold was celebrating, of course. Everybody loved
@@ -173,16 +177,17 @@ would even take more land from the humans.
 
 That was one of the last days he dreamed that.
 
-____
+---
 
 > YOU WERE BRAVE
+
 {:.malacath .sz-1}
 
 I— what?
 
 He didn’t have an answer to that.
 
-____
+---
 
 He was five and learning under Old Bagrol. Ghalurok had just turned three and
 knew how to speak, but now he was learning how to listen. Ghalurok sat quietly
@@ -235,14 +240,15 @@ for he is weaker than you. But it is honor, for insult requires retribution. But
 you must never strike harder in response than the attack demands. A man with a
 sword is one thing. A child with a rock is quite another.”
 
-____
+---
 
 > DO YOU KNOW WHAT I ASK OF MY CHILDREN
+
 {:.malacath .sz-1}
 
 He supposed he didn’t.
 
-____
+---
 
 The rain drummed ceaselessly on the shingle roof above him. He coughed in his
 bed, a wet racking cough that shook his whole body. He hadn’t been able to keep
@@ -268,9 +274,10 @@ right back, dear. Just need to get some more herbs.”
 
 And he was alone.
 
-____
+---
 
 > STRENGTH IS MEANINGLESS ALONE
+
 {:.malacath .sz-1}
 
 Ghalurok stepped into the blow, stiffening his rib-muscles as the punch landed.
@@ -279,6 +286,7 @@ stayed bent down, and charged him; shoulder met chest with a meaty slap and they
 both tumbled to the rocks.
 
 > HONOR DOES NOT FEED THE CLAN
+
 {:.malacath .sz-1}
 
 He and Ghalurok were hunting; their target was not only the deer grazing upwind
@@ -288,6 +296,7 @@ Nord. A badger hissed, then growled; Ghalurok was ready. Three. Two. One. The
 arrow lept from his bow as Ghalurok’s stone took the Nord in the skull.
 
 > MY CHILDREN ARE NOT THE PEOPLE BEST WITH STRENGTH, OR HONOR, OR FEROCITY
+
 {:.malacath .sz-1}
 
 He and Ghalurok were given the first cuts of the deer. He tore ravenously into
@@ -295,6 +304,7 @@ his, while Ghalurok regaled the Stronghold with how he’d taken out the oblivio
 Nord so that the deer would be theirs.
 
 > MY CHILDREN ARE THE PEOPLE BEST WITH FAMILY
+
 {:.malacath .sz-1}
 
 They danced around the fire; the whole Stronghold was together and everyone had
@@ -312,9 +322,10 @@ He grinned back.
 
 “Am I ever.”
 
-____
+---
 
 > DO YOU KNOW WHERE YOU ARE
+
 {:.malacath .sz-1}
 
 He did. Father had spoken little, but the memories he showed were instructive
@@ -323,7 +334,7 @@ in seeing the arena tilted against him.
 
 “Yes. I’m home.”
 
-____
+---
 
 “Come, come!” his mother called. He stumbled to her as quickly as his
 two-year-old legs could carry him. She picked him up and smiled at him. “Do you

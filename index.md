@@ -25,7 +25,8 @@ maintainer of the subreddit’s CSS.
 > This was my first real programming experience, and is what led me to change my
 > major from mechanical to computer engineering and thus leading me to the
 > career I’m on today. I never expected my collegiate fanfic hobby to shape, and
-> honestly *save*, my life, but I’m glad it did.
+> honestly _save_, my life, but I’m glad it did.
+
 {:tag="aside"}
 
 In addition to my behind-the-scenes work on /r/teslore’s visual appearance, I

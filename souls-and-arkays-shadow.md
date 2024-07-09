@@ -4,7 +4,7 @@ banner: magnus
 date: 2013-01-17T13:26:52-05:00
 reddit: 16riq2
 tags:
-- metaphysics
+  - metaphysics
 summary: An essay about soul colorings and sapience.
 about: |
   I don’t remember why I wrote this. I assume it was based on a discussion about
@@ -27,7 +27,7 @@ white. But this being [/r/TESLore], we don’t really care.
 
 So, onto the lore. Four races of men (Bretons, Cyrodiils, Nords, Redguards) have
 black. Four races of mer (Altmer, Bosmer, Dunmer, Orsimer). Two beasts
-(Argonian, Khajiit). Dragons in *Skyrim* have their own thing. And literally
+(Argonian, Khajiit). Dragons in _Skyrim_ have their own thing. And literally
 every other actor has white. Animals, Draugr, Dragon Priests (actually, do they
 have white or black? I don’t remember. Fortunately, it’s irrelevant), goblins,
 ogres, zombies.
@@ -44,7 +44,7 @@ Yet they have white souls.
 Okay I have class in half an hour so I’m going to ~~wrap this up~~ really get
 going. I may come back with an edit. Here’s my actual point.
 
-____
+---
 
 Arkay doesn’t award black souls because of a level of sentience or intelligence.
 He awards it because of a level of maturity and civilization.
@@ -101,7 +101,7 @@ The Orcs were awarded black souls when they were relegated from status as
 Monster to Civilization. They stepped into Arkay’s Shadow willfully and their
 soul was changed by it.
 
-____
+---
 
 Wow so I wrote more in the ten minutes I had for the middle big section than I
 did for the intro. I really spit it out in a time crunch. Class in fifteen, now.

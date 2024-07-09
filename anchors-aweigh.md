@@ -4,8 +4,8 @@ date: 2014-02-18T14:05:57-05:00
 banner: oblivion
 reddit: 1y9jxz
 tags:
-- eso
-- story
+  - eso
+  - story
 summary: A short story dramatizing the opening of the Elder Scrolls Online.
 about: |
   I forgot I wrote this, honestly. It’s submitted under an alt account – I think
@@ -37,9 +37,9 @@ any more than I had to, so I pushed myself back to my feet.
 
 I didn’t know where I was, I was alone, and to top it off, I was naked.
 
-A voice boomed through my mind. It felt like standing right next to a
-         as he banged on the          and sent enormous reverberations throu—
-wait, did I just think “        ” instead of a word?
+A voice boomed through my mind. It felt like standing right next to a ████████
+as he banged on the ████████ and sent enormous reverberations throu— wait, did I
+just think “████████” instead of a word?
 
 Standing next to… to…
 
@@ -47,24 +47,26 @@ Oh gods.
 
 The voice boomed again, and I screamed as the pain sent my thoughts scurrying.
 
-> *YOU AWAKEN*
+> _YOU AWAKEN_
+
 {:.sz-1}
 
 The voice dropped in intensity.
 
-> *CAN YOU HEAR ME*
+> _CAN YOU HEAR ME_
+
 {:.sz-2}
 
 “FUCK YES I CAN HEAR YOU!” I roared, and staggered unceremoniously forward. That
 was when I realized that the mysterious voice in my head had a speaker, and he
-was standing inside my cell. Looking at me. I screeched in a *decidedly*
+was standing inside my cell. Looking at me. I screeched in a _decidedly_
 embarassing manner and tried to duck out of reach and scrabble for some
 semblance of modesty. It took me a couple seconds to realize that he was
 translucent purple, and not moving his eyes in the least. I tentatively stood
 back up and approached the figure, and he definitely appeared to be blind. Well,
 that was a relief. Maybe I could slip through the gate. I stumbled to the gate,
 only to find that not only were the edges frighteningly sharp, but they were
-*just* thinner than I was. I didn’t think risking a crossing right away would be
+_just_ thinner than I was. I didn’t think risking a crossing right away would be
 necessary or worthwhile, so I leaned against the wall to get my bearings.
 
 I didn’t really have anything. I was in a cell made of metal-rock, and I had
@@ -95,7 +97,8 @@ it to the ground.
 Now that I was clothed, I started forward in the direction it had been going,
 when the voice intoned through my skull again.
 
-> *FOLLOW URDESEEM. QUICKLY, NOW.*
+> _FOLLOW URDESEEM. QUICKLY, NOW._
+
 {:.sz-3}
 
 Was Urdeseem the lizard I just killed?
@@ -103,7 +106,7 @@ Was Urdeseem the lizard I just killed?
 Following him was out of the question, but there was only one path, so I
 sprinted down it. Blue fires illuminated the rock-metal tunnel, strewn with
 corpses and debris. I shivered and stepped up to one for warmth, only to find
-out it radiated cold, like a          blizzard on a stool.
+out it radiated cold, like a ████████ blizzard on a stool.
 
 Wait, where did blizzards happen? **Why didn’t I know this.**
 
@@ -126,7 +129,7 @@ I grabbed the glowing stave and felt a surge of power slam through me. My arm
 closed the cut in a matter of seconds. Ah, what the hell. I jabbed forward with
 the stave, and a blast of fire roared out and slammed against the wall.
 
-Oh,          that felt good. The holes in my memory were starting to worry me
+Oh, ████████ that felt good. The holes in my memory were starting to worry me
 more than they angered me.
 
 I slipped through the next door, and slid to a stop as a skeleton hastily
@@ -143,14 +146,14 @@ maybe setting up a vacation house here, but no, just for you, I think I’ll kee
 moving.
 
 Another skeleton put itself together and started shooting at me. I was very
-disappointed to learn that the magic stick fire did *not* burn up arrows in
+disappointed to learn that the magic stick fire did _not_ burn up arrows in
 flight.
 
 Once it was dispatched and I pulled the bone arrows out of me, I limped forward.
 I was glad to have a cane. Soon enough, I saw a woman in the distance.
 
 She was a bit farther away than I’d expected, and she also turned out to be
-something like eight feet high. Sweet         . I idly wondered if it mattered
+something like eight feet high. Sweet ████████. I idly wondered if it mattered
 that I didn’t know to whom it was I prayed, since they clearly weren’t
 intervening for me in a good way.
 
@@ -159,7 +162,8 @@ man who’d thrown his shadow at me earlier. I nodded along, not really caring
 what happened as long as there were two of us now. She looked like she could
 stop a lot of arrows.
 
-> *LYRIS IS A MIGHTY AND NOBLE WARRIOR. TRUST IN HER.*
+> _LYRIS IS A MIGHTY AND NOBLE WARRIOR. TRUST IN HER._
+
 {:.sz-4}
 
 Good to know, though now I was curious what she was doing in this place. We
@@ -191,7 +195,7 @@ driving the spikes in further, and then slowly and mercilessly they retreated,
 taking bits of my flesh with them. I lay gasping on the floor as the world
 turned black.
 
-____
+---
 
 I awoke in a passageway. It wasn’t the pretty, gradual awakening of one
 returning from sleep, where the mind starts to notice things and thoughts flow
@@ -206,7 +210,7 @@ any more than I had to, so I pushed myself back to my feet.
 I didn’t know where I was, but there was an enormous woman and I had clothes on.
 
 “What… where…?” I tried to ask, before memory flooded through me like the
-         River in Rain’s Hand. Cell. Naked. Blind shadow. Lizard. Clothes.
+████████ River in Rain’s Hand. Cell. Naked. Blind shadow. Lizard. Clothes.
 Staff. Cold fire. Skeletons. Giant woman. Magic eyeball. Spikes.
 
 “Did I die?”
@@ -241,7 +245,7 @@ she tampered with the center one.
 I had absolutely no idea what to do, so I took the butt end of my staff and
 stabbed it through the lattice into the glowing blackness. It worked, at the
 cost of a few inches of staff, so I repeated the process on the other side.
-Thank          for making most magic things fragile.
+Thank ████████ for making most magic things fragile.
 
 “Will that let him free?” I asked.
 

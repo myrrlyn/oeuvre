@@ -4,9 +4,9 @@ banner: wilds
 date: 2017-01-07T19:55:20-07:00
 reddit: 5mommo
 tags:
-- apocrypha
-- orcs
-- topic of the week
+  - apocrypha
+  - orcs
+  - topic of the week
 summary: What happened to the Orsimer in the first days of their transformation?
 about: |
   I wrote this as a Challenge of the Week entry (for “Beginnings”), and to
@@ -30,7 +30,7 @@ about: |
   sexual dimorphism in Orcs post-Transformation (given we see less of it in
   Altmer) affected their culture.
 
-  I have no comment on whether she and Durnathar were a couple. Read that
+  I have no position on whether she and Durnathar were a couple. Read that
   however you want.
 ---
 
@@ -42,7 +42,7 @@ dead were quiet.
 There weren’t many of those, today. That was also a rare thing. She hoped it was
 a good sign.
 
-----
+---
 
 In the distance, the enemy host was moving. She knew they would be leaving; they
 had already won. Veloth certainly would have no intentions of turning his Exodus
@@ -66,8 +66,8 @@ of rage and loss and shame.
 
 As she knelt in the dust, surrounded by her people in the empty plain, the
 enormity of their failure; of the loss of the Dwemerethi, the Velothi, and now
-the Matharani, those who had been sworn to Trinimac. She wondered what her
-folk would do now. She wondered if she could still call herself one of the Folk.
+the Matharani, those who had been sworn to Trinimac. She wondered what her folk
+would do now. She wondered if she could still call herself one of the Folk.
 
 It was quiet again. Mourning had passed, and morning had come. The sun still
 turned through the sky, and though her world had ended yesterday, the world had
@@ -83,13 +83,13 @@ She took a breath, looking out over her soldiers. She knew then what had
 happened, and of the blessing within the curse. No matter how they looked now,
 no matter the catastrophe of the mythic that had defeated Trinimac and ruined
 them, she knew that Boethiah had not won. They had been changed on the outside,
-true, her people were still soldiers, and that could not be taken away.
+true, but her people were still soldiers, and that could not be taken away.
 
 “Summon the priests, and form up the legion. We’re not yet dead, and so we’re
 not yet defeated. We are changed, but alive, and so Lord Trinimac must be as
 well.”
 
-----
+---
 
 Korosha stood with the high priests atop a small outcrop, looking over the rest
 of her people. Behind them, the altar sat cold and quiet.
@@ -97,13 +97,13 @@ of her people. Behind them, the altar sat cold and quiet.
 “It’s not working, Korosha. Lord Trinimac isn’t simply not answering; he’s not
 there!”
 
-Korosha surveyed the army filling the plain before her. *We’re not an army*
-*anymore*, she thought. *An army is part of a nation, and we have no nation.* In
+Korosha surveyed the army filling the plain before her. _We’re not an army_
+_anymore_, she thought. _An army is part of a nation, and we have no nation._ In
 their tongue, truth, strength, and beauty were synonyms. The Folk would see none
 of those qualities in her people, and the Departed would not welcome them solely
 for being cast off from the Folk. She wondered what they were.
 
-*We’re looking in the wrong place.*
+_We’re looking in the wrong place._
 
 So be it. The priests had discussed this, and had come to a resolution for when
 Trinimac did not answer.
@@ -218,7 +218,7 @@ Korosha rose. Vurnolamathel marked her, earth and blood on skin. Korosha tore
 her arms open against her tusks. She and Vurnolamathel embraced, mingling the
 blood. Below, the priests continued the rites.
 
-----
+---
 
 Korosha and her tribe loped across the plain. Behind them, the cast-off remnants
 of their former selves smoldered amongst the muck. She did not look back at

@@ -4,10 +4,10 @@ date: 2013-11-26T20:06:47-0500
 banner: tools
 reddit: 1rglj6
 tags:
-- apocrypha
-- dragon break
-- numidium
-- story
+  - apocrypha
+  - dragon break
+  - numidium
+  - story
 summary: Break the Dragon and endure the tempestuous winds of Time.
 about: |
   This is by far the largest piece I’ve published, and without a doubt one of my
@@ -54,6 +54,7 @@ about: |
 > don’t know if we should be proud or ashamed. If you are reading this, know
 > that we intended only the best. We intended to forge peace on the anvil of the
 > world, with the hammer of the Numidium.
+
 {:.handwriting}
 
 ## Third Era
@@ -89,6 +90,7 @@ about: |
 > know where Tiber Septim is, but it’s headed for us.
 >
 > Mother have mercy.
+
 {:.handwriting}
 
 ### Morrowind
@@ -106,8 +108,8 @@ about: |
 > backward, and… we don’t know how to describe it. I’ve seen mer become thrice
 > themselves, each following different paths of fate, then recombine in a
 > catastrophic event using details from all three. My colleague married three
-> different womer three different times, and now his wife is a grotesque mash
-> up of them all. Was. She died immediately.
+> different womer three different times, and now his wife is a grotesque mash-up
+> of them all. Was. She died immediately.
 >
 > There’s no point in recounting this. Numidium came for us. **A** Numidium,
 > anyway. We hear that there is fighting all across Tamriel. Numidium is not
@@ -122,6 +124,7 @@ about: |
 > We must reclaim it. We face the scourge of Corprus, and monsters beyond our
 > conception, but we must press on. There is no hope beyond the fire and ash of
 > the Mountain.
+
 {:.handwriting}
 
 ### Skyrim
@@ -156,6 +159,7 @@ about: |
 > Haafingar is sending warbands south to try and quell the worst of it, but the
 > fighting is still going strong. We’re headed to Whiterun now. Hopefully
 > someone there will know what we should do.
+
 {:.handwriting}
 
 ### High Rock
@@ -188,6 +192,7 @@ about: |
 > Nordic. The mages are making progress on their project, but Tiber’s monster
 > has for the time turned elsewhere. I pray that we will be ready when it
 > returns.
+
 {:.handwriting}
 
 ### Elsweyr
@@ -217,8 +222,8 @@ about: |
 > in the city, and it is indeed eerie. The only movements are small cloth strips
 > tacked to doors. I have included one below:
 >
-> > Elsweyr is lost. Seek Haven elsewhere.
-> {:.flyer}
+> _Elsweyr is lost. Seek Haven elsewhere._{:.flyer}
+
 {:.handwriting}
 
 ### Valenwood
@@ -238,9 +243,9 @@ blindingly bright brass tower flashes among the forest. It crashes through the
 smaller growth, pausing only to batter resilient trees out of its way. It
 charges after the graht-oak, missiles and magic peppering its skin. A fist like
 the hammer of a god crashes into the graht-oak’s trunk, shaking branches and
-bodies out of the crown. An eerie keening light pierces the tree’s canopy
-in several places. Numidium strikes the tree several more times, ripping limbs
-and vast swaths of foliage off of it and discarding them. The light vanishes
+bodies out of the crown. An eerie keening light pierces the tree’s canopy in
+several places. Numidium strikes the tree several more times, ripping limbs and
+vast swaths of foliage off of it and discarding them. The light vanishes
 suddenly, and strange howls and roars echo through the vale.
 
 Wave after wave of creature rush from the graht-oak. The towering brass walker
@@ -269,8 +274,8 @@ food from farther away. The lines progress slowly, but steadily. At the base of
 the trees lie those who have already drunk of the sap. They grow emaciated,
 their bodies elongating visibly, their bones moving according to the Hist’s
 desire. When the Hist have finished with each, the reptile stands to its feet.
-The newly-shaped creature’s eyes are glassy, and it moves uncertainly at
-first. Soon enough, however, it lopes off into the foliage and vanishes.
+The newly-shaped creature’s eyes are glassy, and it moves uncertainly at first.
+Soon enough, however, it lopes off into the foliage and vanishes.
 
 Smoke and screams rise from the little village, though the screams never last
 long. On the black star-studded horizon, the dark and forbidding wall of the
@@ -376,7 +381,7 @@ case. You must hold for one hour; after that, I will instruct you accordingly.�
 
 “By your command, my lord Sotha.”
 
-____
+---
 
 “My lord! What orders do you have?”
 
@@ -411,12 +416,12 @@ arrival in Skyrim brought about resurgence of their Dragon Cult. The Reach and
 Haafingar are embroiled in civil war with natives and High Rock, and the middle
 holds are fighting two fronts and paralyzed as a result. High Rock assaults
 Skyrim and is reported to be constructing a potential defense against Numidium
-on Balfiera. Hammerfell’s coast is destroyed, and her survivors are
-retreating inland to the Alik’r desert. Our spies cannot follow. Valenwood
-has gone dark and is reputed to be embroiled in a Wild Hunt on a scale never
-seen before. Towns near the border have fled closer inland. Elsweyr has expelled
-all foreigners and killed any they discovered after that. We do not know what
-they do. Argonia sends assault columns regularly against the southern woods, and
+on Balfiera. Hammerfell’s coast is destroyed, and her survivors are retreating
+inland to the Alik’r desert. Our spies cannot follow. Valenwood has gone dark
+and is reputed to be embroiled in a Wild Hunt on a scale never seen before.
+Towns near the border have fled closer inland. Elsweyr has expelled all
+foreigners and killed any they discovered after that. We do not know what they
+do. Argonia sends assault columns regularly against the southern woods, and
 while Leyawiin holds out due in part to Numidium, it is starving and weakening.
 As for Summerset, they continue to occupy most of its attention.”
 
@@ -491,16 +496,19 @@ energy. His voice deep and commanding, Tiber intones:
 
 > GHARTOK CHIVER DALKADOON TALOS
 >
-> In Talos’ hand is the royal-bladed weapon.
+> _In Talos’ hand is the royal-bladed weapon._
+>
 > {:.translation data-lang="Ehlnofex"}
+
 {:.special-font .ehlnofex}
 
 <!-- -->
 
 > DOVVE GAHVON Z3LLE D3 SAHROT KRONGAH TAAZOKAAN
 >
-> Dragons! Yield your souls unto mine for mighty victory over Tamriel!
+> _Dragons! Yield your souls unto mine for mighty victory over Tamriel!_
 > {:.translation data-lang="Dovah"}
+
 {:.special-font .dovah}
 
 A wave, near-invisible, ripples out from Tiber Septim. As it passes through each
@@ -535,10 +543,10 @@ Sotha Sil emerges from the tunnel leading back into the bowels of Red Mountain.
 Lit by the ruddy glow of the eternal fires, he carries in his arms an object
 covered with a thin cloth. It pulses slowly with a diffuse light. He nods to the
 House Magi around him, who fall in step, and they proceed down the mountain
-pathway to the gaping chasm of Akulakhan. Revealed by Vivec’s strike using
-Baar Dau, the towering construct, only partially completed at the time, was a
-hidden project of House Dagoth’s. Under Seht’s direction, it was built only to
-the point of bare functionality, and its bare skeleton is a stark contrast to
+pathway to the gaping chasm of Akulakhan. Revealed by Vivec’s strike using Baar
+Dau, the towering construct, only partially completed at the time, was a hidden
+project of House Dagoth’s. Under Seht’s direction, it was built only to the
+point of bare functionality, and its bare skeleton is a stark contrast to
 Numidium’s gleaming golden skin. The procession winds its way around Akulakhan’s
 skeleton, stopping at the void in its chest. The Indoril mage bows to Sotha Sil,
 then removes the cloth. Seht’s burden, the Heart of Lorkhan itself, rests
@@ -615,7 +623,7 @@ red lava and black ebon bleeding from its fissures.
 > move. Three legions have been dispatched north to Skyrim, two hold the defense
 > of the Imperial Tower, and the remaining two guard the western plains.
 >
-> ----
+> ---
 >
 > The Dunmer attacked again today. Their battlemages led the first assault,
 > launching a barrage of spells against the Spire. Our Whisperers managed to
@@ -653,6 +661,7 @@ red lava and black ebon bleeding from its fissures.
 > surrounded by flies, with no way of trapping them where he can crush with
 > ease. Talos recognizes this, of course, so Numidium soon vanishes in the same
 > manner as it appeared.
+
 {:.handwriting}
 
 ### Hammerfell
@@ -692,6 +701,7 @@ red lava and black ebon bleeding from its fissures.
 > the Dunmeri siege we believe there is hope to slip by with its attention kept
 > elsewhere. Our captain, Cyrus, is the best waverunner we’ve seen in many a
 > year. If anyone can make way through this, it will be him.
+
 {:.handwriting}
 
 ### Skyrim
@@ -732,6 +742,7 @@ red lava and black ebon bleeding from its fissures.
 > heart, I don’t believe we will succeed.
 >
 > Sovngarde saraan.
+
 {:.handwriting}
 
 ### Veloth
@@ -743,15 +754,16 @@ eruption and the footsteps of the twinned towering constructs. The blur of their
 heat ripples as its massive legs stride through the wastelands, and the massive
 gearings of its waist grind and groan as the stone in its chest blazes as a
 second sun. It takes another step—
+
 {:#landfall-para}
 
-[![—squish][squish]{:.float-right .half-width}][landfall]
-{:#landfall-img}
+[![—squish][squish]{:.float-right .half-width}][landfall]{:#landfall-img}
 
-[*—squish*][landfall]
-{:#landfall-squish}
+[_—squish_][landfall]{:#landfall-squish}
 
-### Summurset {:.clearfix}
+### Summurset
+
+{:.clearfix}
 
 > It still seems impossible that the Starry Heart has seen not merely one, but
 > three events of such incredible potency that each has caused a calendar reset
@@ -792,9 +804,10 @@ second sun. It takes another step—
 > assaulting the spellform in hopes to escape it, and the Crystal Tower in hopes
 > of shattering us and ending the trap. It will not take long, however, to pin
 > the Golem and allow the Final Strike.
+
 {:.handwriting}
 
-____
+---
 
 The elf shuts his journal and looks outside. He turns and screams, “Boraccag!
 Now!” The Yoku man stands and joins him at the sill. A massive bronze limb
@@ -873,7 +886,7 @@ into the water which erupted in a spray of mist and steam. Its head, once a mile
 in the clouds, now lay as far offshore. The sea pulled it home, and foot by foot
 the ruined legs and feet slowly slipped beneath the waves.
 
-____
+---
 
 The Ur Tower, still circling the White Gold, screamed a loud, vibrant Blue, the
 light bathing the City of the Cyrodiils in eerie, sacred tones from
@@ -893,11 +906,11 @@ such is the nature of the imperfection of scar-healing.
 
 > AMATIVE T3DE FENT BO
 >
-> Onward times shall flow
-> {:.translation data-lang="Dovah"}
+> _Onward times shall flow_{:.translation data-lang="Dovah"}
+
 {:.special-font .dovah title="Onward times shall flow"}
 
-____
+---
 
 The waves didn’t crash anymore; they hadn’t for a long time now. The waves
 brushed up against the beach almost accidentally, like a young boy unsure how to
@@ -940,7 +953,7 @@ of the lightning surround it, yet it emanates an unmistakable aura of fury.
 The helm turns slowly on its perch, nearly a mile above the sand, and grimly it
 lumbers up the beach.
 
-____
+---
 
 The Jills are everywhere across Tamriel, but the largest flock has been
 retracing Numidium’s route. They swarm around the pit on Balfiera, around which
@@ -951,7 +964,7 @@ pulling her farther in. Her cohorts gather around her, tearing the wound open
 and dragging her back into reality. Finally, she springs free and the rift snaps
 shut. In her claws dangles a limp ash-and-aurum figure.
 
-____
+---
 
 Hammerfell’s population had begun trickling back to the coastal cities almost as
 soon as word was received that Numidium was within the Alinori Seal, but now
@@ -971,7 +984,7 @@ Satisfied with its destruction, it turned its gaze northwards and strode back
 into the ocean. Its wounds are plugged with dirt and stone, and its left leg no
 longer limps.
 
-____
+---
 
 Time has been ordered for most of Tamriel, with splinters fetched and crushed
 together and divergent branches pruned, and while Akatosh is scarred, at least
@@ -983,7 +996,7 @@ side and forward another Dovahjoor eye gazes back, pondering reunion with its
 stunted twin. Aka squirms, endless coils shifting and grating, and on every
 scale-world-point, its son-Drakes erupt into existence.
 
-____
+---
 
 The ever-present cries and screeches of the Jills to which Tamriel had gradually
 become accustomed are joined by the deeper roars and Shouts of the Drakes, which
@@ -995,7 +1008,7 @@ perched atop the Ur Tower high above the Imperial City, drinking deep its power
 and breathing out with Royalty and Splendor the long fire to back Cyrod’s
 tangled jungles, leaving dry plains and desert behind.
 
-____
+---
 
 As Numidium crashes onto Hammerfell’s southern beaches, massive pistons
 thrustings its fists into walls and palaces and homes and refugees, the Mundane
@@ -1012,13 +1025,13 @@ Numidium staggered as Mundus cracked, shattered, and reformed in infinitesimally
 small zero-points of Creatia. Hammerfell’s rocks and sands and sea rose and fell
 and gusted with the mythic collision of the Aka Krenne and the Jills’ frantic
 Mending. Numidium roared its refusal in return, attracting swarms of Jills to
-the continuing fractures and negations emanating from the golden smoking skin
-of the metal-mile mountain-machine. They screeched as they tore into the
-fissures in reality Numidium left trailing, struggling desperately to keep
-Reality together as the BorMaHu consumed itself. Numidium crashed through
-Hammerfell with abandon, crushing the land beneath its boots and hurling clumps
-into the sea and sky. Nirn’s boiling blood rushes to the surface, mixing with
-the seawater and flooding the air with smoke. Flocks of Jills, over-eager and
+the continuing fractures and negations emanating from the golden smoking skin of
+the metal-mile mountain-machine. They screeched as they tore into the fissures
+in reality Numidium left trailing, struggling desperately to keep Reality
+together as the BorMaHu consumed itself. Numidium crashed through Hammerfell
+with abandon, crushing the land beneath its boots and hurling clumps into the
+sea and sky. Nirn’s boiling blood rushes to the surface, mixing with the
+seawater and flooding the air with smoke. Flocks of Jills, over-eager and
 angered and desperate, rush the Numidium, only to be swatted or shouted out of
 the air and the world. With impossible speed, the God of Refusal finished its
 work, leaving the once-desert of the west sunken, pitted, burning, and flooded.

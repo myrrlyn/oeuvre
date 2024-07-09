@@ -4,8 +4,8 @@ date: 2012-12-27T13:46:41-0500
 banner: map-wilderness
 reddit: 15j34k
 tags:
-- orcs
-- worldbuilding
+  - orcs
+  - worldbuilding
 summary: My extrapolation of the Codes of Malacath.
 about: |
   I wrote this piece during an information trawl for my RPG character. Its age
@@ -18,7 +18,7 @@ The Code of Malacath is a set of unwritten rules passed through the Orcish
 community. It serves as their equivalent to the Judeo-Christian Ten Commandments
 and comprises the basis of their law and morality.
 
-The Code is never explicitly stated, although a book in *Skyrim* describes it to
+The Code is never explicitly stated, although a book in _Skyrim_ describes it to
 some extent. (paraphrasing below)
 
 > Don’t steal. Don’t kill needlessly.
@@ -29,12 +29,12 @@ accept payment of bounties as retributive justice. However, should an offender
 be unable or unwilling to cough up the coin, they bleed until the offended is
 satisfied, or run away and are exiled.
 
-____
+---
 
 That’s more or less all we know of the Code from in-game and lore references, as
 far as I have found. What follows is extrapolation.
 
-____
+---
 
 Malacath’s Codes are tailored specifically to the Orc’s way of life and,
 possibly, remnants of Trinimac’s station. I believe that some of the codes are:
@@ -72,7 +72,7 @@ Orcish people.
 - Death in combat is glory
 
   Much like the Nords, the Orcs have a warrior culture and it is shown (through
-  *Skyrim’s* Old Orc) that they would rather die fighting than in bed. Malacath
+  _Skyrim_’s Old Orc) that they would rather die fighting than in bed. Malacath
   prizes fighters, and would rather one of his own lose a fight than die without
   fighting.
 
@@ -112,7 +112,7 @@ Orcish people.
   I remember correctly). Orcs love their weaponry (they are naturally talented
   smiths) and fighting. This seems like an apt summary of their behavior.
 
-____
+---
 
 All of these are forms of warrior codes, as befitting both the Knight of Auri-El
 and the Exile. The remnants of Trinimac of which I spoke above is a hypothesis I
@@ -139,6 +139,6 @@ may try, they will not sink further into the mud that has already stained them.
 
 This attitude is not found consciously in any of the Orcs, as they are by far
 the most man-kin of the mer-folk and are seen by themselves, men, and mer as
-more aligned with man than elf. However, the practices I describe in
-Malacath’s Codes are likely inspired by or drawn from their pre-transformation
-existence as Aldmer sundered from their former divine state.
+more aligned with man than elf. However, the practices I describe in Malacath’s
+Codes are likely inspired by or drawn from their pre-transformation existence as
+Aldmer sundered from their former divine state.

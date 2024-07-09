@@ -4,8 +4,8 @@ date: 2013-10-15T13:32:14-04:00
 banner: map-skyrim
 reddit: 1oihxh
 tags:
-- metaphysics
-- towers
+  - metaphysics
+  - towers
 summary: We never did find the Stone of Skyrim’s Tower.
 about: |
   MK’s info dumps on `#memospore` gave us an awful lot to work with. That little
@@ -31,7 +31,7 @@ We’ve been hunting this one for a long time, but I am reasonably confident
 
 Now, the first two checks against a Stone solution are a) can this be
 constructed by the original builders of the Tower, and b) was this broken during
-the events of the game featuring the Tower (in this case, *Skyrim*). The High
+the events of the game featuring the Tower (in this case, _Skyrim_). The High
 King, Skyrim’s political state, and other Nord-centric ideas for the Stone were
 ruled out by the first, and the Falmer, the Dragons, and other ancient-era
 thoughts were ruled out by the second.
@@ -40,7 +40,7 @@ Furthermore, let us review the Towers and Stones we know:
 
 - Ada-Mantia: Convention, the Impossipoint. Enabled.
 
-- Red Mountain: Heart of Lorkhan. Disabled (*Morrowind*).
+- Red Mountain: Heart of Lorkhan. Disabled (_Morrowind_).
 
 - Crystal-Like-Law: (A person) Disabled (offscreen).
 
@@ -52,9 +52,10 @@ Furthermore, let us review the Towers and Stones we know:
 
 - (anything in the Marsh?, ?, ?)
 
-- Walk-Brass: Heart of Lorkhan and/or the Mantella, both Disabled (*Daggerfall*).
+- Walk-Brass: Heart of Lorkhan and/or the Mantella, both Disabled
+  (_Daggerfall_).
 
-- White-Gold Tower: Chim-el Adabal, the Amulet of Kings. Disabled (*Oblivion*).
+- White-Gold Tower: Chim-el Adabal, the Amulet of Kings. Disabled (_Oblivion_).
 
 I believe this to be a largely comprehensive list, but it is possible I have
 omissions or errors.
@@ -96,7 +97,7 @@ Era. Given the Jungian-Cave state of the Elven Towers, I believe that the Stone
 of Snow-Throat is the Cave-Method of Tower Construction. It exists so long as
 the other Elven Towers do.
 
-Now, how did *Skyrim*’s Main Quest break this? The LDB chased the end result
+Now, how did _Skyrim_’s Main Quest break this? The LDB chased the end result
 (Alduin banishment) of the Ancient Nord Heroes, but he used a twisted and
 altered version of their Path. The mechanics were the same but the process was
 vastly different. He did not explore, he followed, and in so doing made mockery
@@ -112,7 +113,7 @@ twisted-purpose-process was enacted by the LDB concerning events intimately
 related to Snow-Throat, **on** Snow-Throat. These two effects in combination
 broke Snow-Throat.
 
-____
+---
 
 This is built off of the following dialogue, and I am fully aware that I am
 extrapolating and could be horribly wrong.

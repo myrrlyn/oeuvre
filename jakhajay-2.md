@@ -4,8 +4,8 @@ banner: numinatus
 date: 2013-11-30T07:13:41-05:00
 reddit: 1rrqui
 tags:
-- khajiit
-- metaphysics
+  - khajiit
+  - metaphysics
 summary: A continued actuarial opinion on the Khajiit.
 about: |
   This is a continuation of my first post about the ja-Kha’jay, with more math
@@ -13,17 +13,17 @@ about: |
   document, but that’s a rather low priority. The GDoc sheet has lasted this
   long; I’ll try to keep it around a while longer.
 embeds:
-- mathjax
+  - mathjax
 ---
 
-(Before we begin, I’d like to take this opportunity to deconstruct the
-word “ja-Kha’jay”. Given that we know kittens are called “ja’Khajiit” and that
-the suffix -iit refers to doing/being and Kha- is desert, making Khajiit one who
+(Before we begin, I’d like to take this opportunity to deconstruct the word
+“ja-Kha’jay”. Given that we know kittens are called “ja’Khajiit” and that the
+suffix -iit refers to doing/being and Kha- is desert, making Khajiit one who
 deserts (the sandy place, not the flight from duty), then ja- must by necessity
 mean young. We can therefore extrapolate that ja-Kha’jay comes to mean
 young-desert-order or something similar.)
 
-____
+---
 
 In yesterday’s post about Analysis of the ja-Kha’jay, I outlined the information
 that /u/solthas, myself, and other members of the memospore IRC collated and
@@ -96,5 +96,5 @@ the foundation work they put in.
 
 [gdoc]: https://docs.google.com/spreadsheet/ccc?key=0Aly-sXRShwzjdGtrRlJ6a1Mzbk5PZjFXNUExMmIzWGc
 [wolfram-m]: http://www.wolframalpha.com/input/?i=Plot%5BSin%5BPi*%28x%2F10-.5%29%5D%2C+%7Bx%2C+0%2C+80%7D%5D
-[wolfram-s]: http://www.wolframalpha.com/input/?i=Plot%5BSin%5BPi*%28x%2F8-.5%29%5D%2C+%7Bx%2C+0%2C+80%7D%5D
 [wolfram-ms]: http://www.wolframalpha.com/input/?i=Plot%5BSin%5BPi*%28x%2F10-.5%29%5D+%2B+Sin%5BPi*%28x%2F8-.5%29%5D%2C+%7Bx%2C+0%2C+80%7D%5D
+[wolfram-s]: http://www.wolframalpha.com/input/?i=Plot%5BSin%5BPi*%28x%2F8-.5%29%5D%2C+%7Bx%2C+0%2C+80%7D%5D

@@ -5,15 +5,15 @@ date: 2014-11-26T14:18:19-05:00
 toc: false
 reddit: 2ni654
 tags:
-- apocrypha
-- creation
-- metaphysics
-- orcs
-- religion
-- worldbuilding
+  - apocrypha
+  - creation
+  - metaphysics
+  - orcs
+  - religion
+  - worldbuilding
 summary: A collection of Orcish religious texts.
 about: |
-  As part of my mythical *Orsinium Novum* project, I’ve created some new
+  As part of my mythical _Orsinium Novum_ project, I’ve created some new
   religions (though I guess it’s technically one religion with a schism and a
   heresy).
 
@@ -25,8 +25,8 @@ about: |
   regular ending and rebirth of the world in new ways is a good thing or not,
   and if it’s something the inhabitants of the world should fear or try to
   avoid. I contend that the nature of the Aurbis mandates conflict, regression,
-  and kalpic cycles, and that their presence is part of what makes the *Elder*
-  *Scrolls* story so beautiful. My goal with The Final Words was to try to
+  and kalpic cycles, and that their presence is part of what makes the _Elder_
+  _Scrolls_ story so beautiful. My goal with The Final Words was to try to
   convey that in universe and provide some comfort and resolve to the people
   whose lives are going to be erased when the kalpa closes.
 
@@ -34,13 +34,17 @@ about: |
   believed to have led the Orcish people out of bondage and into wilderness
   exile, and spoke the first tenets of their faith.
 
-  Yes, his name is a **blatant** rip-off of the Greek word *ostrakon*. I am not
+  Yes, his name is a **blatant** rip-off of the Greek word _ostrakon_. I am not
   a subtle man.
 ---
 
-## WANDERING ON THE PLAINS {:.title .subtitle}
+## WANDERING ON THE PLAINS
 
-### [The First Words of Oztrakos][words-1] {:.title .subtitle}
+{:.title .subtitle}
+
+### [The First Words of Oztrakos][words-1]
+
+{:.title .subtitle}
 
 On the First Dawn, the Sun rose over an empty plain of barren stone. No wind
 raced across this plain, for there was no wind. No water trickled down this
@@ -84,9 +88,13 @@ Mountain and its Shadow, and the endless emptiness of the burning plain, with
 only the thin lines of liveable twilight lying between. The leaders of these saw
 the harsh barrenness of the empty rock and knew that there, WE CANNOT BE.
 
-## DIGGING TO THE CAVE {:.title .subtitle}
+## DIGGING TO THE CAVE
 
-### [The Second Words of Oztrakos][words-2] {:.title .subtitle}
+{:.title .subtitle}
+
+### [The Second Words of Oztrakos][words-2]
+
+{:.title .subtitle}
 
 The clans moved into the Mountain, digging beneath its skin and carving out
 homes and warrens in the rock.
@@ -122,9 +130,13 @@ the chief of the settled ones, and they both became so furious with the other
 for being stubborn stupid that they started fighting, and then their clans went
 to war as well.
 
-## THE FIRST OF WARS {:.title .subtitle}
+## THE FIRST OF WARS
 
-### [The Third Words of Oztrakos][words-3] {:.title .subtitle}
+{:.title .subtitle}
+
+### [The Third Words of Oztrakos][words-3]
+
+{:.title .subtitle}
 
 The war went on for a long time, and the Sun turned many times and the light it
 cast through the holes riddling the mountain spun and danced to follow, and
@@ -183,9 +195,13 @@ stood up. And when they did, they found that they too had changed. They were no
 longer soft and pretty and graceful and fair; they were hardy and strong and
 rugged. And they knew there was no going back.
 
-## THE END OF DAYS {:.title .subtitle}
+## THE END OF DAYS
 
-### [The Last Words of Oztrakos][words-4] {:.title .subtitle}
+{:.title .subtitle}
+
+### [The Last Words of Oztrakos][words-4]
+
+{:.title .subtitle}
 
 All that has a beginning, must have an ending. Only that which has never been
 may always be.

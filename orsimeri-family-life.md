@@ -4,8 +4,8 @@ date: 2013-09-22T10:20:55-04:00
 banner: map-stylized
 reddit: 1mw7f5
 tags:
-- orcs
-- worldbuilding
+  - orcs
+  - worldbuilding
 summary: An exploration of Orcish family structures.
 about: |
   I love *Skyrim*. It’s what got me into *The Elder Scrolls* in the first place,
@@ -34,10 +34,11 @@ intending to cover more than I did. I apologize for any inconsistencies as a
 result of that. This is also my most unsupported conjecture to date, so I’m kind
 of nervous about that. Without further ado, the actual post.)
 
-____
+---
 
 > Disclaimer: This is both known lore and conjecture.
-{:tag="aside" .bq-warn}
+
+{:tag="aside" .block-warn}
 
 As a result of their ostracism by the Aldmer upon the Transformation to Orsimer,
 the family is of utmost importance to all Orsimer, goblins and ogres and Orcs
@@ -52,7 +53,7 @@ closer to Skyrim), but can also be found throughout major cities of Skyrim, High
 Rock, and Cyrodiil.
 
 Orcs maintain highly close-knit families and social groups. Non-Orcs are also
-welcome, provided they earn their place. We see in *Skyrim* some evidence of
+welcome, provided they earn their place. We see in _Skyrim_ some evidence of
 family matters, such as the interactions between various Orcs in dialogue and
 behavior, and Gharol’s Request in Dushnik Yal.
 
@@ -64,12 +65,13 @@ of alchemist and shaman, and two of his wives filling the forge-wife and
 hunts-wife roles. His third wife appears to be solely a marriage of prize or
 love and not for duty, showing that Orcs are not slaves to duty.
 
-Dushnik Yal is the best source in *Skyrim* of Orcish family life, as Mor Khazgur
+Dushnik Yal is the best source in _Skyrim_ of Orcish family life, as Mor Khazgur
 has a much simpler and smaller family tree, Narzulbur is more fragmented, and
 Largashbur seems populated by non-relatives, perhaps due to Malacath’s curse.
 
 > Begin conjecture-on-lore and pure conjecture
-{:tag="aside" .bq-safe}
+
+{:tag="aside" .block-safe}
 
 (Nova) Orsinium is another matter entirely. Whereas the Strongholds appear to be
 a large family or small clan (assuming again that Skyrim in lore is larger than

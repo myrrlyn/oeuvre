@@ -4,10 +4,10 @@ date: 2014-01-11T05:26:38-05:00
 banner: wilds
 reddit: 1uybhq
 tags:
-- apocrypha
-- orcs
-- worldbuilding
-- topic of the week
+  - apocrypha
+  - orcs
+  - worldbuilding
+  - topic of the week
 summary: A report on the cities of Orsinium and Nova Orsinium.
 about: |
   This was a Challenge of the Week entry, about “Cities of Tamriel” (obviously).
@@ -146,7 +146,7 @@ Rock escaped official sanctions for the atrocity committed, the Empire has by
 and large turned a blind eye to human disappearances in the “geologically
 unstable and avalanche-prone” mountains near Nova Orsinium.
 
-____
+---
 
 Post-Script:
 

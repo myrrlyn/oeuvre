@@ -4,8 +4,8 @@ date: 2013-01-03T23:27:42-05:00
 banner: map-wilderness
 reddit: 15xkxu
 tags:
-- orcs
-- worldbuilding
+  - orcs
+  - worldbuilding
 toc: false
 summary: An exploration of Orcish naming habits.
 about: |
@@ -25,7 +25,7 @@ though not variety, that other races just don't quite have.
 Known Orcish names consist of the Orc’s own name, followed by gro-Father or
 gra-Mother, depending on the Orc’s sex.
 
-This can be seen in *Skyrim* in the case of siblings Moth gro-Bagol and Ghorza
+This can be seen in _Skyrim_ in the case of siblings Moth gro-Bagol and Ghorza
 gra-Bagol. These siblings have the same surname, however, which indicates that
 one of their parents was missing, dead, or otherwise not part of the family.
 
@@ -57,11 +57,11 @@ otherwise.
 Stronghold names would be adopted by orphans or those who were casting off their
 parents.
 
-____
+---
 
 Now on to the language.
 
-Orcs have their own “language” in *Daggerfall,* though this is just a value
+Orcs have their own “language” in _Daggerfall_, though this is just a value
 check in the game mechanics, so I am not going to use it.
 
 Orc names are almost always mono- or bi- syllabic. It is very rare for their
@@ -80,7 +80,7 @@ page [Lore:Orc_Names][uesp], the letter E occurs in the names all of four times.
 I is slightly more common, but not by much. A, O, and U dominate the vowel
 population, and never occur as diphthongs. Y occurs solely as a consonant.
 
-____
+---
 
 If you need to make an Orcish name, I recommend perusing the UESP page.
 Combinations of consonants, with vowels placed to make syllables so the name can

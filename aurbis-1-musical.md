@@ -4,14 +4,14 @@ banner: kel
 date: 2013-10-21T23:30:08-04:00
 reddit: 1oybze
 tags:
-- apocrypha
-- metaphysics
+  - apocrypha
+  - metaphysics
 intro-music:
-  src: ./music/Sunshine - Adagio in D Minor.mp3
+  src: ./audio/Sunshine - Adagio in D Minor.mp3
   title: "Adagio in D Minor (Bombastic), Sunshine"
   repeat: true
 outro-music:
-  src: ./music/Passion - It Is Accomplished.mp3
+  src: ./audio/Passion - It Is Accomplished.mp3
   title: "It Is Accomplished, The Last Temptation of Christ"
 summary: My extrapolation of the Elder Scrolls divinities as musical Tones.
 about: |
@@ -52,41 +52,49 @@ similar-yet-different gods.
 So our octave goes like this
 
 > **C** Mara
+
 {:.piano-key .aedra}
 
 <!-- -->
 
 > **D** Zenithar
+
 {:.piano-key .aedra}
 
 <!-- -->
 
 > **E** Arkay
+
 {:.piano-key .aedra}
 
 <!-- -->
 
 > **F** Kyne
+
 {:.piano-key .aedra}
 
 <!-- -->
 
 > **G** Stendarr
+
 {:.piano-key .aedra}
 
 <!-- -->
 
 > **A** Akatosh
+
 {:.piano-key .aedra}
 
 <!-- -->
 
 > **B** Julianos
+
 {:.piano-key .aedra}
 
 <!-- -->
 
 > **C** Dibella
+
 {:.piano-key .aedra}
 
 Why this ordering, you ask? I explained Mara/Dibella as C above, but let’s
@@ -124,7 +132,7 @@ Creation, but their tones are alien to it and can work for or against it,
 depending on use. Daedra fit very well as accidentals. However, we need sixteen.
 To this end, we turn to the 24-tone scale, C C♯ C♯♯ C♯♯♯ D D♯ D♯♯♯ D♯♯♯ E E♯ F
 F♯ F♯♯ F♯♯♯ G G♯ G♯♯ G♯♯♯ A A♯ A♯♯ A♯♯♯ B B♯. In this scale, the double sharps
-[n]♯♯ correspond with the single sharps [n]♯ of the 12-tone. Note that every
+\[n\]♯♯ correspond with the single sharps \[n\]♯ of the 12-tone. Note that every
 note of the twelve-tone now has a halfway note to its right, including the
 formerly-accidental-free note pairs of B/C and E/F.
 
@@ -152,137 +160,162 @@ similar to Arkay and Kyne’s Wind. And so forth.
 
 The ten remnant Daedra are to be attached to the five Daedra who have room for
 quarter-tones. **Again, note that in the 12-tone octave, there is no**
-**accidental between E/F and B/C, so in the 24-tone, E♯ and B♯ are**
-**the quarter-tones and cannot have tertiary notes.** Namira and Vaermina are
+**accidental between E/F and B/C, so in the 24-tone, E♯ and B♯ are the**
+**quarter-tones and cannot have tertiary notes.** Namira and Vaermina are
 associated with ostracism and persecution, and are placed to either side of
 Malacath by what they destroy. Namira destroys families, and Vaermina labor.
 Clavicus Vile is bad bartering to Zenithar’s good, and Peryite is illness and
 death. And so forth.
 
-For the purposes of this list, accidentals are left-associative. Thus,
-n♯♭ is n, raised one-half, lowered one-quarter.
+For the purposes of this list, accidentals are left-associative. Thus, n♯♭ is n,
+raised one-half, lowered one-quarter.
 
 > > > **C** Mara
+
 {:.piano-key .aedra}
 
 <!-- -->
 
 > **C♯♭ / D♭♭** Namira
+
 {:.piano-key .daedra}
 
 <!-- -->
 
 > > **C♯ / D♭** Malacath
+
 {:.piano-key .daedra .cothot}
 
 <!-- -->
 
 > **C♯♯ / D♭♯** Vaermina
+
 {:.piano-key .daedra}
 
 <!-- -->
 
 > > > **D** Zenithar
+
 {:.piano-key .aedra}
 
 <!-- -->
 
 > **D♯♭ / E♭♭** Clavicus Vile
+
 {:.piano-key .daedra}
 
 <!-- -->
 
 > > **D♯ / E♭** Mehrunes Dagon
+
 {:.piano-key .daedra .cothot}
 
 <!-- -->
 
 > **D♯♯ / E♭♯** Peryite
+
 {:.piano-key .daedra}
 
 <!-- -->
 
 > > > **E** Arkay
+
 {:.piano-key .aedra}
 
 <!-- -->
 
 > > **E♯ / F♭** Azura
+
 {:.piano-key .daedra .cothot}
 
 <!-- -->
 
 > > > **F** Kyne
+
 {:.piano-key .aedra}
 
 <!-- -->
 
 > **F♯♭ / G♭♭** Meridia
+
 {:.piano-key .daedra}
 
 <!-- -->
 
 > > **F♯ / G♭** Molag Bal
+
 {:.piano-key .daedra .cothot}
 
 <!-- -->
 
 > **F♯♯ / G♭♯** Hircine
+
 {:.piano-key .daedra}
 
 <!-- -->
 
 > > > **G** Stendarr
+
 {:.piano-key .aedra}
 
 <!-- -->
 
 > **G♯♭ / A♭♭** Sanguine
+
 {:.piano-key .daedra}
 
 <!-- -->
 
 > > **G♯ / A♭** Boethiah
+
 {:.piano-key .daedra .cothot}
 
 <!-- -->
 
 > **G♯♯ / A♭♯** Nocturnal
+
 {:.piano-key .daedra}
 
 <!-- -->
 
 > > > **A** Akatosh
+
 {:.piano-key .aedra}
 
 <!-- -->
 
 > **A♯♭ / B♭♭** Hermaeus Mora
+
 {:.piano-key .daedra}
 
 <!-- -->
 
 > > **A♯ / B♭** Sheogorath
+
 {:.piano-key .daedra .cothot}
 
 <!-- -->
 
 > **A♯♯ / B♭♯** Jyggalag
+
 {:.piano-key .daedra}
 
 <!-- -->
 
 > > > **B** Julianos
+
 {:.piano-key .aedra}
 
 <!-- -->
 
 > > **B♯ / C♭** Mephala
+
 {:.piano-key .daedra .daedra .cothot}
 
 <!-- -->
 
 > > > **C** Dibella
+
 {:.piano-key .aedra .last}
 
 <!-- -->
@@ -305,10 +338,10 @@ fitting in my opinion.
 There is more to music than just the tones. The beat, the rhythm, the measure,
 all terms for one underlying piece: tones alone are nothing without the
 foundation given by the drumline. And this is, of course, the Ninth God, the
-Doom Drum, Lorkhan. (It is pretty ironic that the Space God provides the
-music’s Time, but Time and Space are intermingled oddly here) Lorkhan is not a
-Tone, but the Sound-without-Tone, the Pulse. Separate from the Octave and just
-as necessary to the Performance as it.
+Doom Drum, Lorkhan. (It is pretty ironic that the Space God provides the music’s
+Time, but Time and Space are intermingled oddly here) Lorkhan is not a Tone, but
+the Sound-without-Tone, the Pulse. Separate from the Octave and just as
+necessary to the Performance as it.
 
 ## Towers
 
@@ -347,7 +380,7 @@ so here.
 
 - Unknown: Unknown
 
-____
+---
 
 In conclusion, I present to you the Orchestra of the Aurbis, in structure and
 form. The Song goes ever onwards, and though sections may be silenced, silence
@@ -359,48 +392,50 @@ itself, and can never be destroyed. All they require, is an Audience.
 
 All it requires, is us.
 
-____
+---
 
 Inspiration:
 
-> Tamriel<br />
-> Starry Heart<br />
-> That whole fucking thing is a song<br />
-> It was made either out of 12 planets<br />
-> or from two brothers that split in the womb<br />
-> either way, it’s the primal wail<br />
-> and those that grew up on it<br />
-> they can’t help but hear it<br />
-> and add to it<br />
-> or try to control it<br />
-> or run from it<br />
-> the reason there IS music on Tamriel at ALL<br />
-> is because it exists<br />
-> it was and is<br />
-> and it will not stop<br />
-> there are repeats in it<br />
-> plays on a tune<br />
-> variations<br />
-> and most likely<br />
-> Magnus?<br />
-> he’s the one that made the fucker<br />
-> and now that’s why he looks back on it<br />
-> every single day<br />
-> that’s his promise<br />
-> when you wake up, I will still listen<br />
-> I’m sorry I left<br />
-> but hey<br />
-> I’m still right up here<br />
-> And my mnemoli? They show up every now and then.<br />
-> and collect all the songs you’ve made since the last time around<br />
-> the last real moment<br />
-> The Mnemoli?<br />
-> They’re the keepers of the Elder Scrolls.<br />
-> They cannot be fixed until seen.<br />
-> And they cannot be seen until a moent.<br />
+> ```verse
+> Tamriel
+> Starry Heart
+> That whole fucking thing is a song
+> It was made either out of 12 planets
+> or from two brothers that split in the womb
+> either way, it’s the primal wail
+> and those that grew up on it
+> they can’t help but hear it
+> and add to it
+> or try to control it
+> or run from it
+> the reason there IS music on Tamriel at ALL
+> is because it exists
+> it was and is
+> and it will not stop
+> there are repeats in it
+> plays on a tune
+> variations
+> and most likely
+> Magnus?
+> he’s the one that made the fucker
+> and now that’s why he looks back on it
+> every single day
+> that’s his promise
+> when you wake up, I will still listen
+> I’m sorry I left
+> but hey
+> I’m still right up here
+> And my mnemoli? They show up every now and then.
+> and collect all the songs you’ve made since the last time around
+> the last real moment
+> The Mnemoli?
+> They’re the keepers of the Elder Scrolls.
+> They cannot be fixed until seen.
+> And they cannot be seen until a moent.
 > And you, your hero, makes that moment.
+> ```
 
-____
+---
 
 Q: In musical terms, would you say that the Void is subgradiated noise, pure
 silence, or something else entirely?
@@ -413,18 +448,18 @@ yesterday?
 
 > A: yes, maybe. more like maestros
 
-Q: How does the Sharmat’s line I AM OLDER THAN MUSIC tie in with the concept
-of Music as a fundamental element of the world?
+Q: How does the Sharmat’s line I AM OLDER THAN MUSIC tie in with the concept of
+Music as a fundamental element of the world?
 
 > A: Nice one. He’s ego-trippin’ and balls-trippin’ at the same time. Remember,
 > that quote is from the Sermons. Consider the source.
 
 Discography:
 
-- *Sunshine (Adagio in D Minor)*, track 15 on *Sunshine: Music from the Major*
-  *Motion Picture* (2007), by John Murphy
-- *It Is Accomplished*, track 20 on *Passion* (1989), by Peter Gabriel
+- _Sunshine (Adagio in D Minor)_, track 15 on _Sunshine: Music from the Major_
+  _Motion Picture_ (2007), by John Murphy
+- _It Is Accomplished_, track 20 on _Passion_ (1989), by Peter Gabriel
 
 [coda]: //c0da.es
-[wheel-tone-c]: //myrrlyn.net/oeuvre/images/tones.svg?key=c-major&color=no-color&classes=no-swirl
-[wheel-tone-d]: //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=no-color&classes=no-swirl
+[wheel-tone-c]: /oeuvre/images/tones.svg?key=c-major&color=no-color&classes=no-swirl
+[wheel-tone-d]: /oeuvre/images/tones.svg?key=d-major&color=no-color&classes=no-swirl

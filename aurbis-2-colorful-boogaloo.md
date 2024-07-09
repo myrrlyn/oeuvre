@@ -4,14 +4,14 @@ banner: kel
 date: 2013-10-23T05:02:22-04:00
 reddit: 1p1fip
 tags:
-- apocrypha
-- metaphysics
+  - apocrypha
+  - metaphysics
 intro-music:
-  src: ./music/Sunshine - Adagio in D Minor.mp3
+  src: ./audio/Sunshine - Adagio in D Minor.mp3
   title: "Adagio in D Minor (Bombastic), Sunshine"
   repeat: true
 outro-music:
-  src: ./music/Passion - It Is Accomplished.mp3
+  src: ./audio/Passion - It Is Accomplished.mp3
   title: "It Is Accomplished, The Last Temptation of Christ"
 summary: My exploration of the Elder Scrolls divinities as Colors.
 about: |
@@ -21,7 +21,7 @@ about: |
   MK is actually color/sound synæsthetic, so having him find this piece
   acceptable was a huge relief. Me, I’m partially colorblind.
 
-  ____
+  ---
 
   I originally created the sketches for these posts in Paint.NET and annotated
   them by hand; as part of hosting them here, I have rebuilt the images in SVG
@@ -35,7 +35,8 @@ about: |
 > animation causes the more complex images to flicker. I apologize if you have
 > similar problems, but the overall delivery is still an improvement over the
 > hand-drawn images I originally made.
-{:tag="aside" .bq-info}
+
+{:tag="aside" .block-info}
 
 <div id="intro"></div>
 
@@ -44,7 +45,7 @@ Same soundtrack as the first one.
 ## Introduction
 
 In keeping with the spirit of writing esoteric extrapolations late at night, I
-present to you the sequel of [*Aurbis: The Musical*] concerning the Gods as
+present to you the sequel of [_Aurbis: The Musical_] concerning the Gods as
 Tones: the synæsthesia of Gods, Tones, and Colors. We know that the Magne-Ge are
 colors, and given that synæsthesia seems to be a profound mechanic of the
 universe (Tonal Architecture is the synæsthesia of Sound and Touch, for
@@ -53,7 +54,7 @@ physical translations of the Gods.
 
 ## Foundation
 
-If you haven’t, reread *Aurbis: The Musical* and familiarize yourself with the
+If you haven’t, reread _Aurbis: The Musical_ and familiarize yourself with the
 musical listing of the gods.
 
 Now, some other resources:
@@ -100,29 +101,30 @@ that created Aurbis.
 | :--------------: | :--- | ---: | :-----: |
 |     **Mara**     | C    | 330° |         |
 |      Namira      | C♯♭  | 345° |         |
-|    *Malacath*    | C♯   |   0° |   red   |
+|    _Malacath_    | C♯   |   0° |   red   |
 |     Vaermina     | C♯♯  |  15° |         |
 |   **Zenithar**   | D    |  30° | orange  |
 |  Clavicus Vile   | D♯♭  |  45° |         |
-| *Mehrunes Dagon* | D♯   |  60° | yellow  |
+| _Mehrunes Dagon_ | D♯   |  60° | yellow  |
 |     Peryite      | D♯♯  |  75° |         |
 |    **Arkay**     | E    |  90° |         |
-|     *Azura*      | E♯   | 105° |         |
+|     _Azura_      | E♯   | 105° |         |
 |     **Kyne**     | F    | 120° |  green  |
 |     Meridia      | F♯♭  | 135° |         |
-|   *Molag Bal*    | F♯   | 150° |         |
+|   _Molag Bal_    | F♯   | 150° |         |
 |     Hircine      | F♯♯  | 165° |         |
 |   **Stendarr**   | G    | 180° |  cyan   |
 |     Sanguine     | G♯♭  | 195° |         |
-|    *Boethiah*    | G♯   | 210° |         |
+|    _Boethiah_    | G♯   | 210° |         |
 |    Nocturnal     | G♯♯  | 225° |         |
 |   **Akatosh**    | A    | 240° |  blue   |
 |  Hermaeus Mora   | A♯♭  | 255° |         |
-|   *Sheogorath*   | A♯   | 270° |         |
+|   _Sheogorath_   | A♯   | 270° |         |
 |     Jyggalag     | A♯♯  | 285° |         |
 |   **Julianos**   | B    | 300° | magenta |
-|    *Mephala*     | B♯   | 315° |         |
+|    _Mephala_     | B♯   | 315° |         |
 |   **Dibella**    | C    | 330° |         |
+
 {:#color-table .float-right-lg .cube-helix}
 
 Note that C♯, Red, happens to land on a Daedric Prince, whereas the other two
@@ -138,7 +140,7 @@ and an intermediary. Trinimalacath is a primarily Elven deity, and Kyne is
 primarily human. Julianos, however, is revered by both Elves and Men and his
 sphere (magic and intellectualism) is relevant to both.
 
-So. Let’s talk physics and theory (and also terror. *blackens hands*).
+So. Let’s talk physics and theory (and also terror. _blackens hands_).
 
 Human hearing ranges from ~20Hz to ~16kHz, and musical notes are spaced
 logarithmically (going up an octave doubles the frequency of each note). Human
@@ -160,10 +162,10 @@ reasonable to posit that Aurbical mortals process light in the same way we
 process sounds, with a much greater spectrum of fundamental notes and greater
 possibilities of chords.
 
-I want you to visualize a helix. It’s a screw: as a point rotates in a
-circle, the center moves along an orthogonal axis, creating a twist rather than
-a closed loop. If you look at it from the side, you see a sine wave, but if you
-look at it head-on, it makes a circle.
+I want you to visualize a helix. It’s a screw: as a point rotates in a circle,
+the center moves along an orthogonal axis, creating a twist rather than a closed
+loop. If you look at it from the side, you see a sine wave, but if you look at
+it head-on, it makes a circle.
 
 The Color and Tone wheels are, in fact, this helix. Each revolution is one
 octave. While we can perceive many turns of the Tone Helix, we only see one turn
@@ -190,7 +192,7 @@ Not only can the world be described through Tone, but also Color. Furthermore,
 the two are intimately related and may be two aspects of the same fundamental
 concept.
 
-----
+---
 
 (These are IRC logs from the `#memospore` channel, where several of us hung out
 to chat about esoterica in our free time. `<MK>` is Michael Kirkbride.)
@@ -219,11 +221,13 @@ Those lines are DEFINITELY why I wrote these.
 
 Discography:
 
-- *Sunshine (Adagio in D Minor)*, track 15 on *Sunshine: Music from the Major*
-  *Motion Picture* (2007), by John Murphy
-- *It Is Accomplished*, track 20 on *Passion* (1989), by Peter Gabriel
+- _Sunshine (Adagio in D Minor)_, track 15 on _Sunshine: Music from the Major_
+  _Motion Picture_ (2007), by John Murphy
+- _It Is Accomplished_, track 20 on _Passion_ (1989), by Peter Gabriel
 
-[*Aurbis: The Musical*]: //myrrlyn.net/oeuvre/aurbis-1-musical
+[_Aurbis: The Musical_]: //myrrlyn.net/oeuvre/aurbis-1-musical
 [sonochrome]: https://en.wikipedia.org/wiki/Sonochromatism
-[wheel-nocolor]: //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=no-color&classes=no-swirl
-[wheel-color]: //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=cube-helix
+[wheel-nocolor]:
+  //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=no-color&classes=no-swirl
+[wheel-color]:
+  //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=cube-helix

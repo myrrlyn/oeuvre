@@ -4,9 +4,9 @@ date: 2013-11-26T03:28:48-05:00
 banner: map-skyrim
 reddit: 1rhg1f
 tags:
-- apocrypha
-- elves
-- story
+  - apocrypha
+  - elves
+  - story
 summary: Folk wisdom of early Tamrielic creation and diaspora.
 about: |
   This is the tale of a man telling his grandson a story. Imagine a mix between
@@ -21,8 +21,8 @@ about: |
   Also unlike *The Numidiad*, this spawned a plague of other Bedtime Stories
   About the Lore, which culminated in *A Bedtime Story About Bedtime Stories*.
   Just search the subreddit for bedtime stories. It was a rough time. I cannot
-  apologize enough for the flood of ~~shitposting~~ bedtime storytelling
-  that came of this.
+  apologize enough for the flood of ~~shitposting~~ bedtime storytelling that
+  came of this.
 
   [discussion post]: https://old.reddit.com/r/teslore/comments/1n322k
 ---
@@ -91,7 +91,7 @@ right.”
 
 “But totally backwards. Want to hear the rest?”
 
-> *Yawn.* “I’m actually kind of tired…”
+> _Yawn._ “I’m actually kind of tired…”
 
 “Too bad.”
 
