@@ -37,9 +37,8 @@ Now they don’t. Goblins and ogres are related closely to the Orcs. Orcs were
 monsters, now they’re not. They get black souls now, goblins and ogres don’t.
 
 Examining both in-game examples of goblin society or even just the relevant
-[UESP page](http://www.uesp.net/wiki/Oblivion:Goblins), we find that goblins are
-quite intelligent, possessed of a social construct, and quite possibly sentient.
-Yet they have white souls.
+[UESP page][uesp-goblins], we find that goblins are quite intelligent, possessed
+of a social construct, and quite possibly sentient. Yet they have white souls.
 
 Okay I have class in half an hour so I’m going to ~~wrap this up~~ really get
 going. I may come back with an edit. Here’s my actual point.
@@ -110,4 +109,5 @@ I guess the first part had a lot of research to it.
 Discuss.
 
 [wrote earlier]: /oeuvre/orsinum-and-orcs-after-warp-in-west
-[/r/TESLore]: //old.reddit.com/r/teslore
+[/r/TESLore]: https://old.reddit.com/r/teslore
+[uesp-goblins]: https://www.uesp.net/wiki/Oblivion:Goblins

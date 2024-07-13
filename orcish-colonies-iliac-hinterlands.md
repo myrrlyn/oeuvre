@@ -4,10 +4,10 @@ banner: wilds
 date: 2014-09-07T15:48:06-04:00
 reddit: 2gouvd
 tags:
-- apocrypha
-- orcs
-- worldbuilding
-- topic of the week
+  - apocrypha
+  - orcs
+  - worldbuilding
+  - topic of the week
 summary: An anthropologist’s report on Orcish divergence in the Iliac Bay.
 about: |
   I wrote this as an entry for an /r/teslore Topic of the Week challenge.

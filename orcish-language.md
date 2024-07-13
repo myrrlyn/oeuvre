@@ -4,9 +4,9 @@ banner: wilds
 date: 2014-03-11T10:34:33-04:00
 reddit: 2052ht
 tags:
-- apocrypha
-- orcs
-- worldbuilding
+  - apocrypha
+  - orcs
+  - worldbuilding
 summary: A construction of Orcish orthography.
 about: |
   There was a teslore Challenge of the Week on languages, so I whipped this up
@@ -108,7 +108,7 @@ From what I have can tell, Orcs consider names lucky if they can be written
 fully compressed or require full expansion, and try to avoid symmetric names
 (Orcish palindromes can use the letter’s pair in the alphabet order as well) for
 reasons of hubris. It is strange, then, that the Orcs adopted “Orsinium Novum”
-of the Cyrodiilic for the name of their new city, since Novum is *perfectly*
+of the Cyrodiilic for the name of their new city, since Novum is _perfectly_
 rotationally symmetric.
 
 ![Orsinium Novum][orsinium]{:.full-width}

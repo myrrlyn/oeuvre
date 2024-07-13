@@ -22,10 +22,10 @@ about: |
   introductory post. The link above is to that post, which itself contains a
   link to the origin comment.
 
-  I designed pieces of *The Numidiad* to explicitly refer to MK’s `C0DA`
+  I designed pieces of _The Numidiad_ to explicitly refer to MK’s `C0DA`
   stories, and after [`C0DA`][c0da] itself was released in February 2014, I
   realized I could easily link this story to his own. To that end, I released a
-  sixth part of five, titled *Numidiad | `C0DA`*, which in retrospect I kind of
+  sixth part of five, titled _Numidiad | `C0DA`_, which in retrospect I kind of
   regret. It’s… not great. Actually, it’s fanfiction-squared. The campiness only
   increased when I realized I could play with fonts.
 
@@ -1003,7 +1003,7 @@ become accustomed are joined by the deeper roars and Shouts of the Drakes, which
 had been dwindling for two Eras but now returned in force. In Skyrim, the
 resurgent Dragon Cult was soon brought to heel and pushed across the resisting
 holds. The Dragon King,
-`YOLMOROKRON3D`{:tag="span" class="special-font dovah" title="Fire-Glory-Conquest" data-lang="Dovah"},
+_YOLMOROKRON3D_{:tag="span" class="special-font dovah" title="Fire-Glory-Conquest" data-lang="Dovah"},
 perched atop the Ur Tower high above the Imperial City, drinking deep its power
 and breathing out with Royalty and Splendor the long fire to back Cyrod’s
 tangled jungles, leaving dry plains and desert behind.
@@ -1015,10 +1015,10 @@ thrustings its fists into walls and palaces and homes and refugees, the Mundane
 world is crushed in a mirror of the Mythic. In dimensions imperceptible to the
 mortal eye, the Dragon-forks crash together, the longer-running head biting down
 on its shorter brother.
-`AKA-DROG`{:tag="span" class="special-font dovah" title="Master" data-lang="Dovah"}
+_AKA-DROG_{:tag="span" class="special-font dovah" title="Master" data-lang="Dovah"}
 crunches its crystal jaws, shattering the bones and scales of his smaller
 brother
-`Z1M`{:tag="span" class="special-font dovah" title="Slave" data-lang="Dovah"}
+_Z1M_{:tag="span" class="special-font dovah" title="Slave" data-lang="Dovah"}
 and swallowing them.
 
 Numidium staggered as Mundus cracked, shattered, and reformed in infinitesimally
@@ -1045,10 +1045,10 @@ The tower-legs collapse, folding and telescoping in massive complexity,
 crouching the Colossus to its minimal height.
 
 Belching steam, hissing and burning
-`NOOOOOOOOOOOOO`{:tag="span" class="special-font dwemer" title="No" data-lang="Dwemer"}
+_NOOOOOOOOOOOOO_{:tag="span" class="special-font dwemer" title="No" data-lang="Dwemer"}
 against the Void, the Numidium flings itself from Nirn and erupts into the sky.
 
-[landfall]: //elderscrolls.fandom.com/wiki/The_Prophet_of_Landfall "The Prophet of Landfall"
+[landfall]: https://elderscrolls.fandom.com/wiki/The_Prophet_of_Landfall "The Prophet of Landfall"
 [squish]: ./images/prophet-4.png "Credit: Minttu Hynninen"
 
 <script type="text/javascript">

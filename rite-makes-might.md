@@ -1,22 +1,22 @@
 ---
-title: "Rite Makes Might"
+title: Rite Makes Might
 banner: wilds
 date: 2017-01-14T15:37:24-07:00
 reddit: 5o0any
 tags:
-- apocrypha
-- orcs
-- topic of the week
+  - apocrypha
+  - orcs
+  - topic of the week
 summary: What happens when civilized Mer become animalistic Orcs?
 about: |
-  I really don’t like the chieftain lore in *Skyrim*, but, it’s apparently here
+  I really don’t like the chieftain lore in _Skyrim_, but, it’s apparently here
   to stay, so I might as well try to make it work.
 
   This is a direct sequel to *The Birth of Savages*. Dialogue alternates between
   Korosha and Vurnolamathel.
 
   Writing characters with intelligent thought but without complex language is
-  *really* hard. The Orcs aren’t stupid, but they don’t have the language needed
+  _really_ hard. The Orcs aren’t stupid, but they don’t have the language needed
   to express complex thought, not even in their own head.
 ---
 
@@ -41,7 +41,7 @@ Both. Hold the wind. Be the stone.
 
 “Forsaken. Alone. How.”
 
-Failure. Stop failing. Learn. Die. Which. ***LEARN.***
+Failure. Stop failing. Learn. Die. Which. **_LEARN._**
 
 Eagles fly. Father kicks from nest. Eagles fall, die. Eagles fly, live, hunt.
 
@@ -72,22 +72,22 @@ Taste it on the air.
 
 Run!
 
-The chase. Glory in the chase. Prey runs. Run faster. Follow. Watch. *Lead.*
+The chase. Glory in the chase. Prey runs. Run faster. Follow. Watch. _Lead._
 Closer. Closer! CLOSER! **YES.**
 
 Blood racing. Life flows, out of game. Into me. Thunders. Trickles from the
-throat, slow. I am here. I am *alive*. Take my fill.
+throat, slow. I am here. I am _alive_. Take my fill.
 
 Eyes on mine. Vurnolak, skin green of earth and red of blood. Eyes of black,
 black so deep, staring into Oblivion and Oblivion staring out. She sees me. She
-*sees* me.
+_sees_ me.
 
 Eyes on mine. Durnathar, skin brown from mud and red with blood. Eyes of white,
 white so empty, staring into Oblivion and Oblivion staring out. He sees nothing.
 He—
 
 Eyes on mine. Ghozam, tusks bone white and bloody. Eyes of gold, gold so bright,
-burning with fire. He sees me. He *sees* me.
+burning with fire. He sees me. He _sees_ me.
 
 Hunger. Not of the stomach. More. There, the game. Go. Slow, sure. Close the
 gap. Come closer, closer. Taste him on the air.
@@ -102,7 +102,7 @@ of game. Life blood of me. Coursing and churning. Churning! CHURNING! **YES.**
 My blood is strong. His blood is stronger. Our blood, together, strongest.
 Strength of the pack. Strength to the pack.
 
-----
+---
 
 Nothing comes from nothing. All that is somewhere, was somewhere else. Tomorrow
 grows stronger by taking from today. Ghozam is stronger now. Tomorrow I will

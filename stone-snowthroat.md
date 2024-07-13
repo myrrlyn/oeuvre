@@ -23,7 +23,7 @@ about: |
   ever heard if my interpretation was correct or not, but I figure it’s safe to
   use this until proven otherwise.
 
-  [/u/RottenDeadite]: //reddit.com/u/RottenDeadite
+  [/u/RottenDeadite]: //old.reddit.com/u/RottenDeadite
 ---
 
 We’ve been hunting this one for a long time, but I am reasonably confident
@@ -118,11 +118,11 @@ broke Snow-Throat.
 This is built off of the following dialogue, and I am fully aware that I am
 extrapolating and could be horribly wrong.
 
-| Time                 | Speaker         | Message                                                           |
-| :------------------- | :-------------- | :---------------------------------------------------------------- |
-| 2013 Oct 15 01:46:02 | `<+myrrlyn>`    | What is Snow-Throat's Stone                                       |
-| 2013 Oct 15 01:46:16 | `<%Void_Ghost>` | The cave                                                          |
-| 2013 Oct 15 22:49:07 | `<+OPG>`        | What are the Stones of Crystal-Like-Law, Falinesti, and Orichalc? |
-| 2013 Oct 15 22:49:52 | `<%MK>`         | CLL: A person. F: a fruit. O: a sword.                            |
-
-`%Void_Ghost` is Michael Kirkbride.
+> `2013-10-15 01:46:02 <+myrrlyn>` What is Snow-Throat’s Stone?
+>
+> `2013-10-15 01:46:16 <%MK>` The cave
+>
+> `2013-10-15 22:49:07 <+OPG>` What are the Stones of Crystal-Like-Law,
+> Falinesti, and Orichalc?
+>
+> `2013-10-15 22:49:52 <%MK>` CLL: A person. F: a fruit. O: a sword.

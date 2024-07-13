@@ -5,8 +5,8 @@ date: 2012-12-18T07:06:11-05:00
 banner: map-wilderness
 reddit: 151r8r
 tags:
-- metaphysics
-- orcs
+  - metaphysics
+  - orcs
 summary: An essay on the significance of Gortwog’s actions in Daggerfall.
 about: |
   This is my first published essay on the Orcs. It arose from research I did for
@@ -16,10 +16,10 @@ about: |
   somewhere.
 ---
 
-The Orsimer have appeared in all games. Initially (*Arena* and *Daggerfall*)
-they were merely NPC monsters, and it was not until *Morrowind* that they became
+The Orsimer have appeared in all games. Initially (_Arena_ and _Daggerfall_)
+they were merely NPC monsters, and it was not until _Morrowind_ that they became
 a playable race. Although their initial monster status can be ascribed to the
-common view that it wasn’t until *Morrowind*’s development that lore really
+common view that it wasn’t until _Morrowind_’s development that lore really
 began to take place, I believe that this reflects very well with the established
 lore of Tamriel.
 
@@ -40,7 +40,7 @@ Orcs attack to defend themselves from Tamriel, and Tamriel attacks to defend
 themselves from the Orcs.
 
 Although the Orcish talent at metalworking has been known for some time by the
-events of *Daggerfall*, it is seen in the same regard as a hound’s hunting
+events of _Daggerfall_, it is seen in the same regard as a hound’s hunting
 ability. The animal over here can track and kill things, and the animal over
 there can bash metal and make it come out strong. Both may be used, but neither
 is trusted in the house.
