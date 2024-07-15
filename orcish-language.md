@@ -60,38 +60,62 @@ diacritical mark. A `\` added to a symbol indicates that the H comes before the
 main letter, and a `/` addition indicates a following H. The exceptions, of
 course, are SH and TH which have their own symbols.
 
-- An alphabet primer
+- > ![Alphabet Primer][alphabet]{:.light-only}
+  >
+  > An elementary alphabet primer.
+  >
+  > {:tag="figcaption"}
 
-  ![Alphabet Primer][alphabet]{:.full-width}
+  {:tag="figure"}
 
-- The word “Cyrodiil”
+- > ![Cyrodiil][cyrodiil]{:.light-only}
+  >
+  > The word “Cyrodiil”
+  >
+  > {:tag="figcaption"}
 
-  ![Cyrodiil][cyrodiil]{:.float-right .half-width}
+  {:tag="figure" .float-right .half-width}
 
   (Note: this provides an example of Orsimeris’ phonetic transliteration for
   words spelled in ways their language does not use. Literally, it reads
   SI-RO-DI-IL)
 
-- The “Holy Name of Gortwog”
+- > ![Holy Name of Gortwog][gortwog]{:.float-right .light-only}
+  >
+  > The “Holy Name of Gortwog”
+  >
+  > {:tag="figcaption"}
 
-  ![Holy Name of Gortwog][gortwog]{:.float-right .full-width}
+  {:tag="figure"}
 
   (Go-rt-w-og gro Na-go-r-m)
 
-- The Skyrim Strongholds
+- > ![Strongholds][strongholds]{:.light-only}
+  >
+  > {:tag="span"}
+  >
+  > The four Skyrim Strongholds
+  >
+  > {:tag="figcaption"}
 
-  ![Strongholds][strongholds]{:.float-right .half-width}
+  {:tag="figure" .float-right .half-width}
 
   - M-or Kh-a-zg-ur
   - Du-sh-n-ikh Y-a-l
   - Na-rz-ul-b-ur
   - L-a-rg-a-sh-b-ur
 
-<div class="clearfix"></div>
+[](){:tag="div" .clearfix}
 
-- “Child-of” indicator
+- > ![gro and gra][gro-gra]{:.light-only}
+  >
+  > {:tag="span"}
+  >
+  > “Child-of” indicator
+  >
+  > {:tag="figcaption"}
 
-  ![gro and gra][gro-gra]{:.float-right .half-width}
+  {:tag="figure" .float-right .half-width}
 
   Lastly, these symbols are used for the "gro-" and "gra-" in names. This is the
   only mainstream use of a triple glyph combination, and with two distinct
@@ -111,7 +135,13 @@ reasons of hubris. It is strange, then, that the Orcs adopted “Orsinium Novum�
 of the Cyrodiilic for the name of their new city, since Novum is _perfectly_
 rotationally symmetric.
 
-![Orsinium Novum][orsinium]{:.full-width}
+> ![Orsinium Novum][orsinium]{:.light-only}
+>
+> Orsinium Novum
+>
+> {:tag="figcaption"}
+
+{:tag="figure"}
 
 Perhaps it is a mixture of chance (alternating baselines are impossible to
 compress) and pride in their new-built city, which remains frustratingly

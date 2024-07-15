@@ -39,22 +39,14 @@ thoughts were ruled out by the second.
 Furthermore, let us review the Towers and Stones we know:
 
 - Ada-Mantia: Convention, the Impossipoint. Enabled.
-
 - Red Mountain: Heart of Lorkhan. Disabled (_Morrowind_).
-
 - Crystal-Like-Law: (A person) Disabled (offscreen).
-
 - Green-Sap: (A fruit) ?
-
 - Khajiit: Mane. Disabled (offscreen).
-
 - Orichalc: (A sword) Disabled (offscreen).
-
 - (anything in the Marsh?, ?, ?)
-
 - Walk-Brass: Heart of Lorkhan and/or the Mantella, both Disabled
   (_Daggerfall_).
-
 - White-Gold Tower: Chim-el Adabal, the Amulet of Kings. Disabled (_Oblivion_).
 
 I believe this to be a largely comprehensive list, but it is possible I have

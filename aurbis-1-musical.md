@@ -51,51 +51,39 @@ similar-yet-different gods.
 
 So our octave goes like this
 
-> **C** Mara
+> > **C** Mara
+>
+> {:.piano-key .aedra}
+>
+> > **D** Zenithar
+>
+> {:.piano-key .aedra}
+>
+> > **E** Arkay
+>
+> {:.piano-key .aedra}
+>
+> > **F** Kyne
+>
+> {:.piano-key .aedra}
+>
+> > **G** Stendarr
+>
+> {:.piano-key .aedra}
+>
+> > **A** Akatosh
+>
+> {:.piano-key .aedra}
+>
+> > **B** Julianos
+>
+> {:.piano-key .aedra}
+>
+> > **C** Dibella
+>
+> {:.piano-key .aedra}
 
-{:.piano-key .aedra}
-
-<!-- -->
-
-> **D** Zenithar
-
-{:.piano-key .aedra}
-
-<!-- -->
-
-> **E** Arkay
-
-{:.piano-key .aedra}
-
-<!-- -->
-
-> **F** Kyne
-
-{:.piano-key .aedra}
-
-<!-- -->
-
-> **G** Stendarr
-
-{:.piano-key .aedra}
-
-<!-- -->
-
-> **A** Akatosh
-
-{:.piano-key .aedra}
-
-<!-- -->
-
-> **B** Julianos
-
-{:.piano-key .aedra}
-
-<!-- -->
-
-> **C** Dibella
-
-{:.piano-key .aedra}
+{:tag="figure" .piano-keys}
 
 Why this ordering, you ask? I explained Mara/Dibella as C above, but let’s
 expand on this.
@@ -170,168 +158,124 @@ death. And so forth.
 For the purposes of this list, accidentals are left-associative. Thus, n♯♭ is n,
 raised one-half, lowered one-quarter.
 
-> > > **C** Mara
-
-{:.piano-key .aedra}
-
-<!-- -->
-
-> **C♯♭ / D♭♭** Namira
-
-{:.piano-key .daedra}
-
-<!-- -->
-
-> > **C♯ / D♭** Malacath
-
-{:.piano-key .daedra .cothot}
-
-<!-- -->
-
-> **C♯♯ / D♭♯** Vaermina
-
-{:.piano-key .daedra}
-
-<!-- -->
-
-> > > **D** Zenithar
-
-{:.piano-key .aedra}
-
-<!-- -->
-
-> **D♯♭ / E♭♭** Clavicus Vile
-
-{:.piano-key .daedra}
-
-<!-- -->
-
-> > **D♯ / E♭** Mehrunes Dagon
-
-{:.piano-key .daedra .cothot}
-
-<!-- -->
-
-> **D♯♯ / E♭♯** Peryite
-
-{:.piano-key .daedra}
-
-<!-- -->
-
-> > > **E** Arkay
-
-{:.piano-key .aedra}
-
-<!-- -->
-
-> > **E♯ / F♭** Azura
-
-{:.piano-key .daedra .cothot}
-
-<!-- -->
-
-> > > **F** Kyne
-
-{:.piano-key .aedra}
-
-<!-- -->
-
-> **F♯♭ / G♭♭** Meridia
-
-{:.piano-key .daedra}
-
-<!-- -->
-
-> > **F♯ / G♭** Molag Bal
-
-{:.piano-key .daedra .cothot}
-
-<!-- -->
-
-> **F♯♯ / G♭♯** Hircine
-
-{:.piano-key .daedra}
-
-<!-- -->
-
-> > > **G** Stendarr
-
-{:.piano-key .aedra}
-
-<!-- -->
-
-> **G♯♭ / A♭♭** Sanguine
-
-{:.piano-key .daedra}
-
-<!-- -->
-
-> > **G♯ / A♭** Boethiah
-
-{:.piano-key .daedra .cothot}
-
-<!-- -->
-
-> **G♯♯ / A♭♯** Nocturnal
-
-{:.piano-key .daedra}
-
-<!-- -->
-
-> > > **A** Akatosh
-
-{:.piano-key .aedra}
-
-<!-- -->
-
-> **A♯♭ / B♭♭** Hermaeus Mora
-
-{:.piano-key .daedra}
-
-<!-- -->
-
-> > **A♯ / B♭** Sheogorath
-
-{:.piano-key .daedra .cothot}
-
-<!-- -->
-
-> **A♯♯ / B♭♯** Jyggalag
-
-{:.piano-key .daedra}
-
-<!-- -->
-
-> > > **B** Julianos
-
-{:.piano-key .aedra}
-
-<!-- -->
-
-> > **B♯ / C♭** Mephala
-
-{:.piano-key .daedra .daedra .cothot}
-
-<!-- -->
-
-> > > **C** Dibella
-
-{:.piano-key .aedra .last}
-
-<!-- -->
+> > > > **C** Mara
+>
+> {:.piano-key .aedra}
+>
+> > **C♯♭ / D♭♭** Namira
+>
+> {:.piano-key .daedra}
+>
+> > > **C♯ / D♭** Malacath
+>
+> {:.piano-key .daedra .cothot}
+>
+> > **C♯♯ / D♭♯** Vaermina
+>
+> {:.piano-key .daedra}
+>
+> > > > **D** Zenithar
+>
+> {:.piano-key .aedra}
+>
+> > **D♯♭ / E♭♭** Clavicus Vile
+>
+> {:.piano-key .daedra}
+>
+> > > **D♯ / E♭** Mehrunes Dagon
+>
+> {:.piano-key .daedra .cothot}
+>
+> > **D♯♯ / E♭♯** Peryite
+>
+> {:.piano-key .daedra}
+>
+> > > > **E** Arkay
+>
+> {:.piano-key .aedra}
+>
+> > > **E♯ / F♭** Azura
+>
+> {:.piano-key .daedra .cothot}
+>
+> > > > **F** Kyne
+>
+> {:.piano-key .aedra}
+>
+> > **F♯♭ / G♭♭** Meridia
+>
+> {:.piano-key .daedra}
+>
+> > > **F♯ / G♭** Molag Bal
+>
+> {:.piano-key .daedra .cothot}
+>
+> > **F♯♯ / G♭♯** Hircine
+>
+> {:.piano-key .daedra}
+>
+> > > > **G** Stendarr
+>
+> {:.piano-key .aedra}
+>
+> > **G♯♭ / A♭♭** Sanguine
+>
+> {:.piano-key .daedra}
+>
+> > > **G♯ / A♭** Boethiah
+>
+> {:.piano-key .daedra .cothot}
+>
+> > **G♯♯ / A♭♯** Nocturnal
+>
+> {:.piano-key .daedra}
+>
+> > > > **A** Akatosh
+>
+> {:.piano-key .aedra}
+>
+> > **A♯♭ / B♭♭** Hermaeus Mora
+>
+> {:.piano-key .daedra}
+>
+> > > **A♯ / B♭** Sheogorath
+>
+> {:.piano-key .daedra .cothot}
+>
+> > **A♯♯ / B♭♯** Jyggalag
+>
+> {:.piano-key .daedra}
+>
+> > > > **B** Julianos
+>
+> {:.piano-key .aedra}
+>
+> > > **B♯ / C♭** Mephala
+>
+> {:.piano-key .daedra .daedra .cothot}
+>
+> > > > **C** Dibella
+>
+> {:.piano-key .aedra .last}
+
+{:tag="figure" .piano-keys}
 
 Incidentally, if one makes this list into a wheel, with Aedric overtones as the
 longest spokes, the 7 Prominent Daedra with spokes of middling length, and the
 ten remaining Princes as the shortest spokes, one gets this result:
 
-!["A wheel diagram of the Tones, centered on C"][wheel-tone-c]{:.full-width}
+> !["A wheel diagram of the Tones, centered on C"][wheel-tone-c]
+
+{:tag="figure"}
 
 However, if we rotate so that D is our top, the end result is reflectively
 symmetric. D Major is incidentally commonly called the Heavenly Key in the
 Western music canon, and having Work in such a subtly special place is rather
 fitting in my opinion.
 
-!["A wheel diagram of the Tones, centered on D"][wheel-tone-d]{:.full-width}
+> !["A wheel diagram of the Tones, centered on D"][wheel-tone-d]
+
+{:tag="figure"}
 
 ## Lorkhan
 
@@ -349,35 +293,27 @@ MK has stated that the Towers are like maestros, performing and conducting the
 Song of Creation. They can be compared to roles in an Orchestra, and I will do
 so here.
 
-<div id="outro"></div>
+[](){:tag="div" #outro}
 
 (Now play this music.)
 
 ### DIVINE
 
 - Ada-Mantia: Tuning Note of the Octave, the Conductor.
-
 - Red Mountain: Beat of the Song, the Percussion.
 
 ### MORTAL
 
 - White-Gold Tower: the Trumpets, proclaiming glory far and wide.
-
 - Crystal-Like-Law: the Flutes, structured yet elegant.
-
 - Green-Sap: the Strings, glorying in wood and gut and hair.
-
 - Snow-Throat: the Horns, a rich warbling sound, melodic and majestic without
   seizing attention.
-
 - Orichalc: the Trombones, deep and powerful and alien-yet-alike to the rest of
   the Orchestra.
-
 - Numidium: the Tubas, strong and dominant, punctuating the song with brassy
   power.
-
 - Khajiit: the Tuned Percussion, working with the Drums yet playing Tones.
-
 - Unknown: Unknown
 
 ---

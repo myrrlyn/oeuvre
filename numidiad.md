@@ -507,6 +507,7 @@ energy. His voice deep and commanding, Tiber intones:
 > DOVVE GAHVON Z3LLE D3 SAHROT KRONGAH TAAZOKAAN
 >
 > _Dragons! Yield your souls unto mine for mighty victory over Tamriel!_
+>
 > {:.translation data-lang="Dovah"}
 
 {:.special-font .dovah}
@@ -906,7 +907,9 @@ such is the nature of the imperfection of scar-healing.
 
 > AMATIVE T3DE FENT BO
 >
-> _Onward times shall flow_{:.translation data-lang="Dovah"}
+> _Onward times shall flow_
+>
+> {:.translation data-lang="Dovah"}
 
 {:.special-font .dovah title="Onward times shall flow"}
 

@@ -38,7 +38,7 @@ about: |
 
 {:tag="aside" .block-info}
 
-<div id="intro"></div>
+[](){:tag="div" #intro}
 
 Same soundtrack as the first one.
 
@@ -66,7 +66,9 @@ Now, some other resources:
   black, spokes are the Four Corners of the House of Troubles and the Three Good
   Daedra; the shortest, grey, spokes are the remaining Daedra.
 
-  ![Wheel of Gods and Tones][wheel-nocolor]{:.full-width}
+  > ![Wheel of Gods and Tones][wheel-nocolor]
+
+  {:tag="figure"}
 
 ## Theory
 
@@ -199,23 +201,26 @@ to chat about esoterica in our free time. `<MK>` is Michael Kirkbride.)
 
 Post-Script:
 
-| Date                 | Speaker | Message                                           |
-| :------------------- | :------ | :------------------------------------------------ |
-| 2013 Oct 18 00:26:34 | `<MK>`  | Can you see the admixture of color and sound yet? |
+> `2013 Oct 18 00:26:34 <MK>` Can you see the admixture of color and sound yet?
 
 That line is pretty much why I wrote this.
 
 Post-Post-Script:
 
-| Date                 | Speaker      | Message                                                                         |
-| :------------------- | :----------- | :------------------------------------------------------------------------------ |
-| 2013 Oct 30 06:16:49 | `<MK>`       | Dat thread about colors and sounds on reddit                                    |
-| 2013 Oct 30 06:17:09 | `<!numinit>` | That was myrrlyn. Man                                                           |
-| 2013 Oct 30 06:18:07 | `<MK>`       | mrlyyn did the lay up, that other dude slamdunked it doing airborned cartwheels |
-| 2013 Oct 30 06:18:19 | `<!numinit>` | this one? (link)                                                                |
-| 2013 Oct 30 06:18:25 | `<MK>`       | y                                                                               |
-| 2013 Oct 30 06:18:32 | `<!numinit>` | that was also myrrlyn                                                           |
-| 2013 Oct 30 06:18:47 | `<MK>`       | I don’t even                                                                    |
+> `2013 Oct 30 06:16:49 <MK>` Dat thread about colors and sounds on reddit
+>
+> `2013 Oct 30 06:17:09 <!numinit>` That was myrrlyn. Man
+>
+> `2013 Oct 30 06:18:07 <MK>` mrlyyn did the lay up, that other dude
+> slamdunked it doing airborned cartwheels
+>
+> `2013 Oct 30 06:18:19 <!numinit>` this one? (link)
+>
+> `2013 Oct 30 06:18:25 <MK>` y
+>
+> `2013 Oct 30 06:18:32 <!numinit>` that was also myrrlyn
+>
+> `2013 Oct 30 06:18:47 <MK>` I don’t even
 
 Those lines are DEFINITELY why I wrote these.
 
@@ -225,9 +230,7 @@ Discography:
   _Motion Picture_ (2007), by John Murphy
 - _It Is Accomplished_, track 20 on _Passion_ (1989), by Peter Gabriel
 
-[_Aurbis: The Musical_]: //myrrlyn.net/oeuvre/aurbis-1-musical
+[_Aurbis: The Musical_]: /oeuvre/aurbis-1-musical
 [sonochrome]: https://en.wikipedia.org/wiki/Sonochromatism
-[wheel-nocolor]:
-  //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=no-color&classes=no-swirl
-[wheel-color]:
-  //myrrlyn.net/oeuvre/images/tones.svg?key=d-major&color=cube-helix
+[wheel-nocolor]: /oeuvre/images/tones.svg?key=d-major&color=no-color&classes=no-swirl
+[wheel-color]: /oeuvre/images/tones.svg?key=d-major&color=cube-helix

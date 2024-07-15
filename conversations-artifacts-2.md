@@ -1,5 +1,6 @@
 ---
-title: "Conversations with Daedric Artifacts, Volume II: Volendrung and Scourge"
+title: Conversations with Daedric Artifacts
+subtitle: "Volume II: Volendrung and Scourge"
 banner: oblivion
 date: 2015-09-10T04:48:22-04:00
 reddit: 3kdfhd

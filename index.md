@@ -9,10 +9,10 @@ about: |
   perception of Tamriel is entirely up to you.
 ---
 
-I started writing in the *Elder Scrolls* universe in the fall of 2012, when I
+I started writing in the _Elder Scrolls_ universe in the fall of 2012, when I
 found a (now-defunct) “Tamriel Scholars’ Guild” roleplaying group on reddit.
 While this began as an exercise in community hangout and a very silly way to
-attempt a multi-player TES game (before *Elder Scrolls Online* was ever a
+attempt a multi-player TES game (before _Elder Scrolls Online_ was ever a
 thing), my inability to do things by halves soon meant that what began as
 brushing up on my character’s existence in the world soon turned into a much
 deeper interest.
@@ -43,8 +43,8 @@ This was a significant and meaningful part of my life during university. Even
 though it was relatively short, I really did pour my heart into my writing and
 my friends there. I hope you’ll enjoy these.
 
-[Compendium]: //old.reddit.com/r/teslore/w/archive
+[Compendium]: https://old.reddit.com/r/teslore/w/archive
 [Suggested Reading]: /old.reddit.com/r/teslore/w/suggestedreading
-[my section]: //old.reddit.com/r/teslore/wiki/compilationauthor#wiki_myrrlyn
-[/r/teslore]: //old.reddit.com/r/teslore
-[/u/numinit]: //old.reddit.com/u/numinit
+[my section]: https://old.reddit.com/r/teslore/wiki/compilationauthor#wiki_myrrlyn
+[/r/teslore]: https://old.reddit.com/r/teslore
+[/u/numinit]: https://old.reddit.com/u/numinit
