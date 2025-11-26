@@ -211,8 +211,8 @@ Post-Post-Script:
 >
 > `2013 Oct 30 06:17:09 <!numinit>` That was myrrlyn. Man
 >
-> `2013 Oct 30 06:18:07 <MK>` mrlyyn did the lay up, that other dude
-> slamdunked it doing airborned cartwheels
+> `2013 Oct 30 06:18:07 <MK>` mrlyyn did the lay up, that other dude slamdunked
+> it doing airborned cartwheels
 >
 > `2013 Oct 30 06:18:19 <!numinit>` this one? (link)
 >
