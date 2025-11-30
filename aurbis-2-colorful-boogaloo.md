@@ -21,7 +21,7 @@ about: |
   MK is actually color/sound synæsthetic, so having him find this piece
   acceptable was a huge relief. Me, I’m partially colorblind.
 
-  ---
+  ____
 
   I originally created the sketches for these posts in Paint.NET and annotated
   them by hand; as part of hosting them here, I have rebuilt the images in SVG

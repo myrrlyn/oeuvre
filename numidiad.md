@@ -762,9 +762,7 @@ second sun. It takes another step—
 
 [_—squish_][landfall]{:#landfall-squish}
 
-### Summurset
-
-{:.clearfix}
+### Summurset {:.clearfix}
 
 > It still seems impossible that the Starry Heart has seen not merely one, but
 > three events of such incredible potency that each has caused a calendar reset
